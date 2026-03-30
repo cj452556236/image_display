@@ -1,0 +1,20 @@
+{
+  "question_id": 3848225,
+  "question": "What kind of serving utensil is used to serve this pizza?",
+  "pred": "spatula",
+  "accuracy": 1.0,
+  "gt_answers": "spatula×6, tray×2, pan×2",
+  "gt_raw": [
+    "spatula",
+    "spatula",
+    "spatula",
+    "spatula",
+    "spatula",
+    "spatula",
+    "tray",
+    "tray",
+    "pan",
+    "pan"
+  ],
+  "num_crops": 1
+}

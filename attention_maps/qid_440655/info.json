@@ -1,0 +1,20 @@
+{
+  "question_id": 440655,
+  "question": "What are the baskets made of?",
+  "pred": "bamboo",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "wicker×4, wood×2, bamboo×2, reeds×2",
+  "gt_raw": [
+    "wicker",
+    "wicker",
+    "wicker",
+    "wicker",
+    "wood",
+    "wood",
+    "bamboo",
+    "bamboo",
+    "reeds",
+    "reeds"
+  ],
+  "num_crops": 1
+}

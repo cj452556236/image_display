@@ -1,0 +1,20 @@
+{
+  "question_id": 3086775,
+  "question": "What kind of sport is practiced is in this picture?",
+  "pred": "Mountain biking",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "bmx×4, biking×2, mountain biking×2, motor cross×2",
+  "gt_raw": [
+    "bmx",
+    "bmx",
+    "bmx",
+    "bmx",
+    "biking",
+    "biking",
+    "mountain biking",
+    "mountain biking",
+    "motor cross",
+    "motor cross"
+  ],
+  "num_crops": 0
+}

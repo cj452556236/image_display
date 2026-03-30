@@ -1,0 +1,20 @@
+{
+  "question_id": 2727385,
+  "question": "Was the person old or young?",
+  "pred": "young",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "old×8, young×2",
+  "gt_raw": [
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "young",
+    "young"
+  ],
+  "num_crops": 0
+}

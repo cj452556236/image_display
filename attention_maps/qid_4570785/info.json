@@ -1,0 +1,20 @@
+{
+  "question_id": 4570785,
+  "question": "How creepy is the decor in this room?",
+  "pred": "Creepy",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "very×6, super×2, creepy×2",
+  "gt_raw": [
+    "very",
+    "very",
+    "very",
+    "very",
+    "very",
+    "very",
+    "super",
+    "super",
+    "creepy",
+    "creepy"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 2940305,
+  "question": "What is the white cloud behind the jet called?",
+  "pred": "contrail",
+  "accuracy": 1.0,
+  "gt_answers": "contrail×4, cloud×2, contrails×2, supersonic wave×2",
+  "gt_raw": [
+    "contrail",
+    "contrail",
+    "contrail",
+    "contrail",
+    "cloud",
+    "cloud",
+    "contrails",
+    "contrails",
+    "supersonic wave",
+    "supersonic wave"
+  ],
+  "num_crops": 1
+}

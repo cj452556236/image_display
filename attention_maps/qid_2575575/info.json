@@ -1,0 +1,20 @@
+{
+  "question_id": 2575575,
+  "question": "In what sort of building would this vehicle be found?",
+  "pred": "warehouse",
+  "accuracy": 1.0,
+  "gt_answers": "warehouse×8, factory×2",
+  "gt_raw": [
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "warehouse",
+    "factory",
+    "factory"
+  ],
+  "num_crops": 0
+}

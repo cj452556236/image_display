@@ -1,0 +1,20 @@
+{
+  "question_id": 357265,
+  "question": "What waterway is this boat on?",
+  "pred": "canal",
+  "accuracy": 1.0,
+  "gt_answers": "canal×6, venice×2, river×2",
+  "gt_raw": [
+    "canal",
+    "canal",
+    "canal",
+    "canal",
+    "canal",
+    "canal",
+    "venice",
+    "venice",
+    "river",
+    "river"
+  ],
+  "num_crops": 1
+}

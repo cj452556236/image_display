@@ -1,0 +1,20 @@
+{
+  "question_id": 586475,
+  "question": "What animal tries to attack persons doing this activity?",
+  "pred": "shark",
+  "accuracy": 1.0,
+  "gt_answers": "shark×8, sharks×2",
+  "gt_raw": [
+    "shark",
+    "shark",
+    "shark",
+    "shark",
+    "shark",
+    "shark",
+    "shark",
+    "shark",
+    "sharks",
+    "sharks"
+  ],
+  "num_crops": 0
+}

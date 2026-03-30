@@ -1,0 +1,20 @@
+{
+  "question_id": 5807575,
+  "question": "What is the colorful object used for?",
+  "pred": "fire",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "putting out fires×4, water×4, fire×2",
+  "gt_raw": [
+    "putting out fires",
+    "putting out fires",
+    "putting out fires",
+    "putting out fires",
+    "water",
+    "water",
+    "water",
+    "water",
+    "fire",
+    "fire"
+  ],
+  "num_crops": 0
+}

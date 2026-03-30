@@ -1,0 +1,20 @@
+{
+  "question_id": 3334345,
+  "question": "What activities could you engage in at this place?",
+  "pred": "Swimming",
+  "accuracy": 1.0,
+  "gt_answers": "swimming×4, sunbathing×2, swim×2, swiming×2",
+  "gt_raw": [
+    "swimming",
+    "swimming",
+    "swimming",
+    "swimming",
+    "sunbathing",
+    "sunbathing",
+    "swim",
+    "swim",
+    "swiming",
+    "swiming"
+  ],
+  "num_crops": 0
+}

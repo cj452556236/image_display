@@ -1,0 +1,20 @@
+{
+  "question_id": 2434425,
+  "question": "What type of company is represented here?",
+  "pred": "catering",
+  "accuracy": 1.0,
+  "gt_answers": "catering×8, wedding×2",
+  "gt_raw": [
+    "catering",
+    "catering",
+    "catering",
+    "catering",
+    "catering",
+    "catering",
+    "catering",
+    "catering",
+    "wedding",
+    "wedding"
+  ],
+  "num_crops": 0
+}

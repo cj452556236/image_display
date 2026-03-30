@@ -1,0 +1,20 @@
+{
+  "question_id": 4258485,
+  "question": "What is brown on the plate?",
+  "pred": "steak",
+  "accuracy": 1.0,
+  "gt_answers": "steak×4, meat×4, potatoes×2",
+  "gt_raw": [
+    "steak",
+    "steak",
+    "steak",
+    "steak",
+    "meat",
+    "meat",
+    "meat",
+    "meat",
+    "potatoes",
+    "potatoes"
+  ],
+  "num_crops": 1
+}

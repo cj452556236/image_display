@@ -1,0 +1,20 @@
+{
+  "question_id": 4340895,
+  "question": "What is a male of this animal called?",
+  "pred": "ram",
+  "accuracy": 1.0,
+  "gt_answers": "ram×4, billy×2, steer×2, horned×2",
+  "gt_raw": [
+    "ram",
+    "ram",
+    "ram",
+    "ram",
+    "billy",
+    "billy",
+    "steer",
+    "steer",
+    "horned",
+    "horned"
+  ],
+  "num_crops": 1
+}

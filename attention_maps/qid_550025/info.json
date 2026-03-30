@@ -1,0 +1,20 @@
+{
+  "question_id": 550025,
+  "question": "Which type of metal is used for making this toilet?",
+  "pred": "stainless steel",
+  "accuracy": 1.0,
+  "gt_answers": "stainless steel×6, steel×4",
+  "gt_raw": [
+    "stainless steel",
+    "stainless steel",
+    "stainless steel",
+    "stainless steel",
+    "stainless steel",
+    "stainless steel",
+    "steel",
+    "steel",
+    "steel",
+    "steel"
+  ],
+  "num_crops": 1
+}

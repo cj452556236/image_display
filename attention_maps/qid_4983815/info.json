@@ -1,0 +1,20 @@
+{
+  "question_id": 4983815,
+  "question": "What food does this animal eat?",
+  "pred": "seeds",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "seed×2, worms×2, fish×2, seeds×2, leaves×2",
+  "gt_raw": [
+    "seed",
+    "seed",
+    "worms",
+    "worms",
+    "fish",
+    "fish",
+    "seeds",
+    "seeds",
+    "leaves",
+    "leaves"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5785915,
+  "question": "What type of fuel do jets use?",
+  "pred": "jet fuel",
+  "accuracy": 1.0,
+  "gt_answers": "jet fuel×4, jetfuel×2, diesal×2, gasoline×2",
+  "gt_raw": [
+    "jet fuel",
+    "jet fuel",
+    "jet fuel",
+    "jet fuel",
+    "jetfuel",
+    "jetfuel",
+    "diesal",
+    "diesal",
+    "gasoline",
+    "gasoline"
+  ],
+  "num_crops": 1
+}

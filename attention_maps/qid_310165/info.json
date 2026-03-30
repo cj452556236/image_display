@@ -1,0 +1,20 @@
+{
+  "question_id": 310165,
+  "question": "The picture on the laptop is called a what?",
+  "pred": "wallpaper",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "background×4, wallpaper×2, landscape×2, desktop×2",
+  "gt_raw": [
+    "background",
+    "background",
+    "background",
+    "background",
+    "wallpaper",
+    "wallpaper",
+    "landscape",
+    "landscape",
+    "desktop",
+    "desktop"
+  ],
+  "num_crops": 1
+}

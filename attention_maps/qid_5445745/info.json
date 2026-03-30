@@ -1,0 +1,20 @@
+{
+  "question_id": 5445745,
+  "question": "What causes these waves?",
+  "pred": "Wind",
+  "accuracy": 1.0,
+  "gt_answers": "tides×4, wind×4, gravity×2",
+  "gt_raw": [
+    "tides",
+    "tides",
+    "tides",
+    "tides",
+    "wind",
+    "wind",
+    "wind",
+    "wind",
+    "gravity",
+    "gravity"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 2029265,
+  "question": "What types of birds are those present?",
+  "pred": "seagulls",
+  "accuracy": 1.0,
+  "gt_answers": "pelicans×6, seagulls×4",
+  "gt_raw": [
+    "pelicans",
+    "pelicans",
+    "pelicans",
+    "pelicans",
+    "pelicans",
+    "pelicans",
+    "seagulls",
+    "seagulls",
+    "seagulls",
+    "seagulls"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 4091165,
+  "question": "Why might someone need to be in the place of this photo?",
+  "pred": "sick",
+  "accuracy": 1.0,
+  "gt_answers": "sick×6, sickness×2, they are sick×2",
+  "gt_raw": [
+    "sick",
+    "sick",
+    "sick",
+    "sick",
+    "sick",
+    "sick",
+    "sickness",
+    "sickness",
+    "they are sick",
+    "they are sick"
+  ],
+  "num_crops": 0
+}

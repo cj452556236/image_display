@@ -1,0 +1,20 @@
+{
+  "question_id": 5577095,
+  "question": "If the player misses the ball in the pictured game it is called what?",
+  "pred": "strike",
+  "accuracy": 1.0,
+  "gt_answers": "strike×8, error×2",
+  "gt_raw": [
+    "strike",
+    "strike",
+    "strike",
+    "strike",
+    "strike",
+    "strike",
+    "strike",
+    "strike",
+    "error",
+    "error"
+  ],
+  "num_crops": 1
+}

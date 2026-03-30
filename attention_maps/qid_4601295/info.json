@@ -1,0 +1,20 @@
+{
+  "question_id": 4601295,
+  "question": "What profession is the man in the picture?",
+  "pred": "cowboy",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "rancher×4, cowboy×2, farmer×2, cattleman×2",
+  "gt_raw": [
+    "rancher",
+    "rancher",
+    "rancher",
+    "rancher",
+    "cowboy",
+    "cowboy",
+    "farmer",
+    "farmer",
+    "cattleman",
+    "cattleman"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3946595,
+  "question": "What is the item with the burners and knobs?",
+  "pred": "stove",
+  "accuracy": 1.0,
+  "gt_answers": "stove×10",
+  "gt_raw": [
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove",
+    "stove"
+  ],
+  "num_crops": 1
+}

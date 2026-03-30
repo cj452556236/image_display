@@ -1,0 +1,20 @@
+{
+  "question_id": 418675,
+  "question": "What kind of bird is this?",
+  "pred": "myna",
+  "accuracy": 1.0,
+  "gt_answers": "myna×4, cardinal×2, yellowcheek×2, brown×2",
+  "gt_raw": [
+    "myna",
+    "myna",
+    "myna",
+    "myna",
+    "cardinal",
+    "cardinal",
+    "yellowcheek",
+    "yellowcheek",
+    "brown",
+    "brown"
+  ],
+  "num_crops": 1
+}

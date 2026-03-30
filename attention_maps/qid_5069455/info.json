@@ -1,0 +1,20 @@
+{
+  "question_id": 5069455,
+  "question": "What is the term for the effect used in this photo?",
+  "pred": "fisheye",
+  "accuracy": 1.0,
+  "gt_answers": "fisheye×4, reflection×2, zoom×2, wide angle×2",
+  "gt_raw": [
+    "fisheye",
+    "fisheye",
+    "fisheye",
+    "fisheye",
+    "reflection",
+    "reflection",
+    "zoom",
+    "zoom",
+    "wide angle",
+    "wide angle"
+  ],
+  "num_crops": 1
+}

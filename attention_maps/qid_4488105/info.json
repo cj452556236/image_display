@@ -1,0 +1,20 @@
+{
+  "question_id": 4488105,
+  "question": "What kind of sign is this?",
+  "pred": "street",
+  "accuracy": 1.0,
+  "gt_answers": "street sign×4, street×4, road×2",
+  "gt_raw": [
+    "street sign",
+    "street sign",
+    "street sign",
+    "street sign",
+    "street",
+    "street",
+    "street",
+    "street",
+    "road",
+    "road"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3045575,
+  "question": "Why might someone go to this place?",
+  "pred": "shop",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "shopping×4, nyc×2, shop×2, business×2",
+  "gt_raw": [
+    "shopping",
+    "shopping",
+    "shopping",
+    "shopping",
+    "nyc",
+    "nyc",
+    "shop",
+    "shop",
+    "business",
+    "business"
+  ],
+  "num_crops": 0
+}

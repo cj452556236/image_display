@@ -1,0 +1,20 @@
+{
+  "question_id": 2597615,
+  "question": "What fills the balloons?",
+  "pred": "helium",
+  "accuracy": 1.0,
+  "gt_answers": "helium×10",
+  "gt_raw": [
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium",
+    "helium"
+  ],
+  "num_crops": 1
+}

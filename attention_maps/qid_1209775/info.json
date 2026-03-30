@@ -1,0 +1,20 @@
+{
+  "question_id": 1209775,
+  "question": "What type of architecture is shown in these buildings?",
+  "pred": "Baroque",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "gothic×4, towers×2, baroque×2, domes×2",
+  "gt_raw": [
+    "gothic",
+    "gothic",
+    "gothic",
+    "gothic",
+    "towers",
+    "towers",
+    "baroque",
+    "baroque",
+    "domes",
+    "domes"
+  ],
+  "num_crops": 1
+}

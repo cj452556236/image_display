@@ -1,0 +1,20 @@
+{
+  "question_id": 5474935,
+  "question": "What type of dinnerware is the food on?",
+  "pred": "plate",
+  "accuracy": 1.0,
+  "gt_answers": "plate×10",
+  "gt_raw": [
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate",
+    "plate"
+  ],
+  "num_crops": 1
+}

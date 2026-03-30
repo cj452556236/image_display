@@ -1,0 +1,20 @@
+{
+  "question_id": 5361835,
+  "question": "What food is this?",
+  "pred": "Stir-fry",
+  "accuracy": 1.0,
+  "gt_answers": "stew×4, stir fry×2, soup×2, stirfry×2",
+  "gt_raw": [
+    "stew",
+    "stew",
+    "stew",
+    "stew",
+    "stir fry",
+    "stir fry",
+    "soup",
+    "soup",
+    "stirfry",
+    "stirfry"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 1428155,
+  "question": "The man in the orange shirt has a device what is this device used for?",
+  "pred": "camera",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "video×4, photography×2, filming×2, camera×2",
+  "gt_raw": [
+    "video",
+    "video",
+    "video",
+    "video",
+    "photography",
+    "photography",
+    "filming",
+    "filming",
+    "camera",
+    "camera"
+  ],
+  "num_crops": 0
+}

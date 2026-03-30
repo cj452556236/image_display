@@ -1,0 +1,20 @@
+{
+  "question_id": 1115485,
+  "question": "What tooth is named after this type of animal?",
+  "pred": "canine",
+  "accuracy": 1.0,
+  "gt_answers": "canine×6, cainine×2, k9×2",
+  "gt_raw": [
+    "canine",
+    "canine",
+    "canine",
+    "canine",
+    "canine",
+    "canine",
+    "cainine",
+    "cainine",
+    "k9",
+    "k9"
+  ],
+  "num_crops": 1
+}

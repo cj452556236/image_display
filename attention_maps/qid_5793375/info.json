@@ -1,0 +1,20 @@
+{
+  "question_id": 5793375,
+  "question": "What is in the woman's hand?",
+  "pred": "racket",
+  "accuracy": 1.0,
+  "gt_answers": "racket×8, raquet×2",
+  "gt_raw": [
+    "racket",
+    "racket",
+    "racket",
+    "racket",
+    "racket",
+    "racket",
+    "racket",
+    "racket",
+    "raquet",
+    "raquet"
+  ],
+  "num_crops": 1
+}

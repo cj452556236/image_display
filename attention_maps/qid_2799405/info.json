@@ -1,0 +1,20 @@
+{
+  "question_id": 2799405,
+  "question": "What type of skateboard trick can be performed on that black structure?",
+  "pred": "grind",
+  "accuracy": 1.0,
+  "gt_answers": "grind×6, rail slide×2, coasting×2",
+  "gt_raw": [
+    "grind",
+    "grind",
+    "grind",
+    "grind",
+    "grind",
+    "grind",
+    "rail slide",
+    "rail slide",
+    "coasting",
+    "coasting"
+  ],
+  "num_crops": 1
+}

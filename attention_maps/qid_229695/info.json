@@ -1,0 +1,20 @@
+{
+  "question_id": 229695,
+  "question": "What mammal do you see?",
+  "pred": "giraffe",
+  "accuracy": 1.0,
+  "gt_answers": "giraffe×8, girraffe×2",
+  "gt_raw": [
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "giraffe",
+    "girraffe",
+    "girraffe"
+  ],
+  "num_crops": 0
+}

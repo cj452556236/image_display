@@ -1,0 +1,20 @@
+{
+  "question_id": 505145,
+  "question": "What fruit comes from these trees?",
+  "pred": "coconut",
+  "accuracy": 1.0,
+  "gt_answers": "coconut×6, pineapples×2, banana×2",
+  "gt_raw": [
+    "coconut",
+    "coconut",
+    "coconut",
+    "coconut",
+    "coconut",
+    "coconut",
+    "pineapples",
+    "pineapples",
+    "banana",
+    "banana"
+  ],
+  "num_crops": 0
+}

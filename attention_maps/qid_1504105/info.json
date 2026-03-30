@@ -1,0 +1,20 @@
+{
+  "question_id": 1504105,
+  "question": "What kind of fuel does this toy use?",
+  "pred": "gasoline",
+  "accuracy": 1.0,
+  "gt_answers": "gasoline×4, batteries×2, gas×2, energy×2",
+  "gt_raw": [
+    "gasoline",
+    "gasoline",
+    "gasoline",
+    "gasoline",
+    "batteries",
+    "batteries",
+    "gas",
+    "gas",
+    "energy",
+    "energy"
+  ],
+  "num_crops": 1
+}

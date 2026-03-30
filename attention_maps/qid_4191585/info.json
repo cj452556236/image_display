@@ -1,0 +1,20 @@
+{
+  "question_id": 4191585,
+  "question": "What type of cellphone are both women using?",
+  "pred": "flip",
+  "accuracy": 1.0,
+  "gt_answers": "flip phone×6, flip×4",
+  "gt_raw": [
+    "flip phone",
+    "flip phone",
+    "flip phone",
+    "flip phone",
+    "flip phone",
+    "flip phone",
+    "flip",
+    "flip",
+    "flip",
+    "flip"
+  ],
+  "num_crops": 1
+}

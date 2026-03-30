@@ -1,0 +1,20 @@
+{
+  "question_id": 4903385,
+  "question": "What city is shown?",
+  "pred": "Tokyo",
+  "accuracy": 1.0,
+  "gt_answers": "tokyo×8, taiwan×2",
+  "gt_raw": [
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "tokyo",
+    "taiwan",
+    "taiwan"
+  ],
+  "num_crops": 1
+}

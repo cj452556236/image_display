@@ -1,0 +1,20 @@
+{
+  "question_id": 1994425,
+  "question": "The body hugging garment seen here is called a what?",
+  "pred": "wetsuit",
+  "accuracy": 1.0,
+  "gt_answers": "wetsuit×8, wet suit×2",
+  "gt_raw": [
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wet suit",
+    "wet suit"
+  ],
+  "num_crops": 0
+}

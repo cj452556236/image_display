@@ -1,0 +1,20 @@
+{
+  "question_id": 3804595,
+  "question": "What flavor is this pastry?",
+  "pred": "cream cheese",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "blueberry×4, cream cheese×2, chocolate×2, strawberry×2",
+  "gt_raw": [
+    "blueberry",
+    "blueberry",
+    "blueberry",
+    "blueberry",
+    "cream cheese",
+    "cream cheese",
+    "chocolate",
+    "chocolate",
+    "strawberry",
+    "strawberry"
+  ],
+  "num_crops": 1
+}

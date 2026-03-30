@@ -1,0 +1,20 @@
+{
+  "question_id": 949225,
+  "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+  "pred": "mouth",
+  "accuracy": 1.0,
+  "gt_answers": "mouth×10",
+  "gt_raw": [
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth"
+  ],
+  "num_crops": 1
+}

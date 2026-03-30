@@ -1,0 +1,20 @@
+{
+  "question_id": 3087645,
+  "question": "Is this bird diurnal or nocturnal?",
+  "pred": "nocturnal",
+  "accuracy": 1.0,
+  "gt_answers": "nocturnal×10",
+  "gt_raw": [
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal",
+    "nocturnal"
+  ],
+  "num_crops": 0
+}

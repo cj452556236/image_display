@@ -1,0 +1,20 @@
+{
+  "question_id": 5144685,
+  "question": "What is the name of the board he is on?",
+  "pred": "surfboard",
+  "accuracy": 1.0,
+  "gt_answers": "surf board×4, surfboard×4, surf×2",
+  "gt_raw": [
+    "surf board",
+    "surf board",
+    "surf board",
+    "surf board",
+    "surfboard",
+    "surfboard",
+    "surfboard",
+    "surfboard",
+    "surf",
+    "surf"
+  ],
+  "num_crops": 0
+}

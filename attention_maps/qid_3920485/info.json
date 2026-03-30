@@ -1,0 +1,20 @@
+{
+  "question_id": 3920485,
+  "question": "What day of the week is it?",
+  "pred": "Sunday",
+  "accuracy": 1.0,
+  "gt_answers": "sunday×10",
+  "gt_raw": [
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday",
+    "sunday"
+  ],
+  "num_crops": 0
+}

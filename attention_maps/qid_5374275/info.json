@@ -1,0 +1,20 @@
+{
+  "question_id": 5374275,
+  "question": "What cartoon is on the side of the plane?",
+  "pred": "Hello Kitty",
+  "accuracy": 1.0,
+  "gt_answers": "hello kitty×6, bart simpson×2, mickey mouse×2",
+  "gt_raw": [
+    "hello kitty",
+    "hello kitty",
+    "hello kitty",
+    "hello kitty",
+    "hello kitty",
+    "hello kitty",
+    "bart simpson",
+    "bart simpson",
+    "mickey mouse",
+    "mickey mouse"
+  ],
+  "num_crops": 1
+}

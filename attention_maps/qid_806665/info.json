@@ -1,0 +1,20 @@
+{
+  "question_id": 806665,
+  "question": "Where can you buy this pet?",
+  "pred": "pet store",
+  "accuracy": 1.0,
+  "gt_answers": "pet store×8, shelter×2",
+  "gt_raw": [
+    "pet store",
+    "pet store",
+    "pet store",
+    "pet store",
+    "pet store",
+    "pet store",
+    "pet store",
+    "pet store",
+    "shelter",
+    "shelter"
+  ],
+  "num_crops": 1
+}

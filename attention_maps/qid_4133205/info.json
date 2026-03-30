@@ -1,0 +1,20 @@
+{
+  "question_id": 4133205,
+  "question": "What animal is this boat mimicing?",
+  "pred": "duck",
+  "accuracy": 1.0,
+  "gt_answers": "duck×6, goose×2, swan×2",
+  "gt_raw": [
+    "duck",
+    "duck",
+    "duck",
+    "duck",
+    "duck",
+    "duck",
+    "goose",
+    "goose",
+    "swan",
+    "swan"
+  ],
+  "num_crops": 1
+}

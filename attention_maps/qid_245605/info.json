@@ -1,0 +1,20 @@
+{
+  "question_id": 245605,
+  "question": "Where is this picture taken from?",
+  "pred": "space",
+  "accuracy": 1.0,
+  "gt_answers": "space×6, outer space×4",
+  "gt_raw": [
+    "space",
+    "space",
+    "space",
+    "space",
+    "space",
+    "space",
+    "outer space",
+    "outer space",
+    "outer space",
+    "outer space"
+  ],
+  "num_crops": 0
+}

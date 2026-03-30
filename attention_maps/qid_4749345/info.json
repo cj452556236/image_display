@@ -1,0 +1,20 @@
+{
+  "question_id": 4749345,
+  "question": "What is the type of ground the horses are riding on?",
+  "pred": "sand",
+  "accuracy": 1.0,
+  "gt_answers": "sand×8, beach×2",
+  "gt_raw": [
+    "sand",
+    "sand",
+    "sand",
+    "sand",
+    "sand",
+    "sand",
+    "sand",
+    "sand",
+    "beach",
+    "beach"
+  ],
+  "num_crops": 1
+}

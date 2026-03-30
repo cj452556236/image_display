@@ -1,0 +1,20 @@
+{
+  "question_id": 381185,
+  "question": "What is the name of the hand held equipment being used?",
+  "pred": "ski poles",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "ski pole×2, canes×2, rod×2, ski poles×2, poles×2",
+  "gt_raw": [
+    "ski pole",
+    "ski pole",
+    "canes",
+    "canes",
+    "rod",
+    "rod",
+    "ski poles",
+    "ski poles",
+    "poles",
+    "poles"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3798425,
+  "question": "What is the cartoon character's name who is wearing the red hat?",
+  "pred": "Mario",
+  "accuracy": 1.0,
+  "gt_answers": "mario×10",
+  "gt_raw": [
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario",
+    "mario"
+  ],
+  "num_crops": 0
+}

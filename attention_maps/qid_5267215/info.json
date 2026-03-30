@@ -1,0 +1,20 @@
+{
+  "question_id": 5267215,
+  "question": "Is this animal a carnivore herbivore or omnivore?",
+  "pred": "carnivore",
+  "accuracy": 1.0,
+  "gt_answers": "carnivore×8, omnivore×2",
+  "gt_raw": [
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "carnivore",
+    "omnivore",
+    "omnivore"
+  ],
+  "num_crops": 0
+}

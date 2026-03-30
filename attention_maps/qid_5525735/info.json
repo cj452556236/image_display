@@ -1,0 +1,20 @@
+{
+  "question_id": 5525735,
+  "question": "What knocked the guy off his chair?",
+  "pred": "water",
+  "accuracy": 1.0,
+  "gt_answers": "wave×6, water×4",
+  "gt_raw": [
+    "wave",
+    "wave",
+    "wave",
+    "wave",
+    "wave",
+    "wave",
+    "water",
+    "water",
+    "water",
+    "water"
+  ],
+  "num_crops": 0
+}

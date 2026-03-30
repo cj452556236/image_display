@@ -1,0 +1,20 @@
+{
+  "question_id": 3151915,
+  "question": "What is behind the plane?",
+  "pred": "smoke",
+  "accuracy": 1.0,
+  "gt_answers": "smoke×4, blue skies×2, contrail×2, exhaust×2",
+  "gt_raw": [
+    "smoke",
+    "smoke",
+    "smoke",
+    "smoke",
+    "blue skies",
+    "blue skies",
+    "contrail",
+    "contrail",
+    "exhaust",
+    "exhaust"
+  ],
+  "num_crops": 1
+}

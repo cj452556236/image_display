@@ -1,0 +1,20 @@
+{
+  "question_id": 736345,
+  "question": "This is a modern plane that was originally inspired by what two brothers?",
+  "pred": "Wright",
+  "accuracy": 1.0,
+  "gt_answers": "wright×6, wright brothers×2, write×2",
+  "gt_raw": [
+    "wright",
+    "wright",
+    "wright",
+    "wright",
+    "wright",
+    "wright",
+    "wright brothers",
+    "wright brothers",
+    "write",
+    "write"
+  ],
+  "num_crops": 1
+}

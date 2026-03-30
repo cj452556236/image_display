@@ -1,0 +1,20 @@
+{
+  "question_id": 1610475,
+  "question": "What kind of beverage could one make with the item on top of the stove?",
+  "pred": "tea",
+  "accuracy": 1.0,
+  "gt_answers": "tea×10",
+  "gt_raw": [
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea",
+    "tea"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3832295,
+  "question": "What sport is this?",
+  "pred": "horse racing",
+  "accuracy": 1.0,
+  "gt_answers": "horse racing×6, horseracing×2, racing×2",
+  "gt_raw": [
+    "horse racing",
+    "horse racing",
+    "horse racing",
+    "horse racing",
+    "horse racing",
+    "horse racing",
+    "horseracing",
+    "horseracing",
+    "racing",
+    "racing"
+  ],
+  "num_crops": 0
+}

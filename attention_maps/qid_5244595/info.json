@@ -1,0 +1,20 @@
+{
+  "question_id": 5244595,
+  "question": "What kind of beverage is the poster on the left referring to?",
+  "pred": "beer",
+  "accuracy": 1.0,
+  "gt_answers": "guinness×4, beer×4, soda×2",
+  "gt_raw": [
+    "guinness",
+    "guinness",
+    "guinness",
+    "guinness",
+    "beer",
+    "beer",
+    "beer",
+    "beer",
+    "soda",
+    "soda"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 1050405,
+  "question": "Is this fruit or veggies?",
+  "pred": "veggies",
+  "accuracy": 1.0,
+  "gt_answers": "veggies×4, vegetable×2, veeggies×2, veggie×2",
+  "gt_raw": [
+    "veggies",
+    "veggies",
+    "veggies",
+    "veggies",
+    "vegetable",
+    "vegetable",
+    "veeggies",
+    "veeggies",
+    "veggie",
+    "veggie"
+  ],
+  "num_crops": 1
+}

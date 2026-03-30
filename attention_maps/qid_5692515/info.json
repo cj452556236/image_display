@@ -1,0 +1,20 @@
+{
+  "question_id": 5692515,
+  "question": "What kind of instrument is on the refrigerator?",
+  "pred": "violin",
+  "accuracy": 1.0,
+  "gt_answers": "violin×8, guitar×2",
+  "gt_raw": [
+    "violin",
+    "violin",
+    "violin",
+    "violin",
+    "violin",
+    "violin",
+    "violin",
+    "violin",
+    "guitar",
+    "guitar"
+  ],
+  "num_crops": 1
+}

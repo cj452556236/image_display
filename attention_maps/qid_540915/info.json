@@ -1,0 +1,20 @@
+{
+  "question_id": 540915,
+  "question": "Is the person in this picture sad mad or glad?",
+  "pred": "glad",
+  "accuracy": 1.0,
+  "gt_answers": "glad×6, mad×2, sad×2",
+  "gt_raw": [
+    "glad",
+    "glad",
+    "glad",
+    "glad",
+    "glad",
+    "glad",
+    "mad",
+    "mad",
+    "sad",
+    "sad"
+  ],
+  "num_crops": 1
+}

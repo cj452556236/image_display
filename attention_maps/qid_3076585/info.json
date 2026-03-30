@@ -1,0 +1,20 @@
+{
+  "question_id": 3076585,
+  "question": "What type of bear is this?",
+  "pred": "brown",
+  "accuracy": 1.0,
+  "gt_answers": "grizzly×4, brown×4, grizzly bear×2",
+  "gt_raw": [
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "brown",
+    "brown",
+    "brown",
+    "brown",
+    "grizzly bear",
+    "grizzly bear"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 2994095,
+  "question": "What will not happen after this?",
+  "pred": "road work",
+  "accuracy": 1.0,
+  "gt_answers": "road work×6, traffic jam×2, roadwork×2",
+  "gt_raw": [
+    "road work",
+    "road work",
+    "road work",
+    "road work",
+    "road work",
+    "road work",
+    "traffic jam",
+    "traffic jam",
+    "roadwork",
+    "roadwork"
+  ],
+  "num_crops": 0
+}

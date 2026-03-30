@@ -1,0 +1,20 @@
+{
+  "question_id": 4359575,
+  "question": "What kind of stuffed toy is in the picture?",
+  "pred": "teddy bear",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "bear×8, teddy bear×2",
+  "gt_raw": [
+    "bear",
+    "bear",
+    "bear",
+    "bear",
+    "bear",
+    "bear",
+    "bear",
+    "bear",
+    "teddy bear",
+    "teddy bear"
+  ],
+  "num_crops": 0
+}

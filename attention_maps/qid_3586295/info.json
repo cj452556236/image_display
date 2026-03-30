@@ -1,0 +1,20 @@
+{
+  "question_id": 3586295,
+  "question": "What style of restaurant is this kitchen a part of?",
+  "pred": "fast-food",
+  "accuracy": 1.0,
+  "gt_answers": "fast food×6, ice cream parlor×2, restaurant×2",
+  "gt_raw": [
+    "fast food",
+    "fast food",
+    "fast food",
+    "fast food",
+    "fast food",
+    "fast food",
+    "ice cream parlor",
+    "ice cream parlor",
+    "restaurant",
+    "restaurant"
+  ],
+  "num_crops": 0
+}

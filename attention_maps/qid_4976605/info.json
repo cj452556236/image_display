@@ -1,0 +1,20 @@
+{
+  "question_id": 4976605,
+  "question": "What is the horsepower of the truck pulling the load?",
+  "pred": "510",
+  "accuracy": 1.0,
+  "gt_answers": "510×6, 420×2, 500×2",
+  "gt_raw": [
+    "510",
+    "510",
+    "510",
+    "510",
+    "510",
+    "510",
+    "420",
+    "420",
+    "500",
+    "500"
+  ],
+  "num_crops": 1
+}

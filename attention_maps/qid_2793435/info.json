@@ -1,0 +1,20 @@
+{
+  "question_id": 2793435,
+  "question": "What is the primary purpose of the vehicles in this image?",
+  "pred": "fly",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "flying×4, defense×2, sightseeing×2, fly×2",
+  "gt_raw": [
+    "flying",
+    "flying",
+    "flying",
+    "flying",
+    "defense",
+    "defense",
+    "sightseeing",
+    "sightseeing",
+    "fly",
+    "fly"
+  ],
+  "num_crops": 0
+}

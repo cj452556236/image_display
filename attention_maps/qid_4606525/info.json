@@ -1,0 +1,20 @@
+{
+  "question_id": 4606525,
+  "question": "What is this light used for?",
+  "pred": "traffic",
+  "accuracy": 1.0,
+  "gt_answers": "traffic×6, coordinating traffic×2, controlling traffic×2",
+  "gt_raw": [
+    "traffic",
+    "traffic",
+    "traffic",
+    "traffic",
+    "traffic",
+    "traffic",
+    "coordinating traffic",
+    "coordinating traffic",
+    "controlling traffic",
+    "controlling traffic"
+  ],
+  "num_crops": 1
+}

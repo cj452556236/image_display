@@ -1,0 +1,20 @@
+{
+  "question_id": 3434245,
+  "question": "What plant is shown in the art on the wall?",
+  "pred": "cactus",
+  "accuracy": 1.0,
+  "gt_answers": "cactus×8, rose×2",
+  "gt_raw": [
+    "cactus",
+    "cactus",
+    "cactus",
+    "cactus",
+    "cactus",
+    "cactus",
+    "cactus",
+    "cactus",
+    "rose",
+    "rose"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5742565,
+  "question": "What kind of bird is this?",
+  "pred": "hawk",
+  "accuracy": 1.0,
+  "gt_answers": "hawk×6, eagle×2, halk×2",
+  "gt_raw": [
+    "hawk",
+    "hawk",
+    "hawk",
+    "hawk",
+    "hawk",
+    "hawk",
+    "eagle",
+    "eagle",
+    "halk",
+    "halk"
+  ],
+  "num_crops": 1
+}

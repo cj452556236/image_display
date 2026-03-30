@@ -1,0 +1,20 @@
+{
+  "question_id": 1631185,
+  "question": "What other professional sport is famous for requiring leaps such as that seen here?",
+  "pred": "basketball",
+  "accuracy": 1.0,
+  "gt_answers": "basketball×10",
+  "gt_raw": [
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball",
+    "basketball"
+  ],
+  "num_crops": 0
+}

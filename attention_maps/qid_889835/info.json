@@ -1,0 +1,20 @@
+{
+  "question_id": 889835,
+  "question": "What electronic device is being featured in this photo?",
+  "pred": "remote",
+  "accuracy": 1.0,
+  "gt_answers": "remote×6, sony tv controller×2, television and remote×2",
+  "gt_raw": [
+    "remote",
+    "remote",
+    "remote",
+    "remote",
+    "remote",
+    "remote",
+    "sony tv controller",
+    "sony tv controller",
+    "television and remote",
+    "television and remote"
+  ],
+  "num_crops": 1
+}

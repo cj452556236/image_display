@@ -1,0 +1,20 @@
+{
+  "question_id": 1726865,
+  "question": "What type of food is this?",
+  "pred": "oranges",
+  "accuracy": 1.0,
+  "gt_answers": "oranges×4, orange×4, fruit×2",
+  "gt_raw": [
+    "oranges",
+    "oranges",
+    "oranges",
+    "oranges",
+    "orange",
+    "orange",
+    "orange",
+    "orange",
+    "fruit",
+    "fruit"
+  ],
+  "num_crops": 0
+}

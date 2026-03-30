@@ -1,0 +1,20 @@
+{
+  "question_id": 4246685,
+  "question": "What type of person would you call if this happened in your house?",
+  "pred": "Plumber",
+  "accuracy": 1.0,
+  "gt_answers": "plumber×8, dirty×2",
+  "gt_raw": [
+    "plumber",
+    "plumber",
+    "plumber",
+    "plumber",
+    "plumber",
+    "plumber",
+    "plumber",
+    "plumber",
+    "dirty",
+    "dirty"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3123855,
+  "question": "What animal do you have to watch out for when doing this sport?",
+  "pred": "Shark",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "sharks×6, wave×2, shark×2",
+  "gt_raw": [
+    "sharks",
+    "sharks",
+    "sharks",
+    "sharks",
+    "sharks",
+    "sharks",
+    "wave",
+    "wave",
+    "shark",
+    "shark"
+  ],
+  "num_crops": 0
+}

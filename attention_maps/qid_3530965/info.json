@@ -1,0 +1,20 @@
+{
+  "question_id": 3530965,
+  "question": "Does this computer have a corded or cordless mouse?",
+  "pred": "cordless",
+  "accuracy": 1.0,
+  "gt_answers": "cordless×10",
+  "gt_raw": [
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless",
+    "cordless"
+  ],
+  "num_crops": 1
+}

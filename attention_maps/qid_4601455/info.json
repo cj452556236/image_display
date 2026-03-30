@@ -1,0 +1,20 @@
+{
+  "question_id": 4601455,
+  "question": "What kinds of clouds are those?",
+  "pred": "cumulus",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "cirrus×6, whispy×2, cumulus×2",
+  "gt_raw": [
+    "cirrus",
+    "cirrus",
+    "cirrus",
+    "cirrus",
+    "cirrus",
+    "cirrus",
+    "whispy",
+    "whispy",
+    "cumulus",
+    "cumulus"
+  ],
+  "num_crops": 1
+}

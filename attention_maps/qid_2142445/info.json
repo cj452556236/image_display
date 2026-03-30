@@ -1,0 +1,20 @@
+{
+  "question_id": 2142445,
+  "question": "What are the two items that this athlete has in either hand?",
+  "pred": "ski poles",
+  "accuracy": 1.0,
+  "gt_answers": "ski poles×6, poles×4",
+  "gt_raw": [
+    "ski poles",
+    "ski poles",
+    "ski poles",
+    "ski poles",
+    "ski poles",
+    "ski poles",
+    "poles",
+    "poles",
+    "poles",
+    "poles"
+  ],
+  "num_crops": 1
+}

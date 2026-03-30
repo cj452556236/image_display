@@ -1,0 +1,20 @@
+{
+  "question_id": 581745,
+  "question": "How many people can this bus carry?",
+  "pred": "50",
+  "accuracy": 1.0,
+  "gt_answers": "50×6, 40×2, 39×2",
+  "gt_raw": [
+    "50",
+    "50",
+    "50",
+    "50",
+    "50",
+    "50",
+    "40",
+    "40",
+    "39",
+    "39"
+  ],
+  "num_crops": 1
+}

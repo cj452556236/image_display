@@ -1,0 +1,20 @@
+{
+  "question_id": 1515165,
+  "question": "What is the name of the bird in this picture?",
+  "pred": "hawk",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "eagle×8, hawk×2",
+  "gt_raw": [
+    "eagle",
+    "eagle",
+    "eagle",
+    "eagle",
+    "eagle",
+    "eagle",
+    "eagle",
+    "eagle",
+    "hawk",
+    "hawk"
+  ],
+  "num_crops": 1
+}

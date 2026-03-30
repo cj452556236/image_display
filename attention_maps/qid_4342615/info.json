@@ -1,0 +1,20 @@
+{
+  "question_id": 4342615,
+  "question": "What do i do with this thing?",
+  "pred": "drive",
+  "accuracy": 1.0,
+  "gt_answers": "drive×8, drive it×2",
+  "gt_raw": [
+    "drive",
+    "drive",
+    "drive",
+    "drive",
+    "drive",
+    "drive",
+    "drive",
+    "drive",
+    "drive it",
+    "drive it"
+  ],
+  "num_crops": 0
+}

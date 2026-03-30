@@ -1,0 +1,20 @@
+{
+  "question_id": 3017995,
+  "question": "What are the eating utensils on the left called?",
+  "pred": "chopsticks",
+  "accuracy": 1.0,
+  "gt_answers": "chopsticks×8, chop sticks×2",
+  "gt_raw": [
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chopsticks",
+    "chop sticks",
+    "chop sticks"
+  ],
+  "num_crops": 1
+}

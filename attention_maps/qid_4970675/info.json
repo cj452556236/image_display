@@ -1,0 +1,20 @@
+{
+  "question_id": 4970675,
+  "question": "Why do the boys shirts match?",
+  "pred": "Team",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "same team×4, uniforms×2, team×2, team mates×2",
+  "gt_raw": [
+    "same team",
+    "same team",
+    "same team",
+    "same team",
+    "uniforms",
+    "uniforms",
+    "team",
+    "team",
+    "team mates",
+    "team mates"
+  ],
+  "num_crops": 1
+}

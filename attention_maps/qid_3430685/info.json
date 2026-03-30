@@ -1,0 +1,20 @@
+{
+  "question_id": 3430685,
+  "question": "What kind of animal is clearly displayed on the cover of this bed?",
+  "pred": "deer",
+  "accuracy": 1.0,
+  "gt_answers": "deer×6, elk×2, moose×2",
+  "gt_raw": [
+    "deer",
+    "deer",
+    "deer",
+    "deer",
+    "deer",
+    "deer",
+    "elk",
+    "elk",
+    "moose",
+    "moose"
+  ],
+  "num_crops": 0
+}

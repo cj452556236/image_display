@@ -1,0 +1,20 @@
+{
+  "question_id": 4831795,
+  "question": "What is the name of that device that's holding the towels?",
+  "pred": "towel rack",
+  "accuracy": 1.0,
+  "gt_answers": "rack×4, towel rack×4, towel holder×2",
+  "gt_raw": [
+    "rack",
+    "rack",
+    "rack",
+    "rack",
+    "towel rack",
+    "towel rack",
+    "towel rack",
+    "towel rack",
+    "towel holder",
+    "towel holder"
+  ],
+  "num_crops": 1
+}

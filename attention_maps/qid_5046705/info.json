@@ -1,0 +1,20 @@
+{
+  "question_id": 5046705,
+  "question": "What is the brand name of the monitor?",
+  "pred": "LG",
+  "accuracy": 1.0,
+  "gt_answers": "lg×8, rca×2",
+  "gt_raw": [
+    "lg",
+    "lg",
+    "lg",
+    "lg",
+    "lg",
+    "lg",
+    "lg",
+    "lg",
+    "rca",
+    "rca"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3359815,
+  "question": "What language is that sign in?",
+  "pred": "Turkish",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "russian×4, turkish×2, greek×2, english×2",
+  "gt_raw": [
+    "russian",
+    "russian",
+    "russian",
+    "russian",
+    "turkish",
+    "turkish",
+    "greek",
+    "greek",
+    "english",
+    "english"
+  ],
+  "num_crops": 0
+}

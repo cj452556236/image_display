@@ -1,0 +1,20 @@
+{
+  "question_id": 2913705,
+  "question": "What type of hat is this gentleman wearing?",
+  "pred": "top hat",
+  "accuracy": 1.0,
+  "gt_answers": "top×4, top hat×4, tophat×2",
+  "gt_raw": [
+    "top",
+    "top",
+    "top",
+    "top",
+    "top hat",
+    "top hat",
+    "top hat",
+    "top hat",
+    "tophat",
+    "tophat"
+  ],
+  "num_crops": 1
+}

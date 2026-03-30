@@ -1,0 +1,20 @@
+{
+  "question_id": 4186235,
+  "question": "Who makes the guitar on the wall?",
+  "pred": "Fender",
+  "accuracy": 1.0,
+  "gt_answers": "fender×4, gibson×4, owner×2",
+  "gt_raw": [
+    "fender",
+    "fender",
+    "fender",
+    "fender",
+    "gibson",
+    "gibson",
+    "gibson",
+    "gibson",
+    "owner",
+    "owner"
+  ],
+  "num_crops": 1
+}

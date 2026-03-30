@@ -1,0 +1,20 @@
+{
+  "question_id": 1318415,
+  "question": "How does the bread taste?",
+  "pred": "sweet",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "good×4, like bread×2, sweet×2, delicious×2",
+  "gt_raw": [
+    "good",
+    "good",
+    "good",
+    "good",
+    "like bread",
+    "like bread",
+    "sweet",
+    "sweet",
+    "delicious",
+    "delicious"
+  ],
+  "num_crops": 1
+}

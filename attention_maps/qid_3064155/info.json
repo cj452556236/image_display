@@ -1,0 +1,20 @@
+{
+  "question_id": 3064155,
+  "question": "What type of clothing are the men wearing?",
+  "pred": "suits",
+  "accuracy": 1.0,
+  "gt_answers": "suits×8, suits and ties×2",
+  "gt_raw": [
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits and ties",
+    "suits and ties"
+  ],
+  "num_crops": 1
+}

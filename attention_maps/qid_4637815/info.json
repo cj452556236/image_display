@@ -1,0 +1,20 @@
+{
+  "question_id": 4637815,
+  "question": "What is the name of the airline of the pictured airplane?",
+  "pred": "Air Canada",
+  "accuracy": 1.0,
+  "gt_answers": "air canada×4, canada air×2, boeing×2, jet×2",
+  "gt_raw": [
+    "air canada",
+    "air canada",
+    "air canada",
+    "air canada",
+    "canada air",
+    "canada air",
+    "boeing",
+    "boeing",
+    "jet",
+    "jet"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3563145,
+  "question": "What language are the signs in?",
+  "pred": "Chinese",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "mandarin×4, japanese×2, chinese×2, oriental×2",
+  "gt_raw": [
+    "mandarin",
+    "mandarin",
+    "mandarin",
+    "mandarin",
+    "japanese",
+    "japanese",
+    "chinese",
+    "chinese",
+    "oriental",
+    "oriental"
+  ],
+  "num_crops": 0
+}

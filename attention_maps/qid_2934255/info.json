@@ -1,0 +1,20 @@
+{
+  "question_id": 2934255,
+  "question": "What topic is this event related to?",
+  "pred": "economics",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "sports×4, football×2, economics×2, politics×2",
+  "gt_raw": [
+    "sports",
+    "sports",
+    "sports",
+    "sports",
+    "football",
+    "football",
+    "economics",
+    "economics",
+    "politics",
+    "politics"
+  ],
+  "num_crops": 0
+}

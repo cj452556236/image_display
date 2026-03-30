@@ -1,0 +1,20 @@
+{
+  "question_id": 4606215,
+  "question": "What causes the staining to occur?",
+  "pred": "hard water",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "rust×4, soap scum×2, limescale×2, hard water×2",
+  "gt_raw": [
+    "rust",
+    "rust",
+    "rust",
+    "rust",
+    "soap scum",
+    "soap scum",
+    "limescale",
+    "limescale",
+    "hard water",
+    "hard water"
+  ],
+  "num_crops": 0
+}

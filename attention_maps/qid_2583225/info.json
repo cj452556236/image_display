@@ -1,0 +1,20 @@
+{
+  "question_id": 2583225,
+  "question": "Who manufactured this popular 1990's cellular phone?",
+  "pred": "Motorola",
+  "accuracy": 1.0,
+  "gt_answers": "motorola×4, nokia×2, motorolla×2, at and t×2",
+  "gt_raw": [
+    "motorola",
+    "motorola",
+    "motorola",
+    "motorola",
+    "nokia",
+    "nokia",
+    "motorolla",
+    "motorolla",
+    "at and t",
+    "at and t"
+  ],
+  "num_crops": 1
+}

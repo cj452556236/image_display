@@ -1,0 +1,20 @@
+{
+  "question_id": 511745,
+  "question": "The sandwich in this photo was wrapped in what?",
+  "pred": "foil",
+  "accuracy": 1.0,
+  "gt_answers": "foil×10",
+  "gt_raw": [
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil",
+    "foil"
+  ],
+  "num_crops": 1
+}

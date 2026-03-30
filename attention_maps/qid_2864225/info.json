@@ -1,0 +1,20 @@
+{
+  "question_id": 2864225,
+  "question": "How do people use this?",
+  "pred": "sailing",
+  "accuracy": 1.0,
+  "gt_answers": "sail×4, sailing×4, to sail×2",
+  "gt_raw": [
+    "sail",
+    "sail",
+    "sail",
+    "sail",
+    "sailing",
+    "sailing",
+    "sailing",
+    "sailing",
+    "to sail",
+    "to sail"
+  ],
+  "num_crops": 0
+}

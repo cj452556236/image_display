@@ -1,0 +1,20 @@
+{
+  "question_id": 3004085,
+  "question": "What is the name of the garment this man is wearing?",
+  "pred": "wetsuit",
+  "accuracy": 1.0,
+  "gt_answers": "wetsuit×6, wet suit×4",
+  "gt_raw": [
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wetsuit",
+    "wet suit",
+    "wet suit",
+    "wet suit",
+    "wet suit"
+  ],
+  "num_crops": 0
+}

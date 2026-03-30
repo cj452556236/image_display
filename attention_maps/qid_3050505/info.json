@@ -1,0 +1,20 @@
+{
+  "question_id": 3050505,
+  "question": "The man wearing a hat what is the name of that hat?",
+  "pred": "cowboy",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "cowboy hat×6, cowboy×2, stetson×2",
+  "gt_raw": [
+    "cowboy hat",
+    "cowboy hat",
+    "cowboy hat",
+    "cowboy hat",
+    "cowboy hat",
+    "cowboy hat",
+    "cowboy",
+    "cowboy",
+    "stetson",
+    "stetson"
+  ],
+  "num_crops": 0
+}

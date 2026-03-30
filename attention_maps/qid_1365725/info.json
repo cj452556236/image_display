@@ -1,0 +1,20 @@
+{
+  "question_id": 1365725,
+  "question": "How do you turn this on?",
+  "pred": "key",
+  "accuracy": 1.0,
+  "gt_answers": "key×6, ignition×2, with key×2",
+  "gt_raw": [
+    "key",
+    "key",
+    "key",
+    "key",
+    "key",
+    "key",
+    "ignition",
+    "ignition",
+    "with key",
+    "with key"
+  ],
+  "num_crops": 0
+}

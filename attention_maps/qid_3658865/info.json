@@ -1,0 +1,20 @@
+{
+  "question_id": 3658865,
+  "question": "What brand of phone is this?",
+  "pred": "Samsung",
+  "accuracy": 1.0,
+  "gt_answers": "samsung×8, sasung×2",
+  "gt_raw": [
+    "samsung",
+    "samsung",
+    "samsung",
+    "samsung",
+    "samsung",
+    "samsung",
+    "samsung",
+    "samsung",
+    "sasung",
+    "sasung"
+  ],
+  "num_crops": 1
+}

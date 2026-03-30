@@ -1,0 +1,20 @@
+{
+  "question_id": 1812965,
+  "question": "Why does this person have protective clothing on?",
+  "pred": "safety",
+  "accuracy": 1.0,
+  "gt_answers": "safety×6, prevent energy×2, to protect himself×2",
+  "gt_raw": [
+    "safety",
+    "safety",
+    "safety",
+    "safety",
+    "safety",
+    "safety",
+    "prevent energy",
+    "prevent energy",
+    "to protect himself",
+    "to protect himself"
+  ],
+  "num_crops": 0
+}

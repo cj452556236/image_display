@@ -1,0 +1,20 @@
+{
+  "question_id": 4846045,
+  "question": "What is the picture in the food?",
+  "pred": "face",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "angry bird×6, face×2, pizza×2",
+  "gt_raw": [
+    "angry bird",
+    "angry bird",
+    "angry bird",
+    "angry bird",
+    "angry bird",
+    "angry bird",
+    "face",
+    "face",
+    "pizza",
+    "pizza"
+  ],
+  "num_crops": 0
+}

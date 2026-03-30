@@ -1,0 +1,20 @@
+{
+  "question_id": 1129155,
+  "question": "In what room of a house would you most likly find these types of chairs?",
+  "pred": "dining room",
+  "accuracy": 1.0,
+  "gt_answers": "dining room×4, bedroom×2, living×2, kitchen×2",
+  "gt_raw": [
+    "dining room",
+    "dining room",
+    "dining room",
+    "dining room",
+    "bedroom",
+    "bedroom",
+    "living",
+    "living",
+    "kitchen",
+    "kitchen"
+  ],
+  "num_crops": 1
+}

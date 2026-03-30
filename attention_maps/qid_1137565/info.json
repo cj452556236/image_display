@@ -1,0 +1,20 @@
+{
+  "question_id": 1137565,
+  "question": "What is missing on this man's elbows and knees?",
+  "pred": "pads",
+  "accuracy": 1.0,
+  "gt_answers": "pads×8, safety pads×2",
+  "gt_raw": [
+    "pads",
+    "pads",
+    "pads",
+    "pads",
+    "pads",
+    "pads",
+    "pads",
+    "pads",
+    "safety pads",
+    "safety pads"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3972785,
+  "question": "What does the color of this sign represent in america?",
+  "pred": "Caution",
+  "accuracy": 1.0,
+  "gt_answers": "caution×8, yellow×2",
+  "gt_raw": [
+    "caution",
+    "caution",
+    "caution",
+    "caution",
+    "caution",
+    "caution",
+    "caution",
+    "caution",
+    "yellow",
+    "yellow"
+  ],
+  "num_crops": 0
+}

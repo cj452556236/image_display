@@ -1,0 +1,20 @@
+{
+  "question_id": 1611125,
+  "question": "What piece of clothing is this boy putting on?",
+  "pred": "coat",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "gloves×8, coat×2",
+  "gt_raw": [
+    "gloves",
+    "gloves",
+    "gloves",
+    "gloves",
+    "gloves",
+    "gloves",
+    "gloves",
+    "gloves",
+    "coat",
+    "coat"
+  ],
+  "num_crops": 1
+}

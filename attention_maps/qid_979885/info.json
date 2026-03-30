@@ -1,0 +1,20 @@
+{
+  "question_id": 979885,
+  "question": "People that pledge to give per mile monies for those participating in these types of events are called what?",
+  "pred": "sponsors",
+  "accuracy": 1.0,
+  "gt_answers": "sponsors×4, volunteer×2, donators×2, charity miles×2",
+  "gt_raw": [
+    "sponsors",
+    "sponsors",
+    "sponsors",
+    "sponsors",
+    "volunteer",
+    "volunteer",
+    "donators",
+    "donators",
+    "charity miles",
+    "charity miles"
+  ],
+  "num_crops": 1
+}

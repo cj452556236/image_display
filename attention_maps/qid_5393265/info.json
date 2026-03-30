@@ -1,0 +1,20 @@
+{
+  "question_id": 5393265,
+  "question": "What is the proper name for a child of the species shown?",
+  "pred": "calf",
+  "accuracy": 1.0,
+  "gt_answers": "calf×10",
+  "gt_raw": [
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf",
+    "calf"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 4468125,
+  "question": "How many minutes per pound does the bird in the woman's hands have to be cooked?",
+  "pred": "15",
+  "accuracy": 1.0,
+  "gt_answers": "15×6, fifteen minutes×2, 30min for 10lbs×2",
+  "gt_raw": [
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "fifteen minutes",
+    "fifteen minutes",
+    "30min for 10lbs",
+    "30min for 10lbs"
+  ],
+  "num_crops": 0
+}

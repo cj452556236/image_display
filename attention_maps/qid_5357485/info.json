@@ -1,0 +1,20 @@
+{
+  "question_id": 5357485,
+  "question": "What are these snacks called?",
+  "pred": "cupcakes",
+  "accuracy": 1.0,
+  "gt_answers": "cupcakes×8, petit fours×2",
+  "gt_raw": [
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "cupcakes",
+    "petit fours",
+    "petit fours"
+  ],
+  "num_crops": 1
+}

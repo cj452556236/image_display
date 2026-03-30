@@ -1,0 +1,20 @@
+{
+  "question_id": 4242705,
+  "question": "What gender is the child?",
+  "pred": "female",
+  "accuracy": 1.0,
+  "gt_answers": "female×6, girl×4",
+  "gt_raw": [
+    "female",
+    "female",
+    "female",
+    "female",
+    "female",
+    "female",
+    "girl",
+    "girl",
+    "girl",
+    "girl"
+  ],
+  "num_crops": 1
+}

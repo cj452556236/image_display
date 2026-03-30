@@ -1,0 +1,20 @@
+{
+  "question_id": 161615,
+  "question": "What healthy properties do these fruit contain?",
+  "pred": "vitamins",
+  "accuracy": 1.0,
+  "gt_answers": "vitamins×6, potassium×4",
+  "gt_raw": [
+    "vitamins",
+    "vitamins",
+    "vitamins",
+    "vitamins",
+    "vitamins",
+    "vitamins",
+    "potassium",
+    "potassium",
+    "potassium",
+    "potassium"
+  ],
+  "num_crops": 0
+}

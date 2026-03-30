@@ -1,0 +1,20 @@
+{
+  "question_id": 4951465,
+  "question": "What organization operates this train?",
+  "pred": "South West",
+  "accuracy": 1.0,
+  "gt_answers": "amtrak×4, southwest×4, norfolk southern×2",
+  "gt_raw": [
+    "amtrak",
+    "amtrak",
+    "amtrak",
+    "amtrak",
+    "southwest",
+    "southwest",
+    "southwest",
+    "southwest",
+    "norfolk southern",
+    "norfolk southern"
+  ],
+  "num_crops": 1
+}

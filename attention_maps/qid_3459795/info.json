@@ -1,0 +1,20 @@
+{
+  "question_id": 3459795,
+  "question": "What kind of clothes is dressing the man?",
+  "pred": "Formal",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "suit×6, texedo×2, formal×2",
+  "gt_raw": [
+    "suit",
+    "suit",
+    "suit",
+    "suit",
+    "suit",
+    "suit",
+    "texedo",
+    "texedo",
+    "formal",
+    "formal"
+  ],
+  "num_crops": 0
+}

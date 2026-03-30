@@ -1,0 +1,20 @@
+{
+  "question_id": 2569735,
+  "question": "What is that book about?",
+  "pred": "Topology",
+  "accuracy": 1.0,
+  "gt_answers": "topology×6, cooking×2, life×2",
+  "gt_raw": [
+    "topology",
+    "topology",
+    "topology",
+    "topology",
+    "topology",
+    "topology",
+    "cooking",
+    "cooking",
+    "life",
+    "life"
+  ],
+  "num_crops": 1
+}

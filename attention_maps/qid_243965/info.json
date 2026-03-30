@@ -1,0 +1,20 @@
+{
+  "question_id": 243965,
+  "question": "Who is the motorcycle manufacture?",
+  "pred": "Triumph",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "kawasaki×4, harley×2, triumph×2, trump×2",
+  "gt_raw": [
+    "kawasaki",
+    "kawasaki",
+    "kawasaki",
+    "kawasaki",
+    "harley",
+    "harley",
+    "triumph",
+    "triumph",
+    "trump",
+    "trump"
+  ],
+  "num_crops": 1
+}

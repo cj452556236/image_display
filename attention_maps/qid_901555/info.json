@@ -1,0 +1,20 @@
+{
+  "question_id": 901555,
+  "question": "What type of place is this train in?",
+  "pred": "rural",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "train tracks×4, counryside×2, rural×2, countryside×2",
+  "gt_raw": [
+    "train tracks",
+    "train tracks",
+    "train tracks",
+    "train tracks",
+    "counryside",
+    "counryside",
+    "rural",
+    "rural",
+    "countryside",
+    "countryside"
+  ],
+  "num_crops": 1
+}

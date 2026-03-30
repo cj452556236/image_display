@@ -1,0 +1,20 @@
+{
+  "question_id": 5187215,
+  "question": "How long is this animals tongue?",
+  "pred": "long",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "20 inches×4, long×2, 19 inches×2, very×2",
+  "gt_raw": [
+    "20 inches",
+    "20 inches",
+    "20 inches",
+    "20 inches",
+    "long",
+    "long",
+    "19 inches",
+    "19 inches",
+    "very",
+    "very"
+  ],
+  "num_crops": 1
+}

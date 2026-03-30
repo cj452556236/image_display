@@ -1,0 +1,20 @@
+{
+  "question_id": 5163415,
+  "question": "What do those stickers do?",
+  "pred": "decoration",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "advertise brands×2, decoration×2, decorate×2, style×2, show your personality×2",
+  "gt_raw": [
+    "advertise brands",
+    "advertise brands",
+    "decoration",
+    "decoration",
+    "decorate",
+    "decorate",
+    "style",
+    "style",
+    "show your personality",
+    "show your personality"
+  ],
+  "num_crops": 1
+}

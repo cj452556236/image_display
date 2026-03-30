@@ -1,0 +1,20 @@
+{
+  "question_id": 1915856,
+  "question": "What are the white lines marked for?",
+  "pred": "crossing",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "crosswalk×8, crossing×2",
+  "gt_raw": [
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crosswalk",
+    "crossing",
+    "crossing"
+  ],
+  "num_crops": 0
+}

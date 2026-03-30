@@ -1,0 +1,20 @@
+{
+  "question_id": 3441005,
+  "question": "How is this beverage made?",
+  "pred": "brewed",
+  "accuracy": 1.0,
+  "gt_answers": "brewed×4, coffee maker×2, blender×2, brewing×2",
+  "gt_raw": [
+    "brewed",
+    "brewed",
+    "brewed",
+    "brewed",
+    "coffee maker",
+    "coffee maker",
+    "blender",
+    "blender",
+    "brewing",
+    "brewing"
+  ],
+  "num_crops": 1
+}

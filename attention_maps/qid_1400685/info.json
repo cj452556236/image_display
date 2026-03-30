@@ -1,0 +1,20 @@
+{
+  "question_id": 1400685,
+  "question": "What team is number 51 from?",
+  "pred": "Giants",
+  "accuracy": 1.0,
+  "gt_answers": "giants×4, no idea×2, indians×2, unknown×2",
+  "gt_raw": [
+    "giants",
+    "giants",
+    "giants",
+    "giants",
+    "no idea",
+    "no idea",
+    "indians",
+    "indians",
+    "unknown",
+    "unknown"
+  ],
+  "num_crops": 0
+}

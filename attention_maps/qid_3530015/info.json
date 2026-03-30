@@ -1,0 +1,20 @@
+{
+  "question_id": 3530015,
+  "question": "What kind of umbrella are those in the background?",
+  "pred": "parasol",
+  "accuracy": 1.0,
+  "gt_answers": "parasol×8, pink×2",
+  "gt_raw": [
+    "parasol",
+    "parasol",
+    "parasol",
+    "parasol",
+    "parasol",
+    "parasol",
+    "parasol",
+    "parasol",
+    "pink",
+    "pink"
+  ],
+  "num_crops": 1
+}

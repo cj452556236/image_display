@@ -1,0 +1,20 @@
+{
+  "question_id": 457105,
+  "question": "What are the white things under the trunk called?",
+  "pred": "tusks",
+  "accuracy": 1.0,
+  "gt_answers": "tusks×10",
+  "gt_raw": [
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks",
+    "tusks"
+  ],
+  "num_crops": 1
+}

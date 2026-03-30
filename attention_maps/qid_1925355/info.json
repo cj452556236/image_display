@@ -1,0 +1,20 @@
+{
+  "question_id": 1925355,
+  "question": "What kind of plane is this?",
+  "pred": "biplane",
+  "accuracy": 1.0,
+  "gt_answers": "biplane×4, sifghtseeing×2, bi plane×2, nazi×2",
+  "gt_raw": [
+    "biplane",
+    "biplane",
+    "biplane",
+    "biplane",
+    "sifghtseeing",
+    "sifghtseeing",
+    "bi plane",
+    "bi plane",
+    "nazi",
+    "nazi"
+  ],
+  "num_crops": 1
+}

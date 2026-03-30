@@ -1,0 +1,20 @@
+{
+  "question_id": 1000065,
+  "question": "What is the purpose of the logos on this truck?",
+  "pred": "sponsorship",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "identification×4, advertising×4, sponsorship×2",
+  "gt_raw": [
+    "identification",
+    "identification",
+    "identification",
+    "identification",
+    "advertising",
+    "advertising",
+    "advertising",
+    "advertising",
+    "sponsorship",
+    "sponsorship"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3575865,
+  "question": "What toy is this?",
+  "pred": "teddy bear",
+  "accuracy": 1.0,
+  "gt_answers": "stuffed animal×6, teddy bear×4",
+  "gt_raw": [
+    "stuffed animal",
+    "stuffed animal",
+    "stuffed animal",
+    "stuffed animal",
+    "stuffed animal",
+    "stuffed animal",
+    "teddy bear",
+    "teddy bear",
+    "teddy bear",
+    "teddy bear"
+  ],
+  "num_crops": 1
+}

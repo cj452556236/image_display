@@ -1,0 +1,20 @@
+{
+  "question_id": 5521885,
+  "question": "Is he catching or throwing?",
+  "pred": "throwing",
+  "accuracy": 1.0,
+  "gt_answers": "throwing×10",
+  "gt_raw": [
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing",
+    "throwing"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 2968865,
+  "question": "The human rider on the horses are called what?",
+  "pred": "jockeys",
+  "accuracy": 1.0,
+  "gt_answers": "jockeys×4, jockey×4, jocky×2",
+  "gt_raw": [
+    "jockeys",
+    "jockeys",
+    "jockeys",
+    "jockeys",
+    "jockey",
+    "jockey",
+    "jockey",
+    "jockey",
+    "jocky",
+    "jocky"
+  ],
+  "num_crops": 1
+}

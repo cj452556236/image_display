@@ -1,0 +1,20 @@
+{
+  "question_id": 5475195,
+  "question": "What breed of bear is this?",
+  "pred": "brown",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "grizzly×6, brown bear×2, brown×2",
+  "gt_raw": [
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "grizzly",
+    "brown bear",
+    "brown bear",
+    "brown",
+    "brown"
+  ],
+  "num_crops": 1
+}

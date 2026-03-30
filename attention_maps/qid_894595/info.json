@@ -1,0 +1,20 @@
+{
+  "question_id": 894595,
+  "question": "What did people put on this sign?",
+  "pred": "stickers",
+  "accuracy": 1.0,
+  "gt_answers": "stickers×10",
+  "gt_raw": [
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers",
+    "stickers"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 727645,
+  "question": "Is this sport popular more popular in the us or the uk?",
+  "pred": "UK",
+  "accuracy": 1.0,
+  "gt_answers": "uk×10",
+  "gt_raw": [
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk",
+    "uk"
+  ],
+  "num_crops": 0
+}

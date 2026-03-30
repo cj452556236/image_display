@@ -1,0 +1,20 @@
+{
+  "question_id": 4371265,
+  "question": "Name the material used to make this car seat shown in this picture?",
+  "pred": "leather",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "cloth×4, nylon×2, polyester×2, leather×2",
+  "gt_raw": [
+    "cloth",
+    "cloth",
+    "cloth",
+    "cloth",
+    "nylon",
+    "nylon",
+    "polyester",
+    "polyester",
+    "leather",
+    "leather"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3732665,
+  "question": "What type of building is this?",
+  "pred": "Hospital",
+  "accuracy": 1.0,
+  "gt_answers": "hospital×10",
+  "gt_raw": [
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital",
+    "hospital"
+  ],
+  "num_crops": 0
+}

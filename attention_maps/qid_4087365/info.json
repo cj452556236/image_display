@@ -1,0 +1,20 @@
+{
+  "question_id": 4087365,
+  "question": "What kind of cat is this and what are some depictions of this breed of cat in fiction?",
+  "pred": "Siamese",
+  "accuracy": 1.0,
+  "gt_answers": "siamese×4, siamois×2, siamese 101 dalmations×2, siamese sly intelligent fearless×2",
+  "gt_raw": [
+    "siamese",
+    "siamese",
+    "siamese",
+    "siamese",
+    "siamois",
+    "siamois",
+    "siamese 101 dalmations",
+    "siamese 101 dalmations",
+    "siamese sly intelligent fearless",
+    "siamese sly intelligent fearless"
+  ],
+  "num_crops": 0
+}

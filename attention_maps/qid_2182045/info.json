@@ -1,0 +1,20 @@
+{
+  "question_id": 2182045,
+  "question": "What kind of plant is this?",
+  "pred": "tulip",
+  "accuracy": 1.0,
+  "gt_answers": "flower×4, tulip×4, iris×2",
+  "gt_raw": [
+    "flower",
+    "flower",
+    "flower",
+    "flower",
+    "tulip",
+    "tulip",
+    "tulip",
+    "tulip",
+    "iris",
+    "iris"
+  ],
+  "num_crops": 1
+}

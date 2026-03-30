@@ -1,0 +1,20 @@
+{
+  "question_id": 4497085,
+  "question": "What is this space used for?",
+  "pred": "Work",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "working×4, computer×2, office work×2, work×2",
+  "gt_raw": [
+    "working",
+    "working",
+    "working",
+    "working",
+    "computer",
+    "computer",
+    "office work",
+    "office work",
+    "work",
+    "work"
+  ],
+  "num_crops": 1
+}

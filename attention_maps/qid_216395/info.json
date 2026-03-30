@@ -1,0 +1,20 @@
+{
+  "question_id": 216395,
+  "question": "What type of cake is this?",
+  "pred": "rainbow",
+  "accuracy": 1.0,
+  "gt_answers": "rainbow×6, birthday×4",
+  "gt_raw": [
+    "rainbow",
+    "rainbow",
+    "rainbow",
+    "rainbow",
+    "rainbow",
+    "rainbow",
+    "birthday",
+    "birthday",
+    "birthday",
+    "birthday"
+  ],
+  "num_crops": 1
+}

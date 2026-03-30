@@ -1,0 +1,20 @@
+{
+  "question_id": 4630375,
+  "question": "The rounded front part of the plane is also called the what?",
+  "pred": "nose",
+  "accuracy": 1.0,
+  "gt_answers": "nose×8, turbine×2",
+  "gt_raw": [
+    "nose",
+    "nose",
+    "nose",
+    "nose",
+    "nose",
+    "nose",
+    "nose",
+    "nose",
+    "turbine",
+    "turbine"
+  ],
+  "num_crops": 1
+}

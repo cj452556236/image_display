@@ -1,0 +1,20 @@
+{
+  "question_id": 1341195,
+  "question": "What is a group of these animals called?",
+  "pred": "tower",
+  "accuracy": 1.0,
+  "gt_answers": "herd×6, tower×4",
+  "gt_raw": [
+    "herd",
+    "herd",
+    "herd",
+    "herd",
+    "herd",
+    "herd",
+    "tower",
+    "tower",
+    "tower",
+    "tower"
+  ],
+  "num_crops": 1
+}

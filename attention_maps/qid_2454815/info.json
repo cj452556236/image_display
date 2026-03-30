@@ -1,0 +1,20 @@
+{
+  "question_id": 2454815,
+  "question": "How do we know there may be a railroad nearby?",
+  "pred": "sign",
+  "accuracy": 1.0,
+  "gt_answers": "sign×10",
+  "gt_raw": [
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign",
+    "sign"
+  ],
+  "num_crops": 0
+}

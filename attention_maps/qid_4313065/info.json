@@ -1,0 +1,20 @@
+{
+  "question_id": 4313065,
+  "question": "What kind of lights are over these mirrors?",
+  "pred": "fluorescent",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "flourescent×4, florescent×2, ceiling×2, fluorescent×2",
+  "gt_raw": [
+    "flourescent",
+    "flourescent",
+    "flourescent",
+    "flourescent",
+    "florescent",
+    "florescent",
+    "ceiling",
+    "ceiling",
+    "fluorescent",
+    "fluorescent"
+  ],
+  "num_crops": 1
+}

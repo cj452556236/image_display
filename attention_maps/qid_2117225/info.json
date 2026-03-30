@@ -1,0 +1,20 @@
+{
+  "question_id": 2117225,
+  "question": "What was used to capture this photo?",
+  "pred": "camera",
+  "accuracy": 1.0,
+  "gt_answers": "camera×8, filter×2",
+  "gt_raw": [
+    "camera",
+    "camera",
+    "camera",
+    "camera",
+    "camera",
+    "camera",
+    "camera",
+    "camera",
+    "filter",
+    "filter"
+  ],
+  "num_crops": 1
+}

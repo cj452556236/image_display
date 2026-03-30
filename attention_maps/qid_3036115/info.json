@@ -1,0 +1,20 @@
+{
+  "question_id": 3036115,
+  "question": "What type of cheese was used?",
+  "pred": "mozzarella",
+  "accuracy": 1.0,
+  "gt_answers": "mozzarella×4, mozarella×2, mozzerella×2, melted×2",
+  "gt_raw": [
+    "mozzarella",
+    "mozzarella",
+    "mozzarella",
+    "mozzarella",
+    "mozarella",
+    "mozarella",
+    "mozzerella",
+    "mozzerella",
+    "melted",
+    "melted"
+  ],
+  "num_crops": 0
+}

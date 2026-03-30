@@ -1,0 +1,20 @@
+{
+  "question_id": 1629525,
+  "question": "What print is on the mans shirt?",
+  "pred": "floral",
+  "accuracy": 1.0,
+  "gt_answers": "floral×4, plants×2, roses×2, pink and gray×2",
+  "gt_raw": [
+    "floral",
+    "floral",
+    "floral",
+    "floral",
+    "plants",
+    "plants",
+    "roses",
+    "roses",
+    "pink and gray",
+    "pink and gray"
+  ],
+  "num_crops": 1
+}

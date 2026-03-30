@@ -1,0 +1,20 @@
+{
+  "question_id": 2866715,
+  "question": "What normally can be seen crossing this?",
+  "pred": "cars",
+  "accuracy": 1.0,
+  "gt_answers": "vehicles×4, cars×4, water×2",
+  "gt_raw": [
+    "vehicles",
+    "vehicles",
+    "vehicles",
+    "vehicles",
+    "cars",
+    "cars",
+    "cars",
+    "cars",
+    "water",
+    "water"
+  ],
+  "num_crops": 0
+}

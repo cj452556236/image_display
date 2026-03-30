@@ -1,0 +1,20 @@
+{
+  "question_id": 5135555,
+  "question": "What water activity is occuring here?",
+  "pred": "sailing",
+  "accuracy": 1.0,
+  "gt_answers": "sailing×6, boating×4",
+  "gt_raw": [
+    "sailing",
+    "sailing",
+    "sailing",
+    "sailing",
+    "sailing",
+    "sailing",
+    "boating",
+    "boating",
+    "boating",
+    "boating"
+  ],
+  "num_crops": 1
+}

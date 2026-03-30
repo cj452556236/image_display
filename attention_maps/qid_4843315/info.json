@@ -1,0 +1,20 @@
+{
+  "question_id": 4843315,
+  "question": "How long does it take to learn this sport?",
+  "pred": "2",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "1 year×4, months×2, 2×2, not long×2",
+  "gt_raw": [
+    "1 year",
+    "1 year",
+    "1 year",
+    "1 year",
+    "months",
+    "months",
+    "2",
+    "2",
+    "not long",
+    "not long"
+  ],
+  "num_crops": 0
+}

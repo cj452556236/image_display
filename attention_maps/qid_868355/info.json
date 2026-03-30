@@ -1,0 +1,20 @@
+{
+  "question_id": 868355,
+  "question": "Do the occupants of this building receive their mail at their door or in a box along the street?",
+  "pred": "door",
+  "accuracy": 1.0,
+  "gt_answers": "box×6, door×4",
+  "gt_raw": [
+    "box",
+    "box",
+    "box",
+    "box",
+    "box",
+    "box",
+    "door",
+    "door",
+    "door",
+    "door"
+  ],
+  "num_crops": 0
+}

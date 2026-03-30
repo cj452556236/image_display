@@ -1,0 +1,20 @@
+{
+  "question_id": 5286045,
+  "question": "It looks like this baby just got out of what?",
+  "pred": "bath",
+  "accuracy": 1.0,
+  "gt_answers": "bath×8, bath tub×2",
+  "gt_raw": [
+    "bath",
+    "bath",
+    "bath",
+    "bath",
+    "bath",
+    "bath",
+    "bath",
+    "bath",
+    "bath tub",
+    "bath tub"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3784675,
+  "question": "Are these people goth or punk and what are some famous japanese and korean goth and punk fashions?",
+  "pred": "goth",
+  "accuracy": 1.0,
+  "gt_answers": "goth×6, goth harajuku fashion and tokyo rebel×2, goth harajuku×2",
+  "gt_raw": [
+    "goth",
+    "goth",
+    "goth",
+    "goth",
+    "goth",
+    "goth",
+    "goth harajuku fashion and tokyo rebel",
+    "goth harajuku fashion and tokyo rebel",
+    "goth harajuku",
+    "goth harajuku"
+  ],
+  "num_crops": 0
+}

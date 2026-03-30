@@ -1,0 +1,20 @@
+{
+  "question_id": 3400365,
+  "question": "What are the individuals inside of this vehicle called?",
+  "pred": "passengers",
+  "accuracy": 1.0,
+  "gt_answers": "passengers×10",
+  "gt_raw": [
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers",
+    "passengers"
+  ],
+  "num_crops": 0
+}

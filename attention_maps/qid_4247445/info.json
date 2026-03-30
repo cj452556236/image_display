@@ -1,0 +1,20 @@
+{
+  "question_id": 4247445,
+  "question": "What is the small white outdoor house like building called?",
+  "pred": "gazebo",
+  "accuracy": 1.0,
+  "gt_answers": "gazebo×6, shed×2, casida×2",
+  "gt_raw": [
+    "gazebo",
+    "gazebo",
+    "gazebo",
+    "gazebo",
+    "gazebo",
+    "gazebo",
+    "shed",
+    "shed",
+    "casida",
+    "casida"
+  ],
+  "num_crops": 1
+}

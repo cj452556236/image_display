@@ -1,0 +1,20 @@
+{
+  "question_id": 1559125,
+  "question": "What is the kid playing with?",
+  "pred": "kite",
+  "accuracy": 1.0,
+  "gt_answers": "kite×10",
+  "gt_raw": [
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite"
+  ],
+  "num_crops": 1
+}

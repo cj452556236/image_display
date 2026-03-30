@@ -1,0 +1,20 @@
+{
+  "question_id": 4483205,
+  "question": "What kind of sink is on the wall?",
+  "pred": "bowl",
+  "accuracy": 1.0,
+  "gt_answers": "bowl×8, basin×2",
+  "gt_raw": [
+    "bowl",
+    "bowl",
+    "bowl",
+    "bowl",
+    "bowl",
+    "bowl",
+    "bowl",
+    "bowl",
+    "basin",
+    "basin"
+  ],
+  "num_crops": 1
+}

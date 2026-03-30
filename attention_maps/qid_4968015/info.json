@@ -1,0 +1,20 @@
+{
+  "question_id": 4968015,
+  "question": "What can i make with this?",
+  "pred": "smoothie",
+  "accuracy": 1.0,
+  "gt_answers": "smoothie×4, breakfast×2, smootie×2, smoothies×2",
+  "gt_raw": [
+    "smoothie",
+    "smoothie",
+    "smoothie",
+    "smoothie",
+    "breakfast",
+    "breakfast",
+    "smootie",
+    "smootie",
+    "smoothies",
+    "smoothies"
+  ],
+  "num_crops": 0
+}

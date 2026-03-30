@@ -1,0 +1,20 @@
+{
+  "question_id": 2085245,
+  "question": "Does this type of train transport people or cargo?",
+  "pred": "cargo",
+  "accuracy": 1.0,
+  "gt_answers": "cargo×10",
+  "gt_raw": [
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo",
+    "cargo"
+  ],
+  "num_crops": 1
+}

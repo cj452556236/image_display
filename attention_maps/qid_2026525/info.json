@@ -1,0 +1,20 @@
+{
+  "question_id": 2026525,
+  "question": "What would a perosn who drives one of these be called?",
+  "pred": "captain",
+  "accuracy": 1.0,
+  "gt_answers": "captain×6, boat captain×2, sailor×2",
+  "gt_raw": [
+    "captain",
+    "captain",
+    "captain",
+    "captain",
+    "captain",
+    "captain",
+    "boat captain",
+    "boat captain",
+    "sailor",
+    "sailor"
+  ],
+  "num_crops": 0
+}

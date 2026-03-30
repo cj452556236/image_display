@@ -1,0 +1,20 @@
+{
+  "question_id": 3300515,
+  "question": "Who manufactured this clock?",
+  "pred": "Den",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "dent×6, den×2, denmark×2",
+  "gt_raw": [
+    "dent",
+    "dent",
+    "dent",
+    "dent",
+    "dent",
+    "dent",
+    "den",
+    "den",
+    "denmark",
+    "denmark"
+  ],
+  "num_crops": 1
+}

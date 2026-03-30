@@ -1,0 +1,20 @@
+{
+  "question_id": 539655,
+  "question": "What is in every drawer?",
+  "pred": "clothes",
+  "accuracy": 1.0,
+  "gt_answers": "clothes×6, nothing×4",
+  "gt_raw": [
+    "clothes",
+    "clothes",
+    "clothes",
+    "clothes",
+    "clothes",
+    "clothes",
+    "nothing",
+    "nothing",
+    "nothing",
+    "nothing"
+  ],
+  "num_crops": 1
+}

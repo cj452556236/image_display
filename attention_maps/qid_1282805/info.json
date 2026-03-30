@@ -1,0 +1,20 @@
+{
+  "question_id": 1282805,
+  "question": "What sates are these grown in?",
+  "pred": "Florida",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "florida california×4, california×4, florida×2",
+  "gt_raw": [
+    "florida california",
+    "florida california",
+    "florida california",
+    "florida california",
+    "california",
+    "california",
+    "california",
+    "california",
+    "florida",
+    "florida"
+  ],
+  "num_crops": 0
+}

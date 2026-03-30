@@ -1,0 +1,20 @@
+{
+  "question_id": 2182245,
+  "question": "When was this airline founded?",
+  "pred": "1996",
+  "accuracy": 1.0,
+  "gt_answers": "1996×4, nineties×2, february 29 1996×2, 1990×2",
+  "gt_raw": [
+    "1996",
+    "1996",
+    "1996",
+    "1996",
+    "nineties",
+    "nineties",
+    "february 29 1996",
+    "february 29 1996",
+    "1990",
+    "1990"
+  ],
+  "num_crops": 1
+}

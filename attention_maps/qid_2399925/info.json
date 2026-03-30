@@ -1,0 +1,20 @@
+{
+  "question_id": 2399925,
+  "question": "What company is this brand for?",
+  "pred": "American",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "american airlines×6, american×2, alied air×2",
+  "gt_raw": [
+    "american airlines",
+    "american airlines",
+    "american airlines",
+    "american airlines",
+    "american airlines",
+    "american airlines",
+    "american",
+    "american",
+    "alied air",
+    "alied air"
+  ],
+  "num_crops": 0
+}

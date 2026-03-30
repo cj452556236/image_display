@@ -1,0 +1,20 @@
+{
+  "question_id": 1690895,
+  "question": "What material are those suits made out of?",
+  "pred": "neoprene",
+  "accuracy": 1.0,
+  "gt_answers": "neoprene×6, polysester×2, rubber×2",
+  "gt_raw": [
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "polysester",
+    "polysester",
+    "rubber",
+    "rubber"
+  ],
+  "num_crops": 0
+}

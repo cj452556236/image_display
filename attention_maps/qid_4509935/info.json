@@ -1,0 +1,20 @@
+{
+  "question_id": 4509935,
+  "question": "The people in this photo are wearing what outfits which can be considered business formal?",
+  "pred": "suits",
+  "accuracy": 1.0,
+  "gt_answers": "suits×6, suit×2, trousersuits×2",
+  "gt_raw": [
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suits",
+    "suit",
+    "suit",
+    "trousersuits",
+    "trousersuits"
+  ],
+  "num_crops": 1
+}

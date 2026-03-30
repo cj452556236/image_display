@@ -1,0 +1,20 @@
+{
+  "question_id": 3982365,
+  "question": "What is a good side dish for this meal?",
+  "pred": "coleslaw",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "fries×4, chips×2, baked beans×2, coleslaw×2",
+  "gt_raw": [
+    "fries",
+    "fries",
+    "fries",
+    "fries",
+    "chips",
+    "chips",
+    "baked beans",
+    "baked beans",
+    "coleslaw",
+    "coleslaw"
+  ],
+  "num_crops": 0
+}

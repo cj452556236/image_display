@@ -1,0 +1,20 @@
+{
+  "question_id": 4952885,
+  "question": "What do you call the pattern on this tie?",
+  "pred": "Plaid",
+  "accuracy": 1.0,
+  "gt_answers": "plaid×10",
+  "gt_raw": [
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid",
+    "plaid"
+  ],
+  "num_crops": 1
+}

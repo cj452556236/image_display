@@ -1,0 +1,20 @@
+{
+  "question_id": 4244325,
+  "question": "What breed is this dog?",
+  "pred": "Husky",
+  "accuracy": 1.0,
+  "gt_answers": "husky×10",
+  "gt_raw": [
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky",
+    "husky"
+  ],
+  "num_crops": 1
+}

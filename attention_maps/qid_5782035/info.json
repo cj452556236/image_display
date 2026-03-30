@@ -1,0 +1,20 @@
+{
+  "question_id": 5782035,
+  "question": "Are these fruits or vegetables?",
+  "pred": "fruits",
+  "accuracy": 1.0,
+  "gt_answers": "fruits×8, vegetables×2",
+  "gt_raw": [
+    "fruits",
+    "fruits",
+    "fruits",
+    "fruits",
+    "fruits",
+    "fruits",
+    "fruits",
+    "fruits",
+    "vegetables",
+    "vegetables"
+  ],
+  "num_crops": 1
+}

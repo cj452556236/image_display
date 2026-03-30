@@ -1,0 +1,20 @@
+{
+  "question_id": 3161835,
+  "question": "What do people throw in these round objects?",
+  "pred": "coins",
+  "accuracy": 1.0,
+  "gt_answers": "coins×10",
+  "gt_raw": [
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins",
+    "coins"
+  ],
+  "num_crops": 0
+}

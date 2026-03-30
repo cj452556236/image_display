@@ -1,0 +1,20 @@
+{
+  "question_id": 4923495,
+  "question": "What continent s is are this bird found on?",
+  "pred": "North America",
+  "accuracy": 1.0,
+  "gt_answers": "north america×8, south america×2",
+  "gt_raw": [
+    "north america",
+    "north america",
+    "north america",
+    "north america",
+    "north america",
+    "north america",
+    "north america",
+    "north america",
+    "south america",
+    "south america"
+  ],
+  "num_crops": 1
+}

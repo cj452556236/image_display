@@ -1,0 +1,20 @@
+{
+  "question_id": 5464635,
+  "question": "What brand is this stove?",
+  "pred": "Whirlpool",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "kenmore×4, whirlpool×2, lg×2, ge×2",
+  "gt_raw": [
+    "kenmore",
+    "kenmore",
+    "kenmore",
+    "kenmore",
+    "whirlpool",
+    "whirlpool",
+    "lg",
+    "lg",
+    "ge",
+    "ge"
+  ],
+  "num_crops": 1
+}

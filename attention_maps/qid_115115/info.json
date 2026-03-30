@@ -1,0 +1,20 @@
+{
+  "question_id": 115115,
+  "question": "Who designed the statues?",
+  "pred": "artist",
+  "accuracy": 1.0,
+  "gt_answers": "artist×4, guell×2, toscano×2, aritect×2",
+  "gt_raw": [
+    "artist",
+    "artist",
+    "artist",
+    "artist",
+    "guell",
+    "guell",
+    "toscano",
+    "toscano",
+    "aritect",
+    "aritect"
+  ],
+  "num_crops": 1
+}

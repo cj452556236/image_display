@@ -1,0 +1,20 @@
+{
+  "question_id": 1396845,
+  "question": "What is the decorative fabric on the floor called?",
+  "pred": "rug",
+  "accuracy": 1.0,
+  "gt_answers": "rug×8, carpet×2",
+  "gt_raw": [
+    "rug",
+    "rug",
+    "rug",
+    "rug",
+    "rug",
+    "rug",
+    "rug",
+    "rug",
+    "carpet",
+    "carpet"
+  ],
+  "num_crops": 1
+}

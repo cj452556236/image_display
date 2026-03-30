@@ -1,0 +1,20 @@
+{
+  "question_id": 3114655,
+  "question": "What sport is this kind of racquet used to play?",
+  "pred": "Badminton",
+  "accuracy": 1.0,
+  "gt_answers": "badminton×4, tennis×4, this is for tennis×2",
+  "gt_raw": [
+    "badminton",
+    "badminton",
+    "badminton",
+    "badminton",
+    "tennis",
+    "tennis",
+    "tennis",
+    "tennis",
+    "this is for tennis",
+    "this is for tennis"
+  ],
+  "num_crops": 1
+}

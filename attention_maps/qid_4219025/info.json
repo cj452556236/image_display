@@ -1,0 +1,20 @@
+{
+  "question_id": 4219025,
+  "question": "The puppy pictured here is a native of what chilly state?",
+  "pred": "Alaska",
+  "accuracy": 1.0,
+  "gt_answers": "alaska×10",
+  "gt_raw": [
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska",
+    "alaska"
+  ],
+  "num_crops": 1
+}

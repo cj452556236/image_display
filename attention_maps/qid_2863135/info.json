@@ -1,0 +1,20 @@
+{
+  "question_id": 2863135,
+  "question": "What is that man doing with the bat?",
+  "pred": "swinging",
+  "accuracy": 1.0,
+  "gt_answers": "swinging×4, swing×2, hitting×2, trying to hit hte ball×2",
+  "gt_raw": [
+    "swinging",
+    "swinging",
+    "swinging",
+    "swinging",
+    "swing",
+    "swing",
+    "hitting",
+    "hitting",
+    "trying to hit hte ball",
+    "trying to hit hte ball"
+  ],
+  "num_crops": 1
+}

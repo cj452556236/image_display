@@ -1,0 +1,20 @@
+{
+  "question_id": 5764615,
+  "question": "Name the place shown in this picture?",
+  "pred": "highway",
+  "accuracy": 1.0,
+  "gt_answers": "highway×4, chicago×2, brighton×2, america×2",
+  "gt_raw": [
+    "highway",
+    "highway",
+    "highway",
+    "highway",
+    "chicago",
+    "chicago",
+    "brighton",
+    "brighton",
+    "america",
+    "america"
+  ],
+  "num_crops": 0
+}

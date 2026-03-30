@@ -1,0 +1,20 @@
+{
+  "question_id": 419455,
+  "question": "In what language is the name of this boat written?",
+  "pred": "Danish",
+  "accuracy": 1.0,
+  "gt_answers": "danish×4, japan×2, chinese×2, vietnamese×2",
+  "gt_raw": [
+    "danish",
+    "danish",
+    "danish",
+    "danish",
+    "japan",
+    "japan",
+    "chinese",
+    "chinese",
+    "vietnamese",
+    "vietnamese"
+  ],
+  "num_crops": 1
+}

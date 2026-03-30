@@ -1,0 +1,20 @@
+{
+  "question_id": 675325,
+  "question": "What breed are these two dogs?",
+  "pred": "Chihuahua",
+  "accuracy": 1.0,
+  "gt_answers": "chihuahua×4, chihauhau×2, boxer and dachschund×2, muts×2",
+  "gt_raw": [
+    "chihuahua",
+    "chihuahua",
+    "chihuahua",
+    "chihuahua",
+    "chihauhau",
+    "chihauhau",
+    "boxer and dachschund",
+    "boxer and dachschund",
+    "muts",
+    "muts"
+  ],
+  "num_crops": 1
+}

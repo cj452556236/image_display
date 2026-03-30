@@ -1,0 +1,20 @@
+{
+  "question_id": 4486005,
+  "question": "What kind of fruit?",
+  "pred": "strawberry",
+  "accuracy": 1.0,
+  "gt_answers": "strawberry×10",
+  "gt_raw": [
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry",
+    "strawberry"
+  ],
+  "num_crops": 0
+}

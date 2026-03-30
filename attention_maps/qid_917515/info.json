@@ -1,0 +1,20 @@
+{
+  "question_id": 917515,
+  "question": "What is the player most likely kicking the ball towards?",
+  "pred": "goal",
+  "accuracy": 1.0,
+  "gt_answers": "goal×8, soccer player×2",
+  "gt_raw": [
+    "goal",
+    "goal",
+    "goal",
+    "goal",
+    "goal",
+    "goal",
+    "goal",
+    "goal",
+    "soccer player",
+    "soccer player"
+  ],
+  "num_crops": 1
+}

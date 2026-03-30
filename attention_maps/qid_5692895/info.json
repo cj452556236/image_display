@@ -1,0 +1,20 @@
+{
+  "question_id": 5692895,
+  "question": "Even without bacon or sausage why would we think this person has plenty of protein on their plate?",
+  "pred": "eggs",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "beans×6, eggs×2, egg×2",
+  "gt_raw": [
+    "beans",
+    "beans",
+    "beans",
+    "beans",
+    "beans",
+    "beans",
+    "eggs",
+    "eggs",
+    "egg",
+    "egg"
+  ],
+  "num_crops": 1
+}

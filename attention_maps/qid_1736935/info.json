@@ -1,0 +1,20 @@
+{
+  "question_id": 1736935,
+  "question": "What derby is the horse apart of?",
+  "pred": "Kentucky",
+  "accuracy": 1.0,
+  "gt_answers": "kentucky×8, horse racing×2",
+  "gt_raw": [
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "kentucky",
+    "horse racing",
+    "horse racing"
+  ],
+  "num_crops": 1
+}

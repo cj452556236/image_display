@@ -1,0 +1,20 @@
+{
+  "question_id": 3883985,
+  "question": "Would this article of furniture typically be for public or private use?",
+  "pred": "public",
+  "accuracy": 1.0,
+  "gt_answers": "public×10",
+  "gt_raw": [
+    "public",
+    "public",
+    "public",
+    "public",
+    "public",
+    "public",
+    "public",
+    "public",
+    "public",
+    "public"
+  ],
+  "num_crops": 0
+}

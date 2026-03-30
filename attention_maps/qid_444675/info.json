@@ -1,0 +1,20 @@
+{
+  "question_id": 444675,
+  "question": "Who lost this teddy bear?",
+  "pred": "child",
+  "accuracy": 1.0,
+  "gt_answers": "child×8, kid×2",
+  "gt_raw": [
+    "child",
+    "child",
+    "child",
+    "child",
+    "child",
+    "child",
+    "child",
+    "child",
+    "kid",
+    "kid"
+  ],
+  "num_crops": 1
+}

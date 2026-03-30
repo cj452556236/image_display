@@ -1,0 +1,20 @@
+{
+  "question_id": 5007175,
+  "question": "When was this item first invented?",
+  "pred": "1804",
+  "accuracy": 1.0,
+  "gt_answers": "1804×8, 1800s×2",
+  "gt_raw": [
+    "1804",
+    "1804",
+    "1804",
+    "1804",
+    "1804",
+    "1804",
+    "1804",
+    "1804",
+    "1800s",
+    "1800s"
+  ],
+  "num_crops": 0
+}

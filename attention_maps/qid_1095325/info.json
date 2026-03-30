@@ -1,0 +1,20 @@
+{
+  "question_id": 1095325,
+  "question": "Is the light ambient or natural?",
+  "pred": "natural",
+  "accuracy": 1.0,
+  "gt_answers": "natural×10",
+  "gt_raw": [
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural",
+    "natural"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 3986375,
+  "question": "Is this his wife or sister?",
+  "pred": "wife",
+  "accuracy": 1.0,
+  "gt_answers": "sister×6, wife×4",
+  "gt_raw": [
+    "sister",
+    "sister",
+    "sister",
+    "sister",
+    "sister",
+    "sister",
+    "wife",
+    "wife",
+    "wife",
+    "wife"
+  ],
+  "num_crops": 1
+}

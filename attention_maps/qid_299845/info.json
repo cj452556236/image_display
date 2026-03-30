@@ -1,0 +1,20 @@
+{
+  "question_id": 299845,
+  "question": "Is this at a salt water beach or a lake?",
+  "pred": "salt water",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "salt water beach×4, salt water×2, lake×2, beach×2",
+  "gt_raw": [
+    "salt water beach",
+    "salt water beach",
+    "salt water beach",
+    "salt water beach",
+    "salt water",
+    "salt water",
+    "lake",
+    "lake",
+    "beach",
+    "beach"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5071435,
+  "question": "How many people ride this mode of transportation in europe?",
+  "pred": "millions",
+  "accuracy": 1.0,
+  "gt_answers": "millions×4, 2×2, thousands×2, 100 million×2",
+  "gt_raw": [
+    "millions",
+    "millions",
+    "millions",
+    "millions",
+    "2",
+    "2",
+    "thousands",
+    "thousands",
+    "100 million",
+    "100 million"
+  ],
+  "num_crops": 0
+}

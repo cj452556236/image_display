@@ -1,0 +1,20 @@
+{
+  "question_id": 4122475,
+  "question": "Is the batter left or right handed?",
+  "pred": "right",
+  "accuracy": 1.0,
+  "gt_answers": "right×8, left handed×2",
+  "gt_raw": [
+    "right",
+    "right",
+    "right",
+    "right",
+    "right",
+    "right",
+    "right",
+    "right",
+    "left handed",
+    "left handed"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5182875,
+  "question": "What part of the face is the toothbrush in?",
+  "pred": "mouth",
+  "accuracy": 1.0,
+  "gt_answers": "mouth×8, happy×2",
+  "gt_raw": [
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "mouth",
+    "happy",
+    "happy"
+  ],
+  "num_crops": 1
+}

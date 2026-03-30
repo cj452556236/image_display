@@ -1,0 +1,20 @@
+{
+  "question_id": 3144935,
+  "question": "What kind of airplane is this?",
+  "pred": "biplane",
+  "accuracy": 1.0,
+  "gt_answers": "biplane×4, bi wing×2, jet×2, old×2",
+  "gt_raw": [
+    "biplane",
+    "biplane",
+    "biplane",
+    "biplane",
+    "bi wing",
+    "bi wing",
+    "jet",
+    "jet",
+    "old",
+    "old"
+  ],
+  "num_crops": 1
+}

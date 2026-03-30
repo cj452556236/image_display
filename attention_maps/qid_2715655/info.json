@@ -1,0 +1,20 @@
+{
+  "question_id": 2715655,
+  "question": "What is the model of the motorcycle in the front of the motorcycle pack?",
+  "pred": "Harley-Davidson",
+  "accuracy": 1.0,
+  "gt_answers": "harley davidson×6, harley×2, suzuki×2",
+  "gt_raw": [
+    "harley davidson",
+    "harley davidson",
+    "harley davidson",
+    "harley davidson",
+    "harley davidson",
+    "harley davidson",
+    "harley",
+    "harley",
+    "suzuki",
+    "suzuki"
+  ],
+  "num_crops": 0
+}

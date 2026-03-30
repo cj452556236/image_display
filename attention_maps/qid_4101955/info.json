@@ -1,0 +1,20 @@
+{
+  "question_id": 4101955,
+  "question": "What material is the wet suit made from?",
+  "pred": "neoprene",
+  "accuracy": 1.0,
+  "gt_answers": "neoprene×4, rubber×4, spandex×2",
+  "gt_raw": [
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "neoprene",
+    "rubber",
+    "rubber",
+    "rubber",
+    "rubber",
+    "spandex",
+    "spandex"
+  ],
+  "num_crops": 0
+}

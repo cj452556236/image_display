@@ -1,0 +1,20 @@
+{
+  "question_id": 3975875,
+  "question": "What material is the jacket made from?",
+  "pred": "Denim",
+  "accuracy": 1.0,
+  "gt_answers": "denim×6, jean×2, leather×2",
+  "gt_raw": [
+    "denim",
+    "denim",
+    "denim",
+    "denim",
+    "denim",
+    "denim",
+    "jean",
+    "jean",
+    "leather",
+    "leather"
+  ],
+  "num_crops": 1
+}

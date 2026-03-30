@@ -1,0 +1,20 @@
+{
+  "question_id": 1803295,
+  "question": "What new company has created competition for this type of transportation?",
+  "pred": "Uber",
+  "accuracy": 1.0,
+  "gt_answers": "uber×10",
+  "gt_raw": [
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber",
+    "uber"
+  ],
+  "num_crops": 1
+}

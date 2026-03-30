@@ -1,0 +1,20 @@
+{
+  "question_id": 3884225,
+  "question": "What sport is this?",
+  "pred": "rugby",
+  "accuracy": 1.0,
+  "gt_answers": "rugby×6, footbal×2, football×2",
+  "gt_raw": [
+    "rugby",
+    "rugby",
+    "rugby",
+    "rugby",
+    "rugby",
+    "rugby",
+    "footbal",
+    "footbal",
+    "football",
+    "football"
+  ],
+  "num_crops": 0
+}

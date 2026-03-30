@@ -1,0 +1,20 @@
+{
+  "question_id": 4535205,
+  "question": "Are these animals mammals or insects?",
+  "pred": "mammals",
+  "accuracy": 1.0,
+  "gt_answers": "mammals×8, animals×2",
+  "gt_raw": [
+    "mammals",
+    "mammals",
+    "mammals",
+    "mammals",
+    "mammals",
+    "mammals",
+    "mammals",
+    "mammals",
+    "animals",
+    "animals"
+  ],
+  "num_crops": 0
+}

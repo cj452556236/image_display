@@ -1,0 +1,20 @@
+{
+  "question_id": 1110325,
+  "question": "What brand is this wine?",
+  "pred": "Becker",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "becker vineyards×4, becker vineyard×4, becker×2",
+  "gt_raw": [
+    "becker vineyards",
+    "becker vineyards",
+    "becker vineyards",
+    "becker vineyards",
+    "becker vineyard",
+    "becker vineyard",
+    "becker vineyard",
+    "becker vineyard",
+    "becker",
+    "becker"
+  ],
+  "num_crops": 1
+}

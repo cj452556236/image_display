@@ -1,0 +1,20 @@
+{
+  "question_id": 2706725,
+  "question": "What type of event are these people attending?",
+  "pred": "Festival",
+  "accuracy": 1.0,
+  "gt_answers": "festival×4, food×2, food fesrival×2, fair×2",
+  "gt_raw": [
+    "festival",
+    "festival",
+    "festival",
+    "festival",
+    "food",
+    "food",
+    "food fesrival",
+    "food fesrival",
+    "fair",
+    "fair"
+  ],
+  "num_crops": 0
+}

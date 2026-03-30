@@ -1,0 +1,20 @@
+{
+  "question_id": 5246115,
+  "question": "What is being hauled in this train?",
+  "pred": "oil",
+  "accuracy": 1.0,
+  "gt_answers": "oil×4, coal×2, fuel×2, chemicals×2",
+  "gt_raw": [
+    "oil",
+    "oil",
+    "oil",
+    "oil",
+    "coal",
+    "coal",
+    "fuel",
+    "fuel",
+    "chemicals",
+    "chemicals"
+  ],
+  "num_crops": 1
+}

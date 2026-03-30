@@ -1,0 +1,20 @@
+{
+  "question_id": 4347465,
+  "question": "What is the name of the trick being performed?",
+  "pred": "ollie",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "flip×4, flip kick×2, ollie×2, skateboard jumping×2",
+  "gt_raw": [
+    "flip",
+    "flip",
+    "flip",
+    "flip",
+    "flip kick",
+    "flip kick",
+    "ollie",
+    "ollie",
+    "skateboard jumping",
+    "skateboard jumping"
+  ],
+  "num_crops": 0
+}

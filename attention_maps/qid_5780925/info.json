@@ -1,0 +1,20 @@
+{
+  "question_id": 5780925,
+  "question": "What language is the sign in?",
+  "pred": "French",
+  "accuracy": 1.0,
+  "gt_answers": "french×6, russian×2, spanish×2",
+  "gt_raw": [
+    "french",
+    "french",
+    "french",
+    "french",
+    "french",
+    "french",
+    "russian",
+    "russian",
+    "spanish",
+    "spanish"
+  ],
+  "num_crops": 0
+}

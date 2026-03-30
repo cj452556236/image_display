@@ -1,0 +1,20 @@
+{
+  "question_id": 3170625,
+  "question": "What key allows someone to remove text?",
+  "pred": "delete",
+  "accuracy": 1.0,
+  "gt_answers": "backspace×6, delete×4",
+  "gt_raw": [
+    "backspace",
+    "backspace",
+    "backspace",
+    "backspace",
+    "backspace",
+    "backspace",
+    "delete",
+    "delete",
+    "delete",
+    "delete"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 190365,
+  "question": "Which class are these students most likely attending?",
+  "pred": "cooking",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "culinary×4, home economics×2, home ec×2, cooking×2",
+  "gt_raw": [
+    "culinary",
+    "culinary",
+    "culinary",
+    "culinary",
+    "home economics",
+    "home economics",
+    "home ec",
+    "home ec",
+    "cooking",
+    "cooking"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5396045,
+  "question": "Can you name the place where this bird is seen?",
+  "pred": "lake",
+  "accuracy": 1.0,
+  "gt_answers": "river×4, lake×4, pond×2",
+  "gt_raw": [
+    "river",
+    "river",
+    "river",
+    "river",
+    "lake",
+    "lake",
+    "lake",
+    "lake",
+    "pond",
+    "pond"
+  ],
+  "num_crops": 1
+}

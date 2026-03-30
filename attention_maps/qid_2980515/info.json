@@ -1,0 +1,20 @@
+{
+  "question_id": 2980515,
+  "question": "What event is this?",
+  "pred": "concert",
+  "accuracy": 1.0,
+  "gt_answers": "concert×8, british heart foundation×2",
+  "gt_raw": [
+    "concert",
+    "concert",
+    "concert",
+    "concert",
+    "concert",
+    "concert",
+    "concert",
+    "concert",
+    "british heart foundation",
+    "british heart foundation"
+  ],
+  "num_crops": 0
+}

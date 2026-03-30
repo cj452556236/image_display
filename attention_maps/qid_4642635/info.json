@@ -1,0 +1,20 @@
+{
+  "question_id": 4642635,
+  "question": "What object is synonymous with a rodent in this image?",
+  "pred": "mouse",
+  "accuracy": 1.0,
+  "gt_answers": "mouse×10",
+  "gt_raw": [
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse",
+    "mouse"
+  ],
+  "num_crops": 0
+}

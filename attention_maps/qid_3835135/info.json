@@ -1,0 +1,20 @@
+{
+  "question_id": 3835135,
+  "question": "What type of clouds are these?",
+  "pred": "cumulus",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "nimbus×4, rain×2, cumulus×2, cumulous×2",
+  "gt_raw": [
+    "nimbus",
+    "nimbus",
+    "nimbus",
+    "nimbus",
+    "rain",
+    "rain",
+    "cumulus",
+    "cumulus",
+    "cumulous",
+    "cumulous"
+  ],
+  "num_crops": 1
+}

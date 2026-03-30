@@ -1,0 +1,20 @@
+{
+  "question_id": 1121105,
+  "question": "What is the lighting in this space?",
+  "pred": "low",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "street lamp×4, ground lights×2, low×2, dark×2",
+  "gt_raw": [
+    "street lamp",
+    "street lamp",
+    "street lamp",
+    "street lamp",
+    "ground lights",
+    "ground lights",
+    "low",
+    "low",
+    "dark",
+    "dark"
+  ],
+  "num_crops": 0
+}

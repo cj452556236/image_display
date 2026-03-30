@@ -1,0 +1,20 @@
+{
+  "question_id": 3448885,
+  "question": "What kind of farm is this?",
+  "pred": "horse",
+  "accuracy": 1.0,
+  "gt_answers": "horse farm×4, horse×4, rustic×2",
+  "gt_raw": [
+    "horse farm",
+    "horse farm",
+    "horse farm",
+    "horse farm",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "rustic",
+    "rustic"
+  ],
+  "num_crops": 1
+}

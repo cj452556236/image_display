@@ -1,0 +1,20 @@
+{
+  "question_id": 2158125,
+  "question": "What are these used for?",
+  "pred": "urination",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "peeing×4, urine×2, elimination×2, urination×2",
+  "gt_raw": [
+    "peeing",
+    "peeing",
+    "peeing",
+    "peeing",
+    "urine",
+    "urine",
+    "elimination",
+    "elimination",
+    "urination",
+    "urination"
+  ],
+  "num_crops": 0
+}

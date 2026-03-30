@@ -1,0 +1,20 @@
+{
+  "question_id": 5156125,
+  "question": "What musical instrument is this man playing?",
+  "pred": "keyboard",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "piano×6, keyboard piano×2, keyboard×2",
+  "gt_raw": [
+    "piano",
+    "piano",
+    "piano",
+    "piano",
+    "piano",
+    "piano",
+    "keyboard piano",
+    "keyboard piano",
+    "keyboard",
+    "keyboard"
+  ],
+  "num_crops": 1
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5490485,
+  "question": "What is the rack on the bus used for?",
+  "pred": "bicycles",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "bikes×4, carry bikes×2, luggage×2, bicycles×2",
+  "gt_raw": [
+    "bikes",
+    "bikes",
+    "bikes",
+    "bikes",
+    "carry bikes",
+    "carry bikes",
+    "luggage",
+    "luggage",
+    "bicycles",
+    "bicycles"
+  ],
+  "num_crops": 1
+}

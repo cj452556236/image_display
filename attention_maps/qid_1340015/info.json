@@ -1,0 +1,20 @@
+{
+  "question_id": 1340015,
+  "question": "What service does this store sell?",
+  "pred": "clothing",
+  "accuracy": 1.0,
+  "gt_answers": "clothing×4, clothes×4, hard to see×2",
+  "gt_raw": [
+    "clothing",
+    "clothing",
+    "clothing",
+    "clothing",
+    "clothes",
+    "clothes",
+    "clothes",
+    "clothes",
+    "hard to see",
+    "hard to see"
+  ],
+  "num_crops": 1
+}

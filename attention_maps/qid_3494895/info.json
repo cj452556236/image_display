@@ -1,0 +1,20 @@
+{
+  "question_id": 3494895,
+  "question": "These round edible items are called what in england?",
+  "pred": "biscuits",
+  "accuracy": 1.0,
+  "gt_answers": "biscuits×6, scones×2, biscuit×2",
+  "gt_raw": [
+    "biscuits",
+    "biscuits",
+    "biscuits",
+    "biscuits",
+    "biscuits",
+    "biscuits",
+    "scones",
+    "scones",
+    "biscuit",
+    "biscuit"
+  ],
+  "num_crops": 1
+}

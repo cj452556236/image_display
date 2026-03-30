@@ -1,0 +1,20 @@
+{
+  "question_id": 4557465,
+  "question": "What type of fruits are shown in the picture?",
+  "pred": "bananas",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "grapes and bananas×2, bannanas and grapes×2, bananas×2, bananas and grapes×2, banana and grape×2",
+  "gt_raw": [
+    "grapes and bananas",
+    "grapes and bananas",
+    "bannanas and grapes",
+    "bannanas and grapes",
+    "bananas",
+    "bananas",
+    "bananas and grapes",
+    "bananas and grapes",
+    "banana and grape",
+    "banana and grape"
+  ],
+  "num_crops": 1
+}

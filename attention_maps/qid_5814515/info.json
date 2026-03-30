@@ -1,0 +1,20 @@
+{
+  "question_id": 5814515,
+  "question": "What topping are on the hotdog?",
+  "pred": "ketchup",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "ketchup and peas×6, ketchup×2, ketchup condiments×2",
+  "gt_raw": [
+    "ketchup and peas",
+    "ketchup and peas",
+    "ketchup and peas",
+    "ketchup and peas",
+    "ketchup and peas",
+    "ketchup and peas",
+    "ketchup",
+    "ketchup",
+    "ketchup condiments",
+    "ketchup condiments"
+  ],
+  "num_crops": 1
+}

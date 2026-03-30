@@ -1,0 +1,20 @@
+{
+  "question_id": 3989925,
+  "question": "What area of a school might this be?",
+  "pred": "library",
+  "accuracy": 1.0,
+  "gt_answers": "library×10",
+  "gt_raw": [
+    "library",
+    "library",
+    "library",
+    "library",
+    "library",
+    "library",
+    "library",
+    "library",
+    "library",
+    "library"
+  ],
+  "num_crops": 1
+}

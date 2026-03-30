@@ -1,0 +1,20 @@
+{
+  "question_id": 5470475,
+  "question": "What time of day is it?",
+  "pred": "afternoon",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "dusk×4, afternoon×2, evening×2, morning×2",
+  "gt_raw": [
+    "dusk",
+    "dusk",
+    "dusk",
+    "dusk",
+    "afternoon",
+    "afternoon",
+    "evening",
+    "evening",
+    "morning",
+    "morning"
+  ],
+  "num_crops": 0
+}

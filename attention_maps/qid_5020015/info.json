@@ -1,0 +1,20 @@
+{
+  "question_id": 5020015,
+  "question": "What animal is the woman's shirt replicating the pelt?",
+  "pred": "leopard",
+  "accuracy": 1.0,
+  "gt_answers": "leopard×4, zebra×4, cheetah×2",
+  "gt_raw": [
+    "leopard",
+    "leopard",
+    "leopard",
+    "leopard",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra",
+    "cheetah",
+    "cheetah"
+  ],
+  "num_crops": 0
+}

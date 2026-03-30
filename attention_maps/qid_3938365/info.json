@@ -1,0 +1,20 @@
+{
+  "question_id": 3938365,
+  "question": "What is this type of blanket called?",
+  "pred": "quilt",
+  "accuracy": 1.0,
+  "gt_answers": "quilt×8, patchwork×2",
+  "gt_raw": [
+    "quilt",
+    "quilt",
+    "quilt",
+    "quilt",
+    "quilt",
+    "quilt",
+    "quilt",
+    "quilt",
+    "patchwork",
+    "patchwork"
+  ],
+  "num_crops": 1
+}

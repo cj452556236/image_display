@@ -1,0 +1,20 @@
+{
+  "question_id": 71085,
+  "question": "What is this animal known for?",
+  "pred": "trunk",
+  "accuracy": 1.0,
+  "gt_answers": "trunk×4, peanuts×2, circus×2, ivory×2",
+  "gt_raw": [
+    "trunk",
+    "trunk",
+    "trunk",
+    "trunk",
+    "peanuts",
+    "peanuts",
+    "circus",
+    "circus",
+    "ivory",
+    "ivory"
+  ],
+  "num_crops": 0
+}

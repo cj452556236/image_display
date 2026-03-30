@@ -1,0 +1,20 @@
+{
+  "question_id": 1683755,
+  "question": "A famous of these animals does not like mondays?",
+  "pred": "cat",
+  "accuracy": 0.6666666666666666,
+  "gt_answers": "garfield×8, cat×2",
+  "gt_raw": [
+    "garfield",
+    "garfield",
+    "garfield",
+    "garfield",
+    "garfield",
+    "garfield",
+    "garfield",
+    "garfield",
+    "cat",
+    "cat"
+  ],
+  "num_crops": 0
+}

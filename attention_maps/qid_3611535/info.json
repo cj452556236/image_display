@@ -1,0 +1,20 @@
+{
+  "question_id": 3611535,
+  "question": "What kind of tomato sauce is there?",
+  "pred": "marinara",
+  "accuracy": 1.0,
+  "gt_answers": "marinara×4, sweet and sour×2, tomato×2, hot oil tomato sauce×2",
+  "gt_raw": [
+    "marinara",
+    "marinara",
+    "marinara",
+    "marinara",
+    "sweet and sour",
+    "sweet and sour",
+    "tomato",
+    "tomato",
+    "hot oil tomato sauce",
+    "hot oil tomato sauce"
+  ],
+  "num_crops": 0
+}

@@ -1,0 +1,20 @@
+{
+  "question_id": 5101385,
+  "question": "What is he listening to?",
+  "pred": "music",
+  "accuracy": 1.0,
+  "gt_answers": "music×8, headphones×2",
+  "gt_raw": [
+    "music",
+    "music",
+    "music",
+    "music",
+    "music",
+    "music",
+    "music",
+    "music",
+    "headphones",
+    "headphones"
+  ],
+  "num_crops": 0
+}

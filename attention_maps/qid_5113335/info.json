@@ -1,0 +1,20 @@
+{
+  "question_id": 5113335,
+  "question": "Where should you put your valuables when staying here?",
+  "pred": "safe",
+  "accuracy": 1.0,
+  "gt_answers": "safe×6, closet×2, front desk×2",
+  "gt_raw": [
+    "safe",
+    "safe",
+    "safe",
+    "safe",
+    "safe",
+    "safe",
+    "closet",
+    "closet",
+    "front desk",
+    "front desk"
+  ],
+  "num_crops": 0
+}

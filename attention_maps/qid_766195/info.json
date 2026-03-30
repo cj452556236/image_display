@@ -1,0 +1,20 @@
+{
+  "question_id": 766195,
+  "question": "What type of program is playing on the tv?",
+  "pred": "news",
+  "accuracy": 1.0,
+  "gt_answers": "talk show×4, news×4, late night talk×2",
+  "gt_raw": [
+    "talk show",
+    "talk show",
+    "talk show",
+    "talk show",
+    "news",
+    "news",
+    "news",
+    "news",
+    "late night talk",
+    "late night talk"
+  ],
+  "num_crops": 1
+}

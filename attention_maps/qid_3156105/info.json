@@ -1,0 +1,20 @@
+{
+  "question_id": 3156105,
+  "question": "What amusement ride is pictured?",
+  "pred": "Ferris wheel",
+  "accuracy": 1.0,
+  "gt_answers": "ferris wheel×10",
+  "gt_raw": [
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel",
+    "ferris wheel"
+  ],
+  "num_crops": 1
+}

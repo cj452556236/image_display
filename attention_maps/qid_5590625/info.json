@@ -1,0 +1,20 @@
+{
+  "question_id": 5590625,
+  "question": "What common material can you use to clean shine the object being held?",
+  "pred": "wax",
+  "accuracy": 1.0,
+  "gt_answers": "wax×8, resin×2",
+  "gt_raw": [
+    "wax",
+    "wax",
+    "wax",
+    "wax",
+    "wax",
+    "wax",
+    "wax",
+    "wax",
+    "resin",
+    "resin"
+  ],
+  "num_crops": 0
+}
