@@ -1,0 +1,20 @@
+{
+  "question_id": 4054325,
+  "question": "What type of electronic device does the remote on this table control?",
+  "pred": "television",
+  "accuracy": 1.0,
+  "gt_answers": "tv×6, television×4",
+  "gt_raw": [
+    "tv",
+    "tv",
+    "tv",
+    "tv",
+    "tv",
+    "tv",
+    "television",
+    "television",
+    "television",
+    "television"
+  ],
+  "num_crops": 1
+}
