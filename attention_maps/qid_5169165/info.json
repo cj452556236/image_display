@@ -1,7 +1,0 @@
-{
-  "question_id": 5169165,
-  "question": "What is this desk used for?",
-  "gt_answers": "['working', 'working', 'working', 'working', 'computing', 'computing', 'work', 'work', 'office', 'office']",
-  "prediction": "Work",
-  "num_images": 2
-}

@@ -1,7 +1,0 @@
-{
-  "question_id": 3045575,
-  "question": "Why might someone go to this place?",
-  "gt_answers": "['shopping', 'shopping', 'shopping', 'shopping', 'nyc', 'nyc', 'shop', 'shop', 'business', 'business']",
-  "prediction": "shop",
-  "num_images": 1
-}
