@@ -1,0 +1,7 @@
+{
+  "question_id": 5759705,
+  "question": "A center affixed unit like this one in a kitchen is called a what?",
+  "gt_answers": "['island', 'island', 'island', 'island', 'island', 'island', 'island', 'island', 'island', 'island']",
+  "prediction": "island",
+  "num_images": 2
+}
