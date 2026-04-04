@@ -1,7 +1,0 @@
-{
-  "question_id": 217115,
-  "question": "What type of bike is on the ground?",
-  "gt_answers": "['bmx', 'bmx', 'bmx', 'bmx', 'bicycle', 'bicycle', 'bicycle', 'bicycle', '10 speed', '10 speed']",
-  "prediction": "bicycle",
-  "num_images": 2
-}

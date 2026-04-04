@@ -1,7 +1,0 @@
-{
-  "question_id": 2863135,
-  "question": "What is that man doing with the bat?",
-  "gt_answers": "['swinging', 'swinging', 'swinging', 'swinging', 'swing', 'swing', 'hitting', 'hitting', 'trying to hit hte ball', 'trying to hit hte ball']",
-  "prediction": "swinging",
-  "num_images": 2
-}
