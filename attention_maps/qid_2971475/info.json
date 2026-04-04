@@ -1,0 +1,7 @@
+{
+  "question_id": 2971475,
+  "question": "What sport can you use this for?",
+  "gt_answers": "['racing', 'racing', 'racing', 'racing', 'racing', 'racing', 'motocross', 'motocross', 'riding', 'riding']",
+  "prediction": "racing",
+  "num_images": 1
+}

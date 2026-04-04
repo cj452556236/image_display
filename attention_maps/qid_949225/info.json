@@ -1,0 +1,7 @@
+{
+  "question_id": 949225,
+  "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+  "gt_answers": "['mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth']",
+  "prediction": "mouth",
+  "num_images": 2
+}
