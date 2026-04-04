@@ -1,7 +1,0 @@
-{
-  "question_id": 299845,
-  "question": "Is this at a salt water beach or a lake?",
-  "gt_answers": "['salt water beach', 'salt water beach', 'salt water beach', 'salt water beach', 'salt water', 'salt water', 'lake', 'lake', 'beach', 'beach']",
-  "prediction": "salt water",
-  "num_images": 2
-}

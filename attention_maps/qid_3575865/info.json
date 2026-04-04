@@ -1,7 +1,0 @@
-{
-  "question_id": 3575865,
-  "question": "What toy is this?",
-  "gt_answers": "['stuffed animal', 'stuffed animal', 'stuffed animal', 'stuffed animal', 'stuffed animal', 'stuffed animal', 'teddy bear', 'teddy bear', 'teddy bear', 'teddy bear']",
-  "prediction": "teddy bear",
-  "num_images": 2
-}
