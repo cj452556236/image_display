@@ -1,7 +1,0 @@
-{
-  "question_id": 115115,
-  "question": "Who designed the statues?",
-  "gt_answers": "['artist', 'artist', 'artist', 'artist', 'guell', 'guell', 'toscano', 'toscano', 'aritect', 'aritect']",
-  "prediction": "artist",
-  "num_images": 2
-}
