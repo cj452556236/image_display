@@ -1,0 +1,7 @@
+{
+  "question_id": 1121105,
+  "question": "What is the lighting in this space?",
+  "gt_answers": "['street lamp', 'street lamp', 'street lamp', 'street lamp', 'ground lights', 'ground lights', 'low', 'low', 'dark', 'dark']",
+  "prediction": "low",
+  "num_images": 1
+}

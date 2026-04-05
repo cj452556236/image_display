@@ -1,0 +1,7 @@
+{
+  "question_id": 4655505,
+  "question": "What kind of polygon is shown in this picture?",
+  "gt_answers": "['octogon', 'octogon', 'octogon', 'octogon', 'octagon', 'octagon', 'octagon', 'octagon', 'stop sign', 'stop sign']",
+  "prediction": "octagon",
+  "num_images": 1
+}

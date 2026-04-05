@@ -1,0 +1,7 @@
+{
+  "question_id": 60055,
+  "question": "How long is this animals tongue on average?",
+  "gt_answers": "['20 inches', '20 inches', '20 inches', '20 inches', '10 inches', '10 inches', '10 feet', '10 feet', 'long', 'long']",
+  "prediction": "long",
+  "num_images": 2
+}

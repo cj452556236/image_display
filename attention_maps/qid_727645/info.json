@@ -1,0 +1,7 @@
+{
+  "question_id": 727645,
+  "question": "Is this sport popular more popular in the us or the uk?",
+  "gt_answers": "['uk', 'uk', 'uk', 'uk', 'uk', 'uk', 'uk', 'uk', 'uk', 'uk']",
+  "prediction": "UK",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4202295,
+  "question": "What is the name of the white device in the photo?",
+  "gt_answers": "['slicer', 'slicer', 'slicer', 'slicer', 'apple slicer', 'apple slicer', 'corer', 'corer', 'apple corer', 'apple corer']",
+  "prediction": "corer",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 433455,
+  "question": "What sense is this animal known for?",
+  "gt_answers": "['smell', 'smell', 'smell', 'smell', 'smell', 'smell', 'smell', 'smell', 'smelling', 'smelling']",
+  "prediction": "smell",
+  "num_images": 1
+}

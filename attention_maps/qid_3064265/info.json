@@ -1,0 +1,7 @@
+{
+  "question_id": 3064265,
+  "question": "What occupation is the womans?",
+  "gt_answers": "['baker', 'baker', 'baker', 'baker', 'baker', 'baker', 'baker', 'baker', 'cook', 'cook']",
+  "prediction": "baker",
+  "num_images": 2
+}

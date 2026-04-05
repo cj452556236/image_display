@@ -1,0 +1,7 @@
+{
+  "question_id": 2525825,
+  "question": "What is the drivers seat of this vehicle be called?",
+  "gt_answers": "['cockpit', 'cockpit', 'cockpit', 'cockpit', 'cockpit', 'cockpit', 'pilot', 'pilot', 'airplane pilot', 'airplane pilot']",
+  "prediction": "cockpit",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1348825,
+  "question": "The covering on the bed is called a what?",
+  "gt_answers": "['blanket', 'blanket', 'blanket', 'blanket', 'blanket', 'blanket', 'comforter', 'comforter', 'tarten', 'tarten']",
+  "prediction": "blanket",
+  "num_images": 2
+}

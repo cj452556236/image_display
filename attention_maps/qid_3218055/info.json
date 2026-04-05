@@ -1,0 +1,7 @@
+{
+  "question_id": 3218055,
+  "question": "Who designed this tower beautifully?",
+  "gt_answers": "['architect', 'architect', 'architect', 'architect', 'spanish man', 'spanish man', 'engineers', 'engineers', 'sir george gilbert scott', 'sir george gilbert scott']",
+  "prediction": "architect",
+  "num_images": 2
+}

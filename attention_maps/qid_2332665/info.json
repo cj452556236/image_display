@@ -1,0 +1,7 @@
+{
+  "question_id": 2332665,
+  "question": "Should beginners surf on hide tides or low tides?",
+  "gt_answers": "['low', 'low', 'low', 'low', 'low', 'low', 'low tides', 'low tides', 'low tides', 'low tides']",
+  "prediction": "low",
+  "num_images": 2
+}

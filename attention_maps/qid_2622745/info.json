@@ -1,0 +1,7 @@
+{
+  "question_id": 2622745,
+  "question": "To whom does that board belong?",
+  "gt_answers": "['lifeguard', 'lifeguard', 'lifeguard', 'lifeguard', 'lifeguard', 'lifeguard', 'lifeguard', 'lifeguard', 'man', 'man']",
+  "prediction": "lifeguard",
+  "num_images": 2
+}

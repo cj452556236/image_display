@@ -1,0 +1,7 @@
+{
+  "question_id": 5153915,
+  "question": "What is the knot on this man's tie called?",
+  "gt_answers": "['knot', 'knot', 'knot', 'knot', 'windsor', 'windsor', 'neck tie', 'neck tie', 'regular', 'regular']",
+  "prediction": "windsor",
+  "num_images": 2
+}

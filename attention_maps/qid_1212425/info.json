@@ -1,0 +1,7 @@
+{
+  "question_id": 1212425,
+  "question": "What is the red item the horses are pulling?",
+  "gt_answers": "['carriage', 'carriage', 'carriage', 'carriage', 'fire wagon', 'fire wagon', 'fire engine', 'fire engine', 'tractor', 'tractor']",
+  "prediction": "carriage",
+  "num_images": 2
+}

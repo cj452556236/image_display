@@ -1,0 +1,7 @@
+{
+  "question_id": 468895,
+  "question": "This small person's first set of teeth are called the what teeth?",
+  "gt_answers": "['baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby']",
+  "prediction": "baby",
+  "num_images": 2
+}

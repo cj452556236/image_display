@@ -1,0 +1,7 @@
+{
+  "question_id": 1805155,
+  "question": "What famous city is this located in?",
+  "gt_answers": "['new york city', 'new york city', 'new york city', 'new york city', 'new york city', 'new york city', 'new york', 'new york', 'new york', 'new york']",
+  "prediction": "New York",
+  "num_images": 2
+}

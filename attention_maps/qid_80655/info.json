@@ -1,0 +1,7 @@
+{
+  "question_id": 80655,
+  "question": "What action is the baseball player doing in this scene?",
+  "gt_answers": "['batting', 'batting', 'batting', 'batting', 'swinging', 'swinging', 'swinging', 'swinging', 'hitting', 'hitting']",
+  "prediction": "Swinging",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4469835,
+  "question": "Is it snowing or raing?",
+  "gt_answers": "['snowing', 'snowing', 'snowing', 'snowing', 'snowing', 'snowing', 'snowing', 'snowing', 'snowing', 'snowing']",
+  "prediction": "Snowing",
+  "num_images": 1
+}

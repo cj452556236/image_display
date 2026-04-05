@@ -1,0 +1,7 @@
+{
+  "question_id": 5562485,
+  "question": "What is a water source called in this environment?",
+  "gt_answers": "['oasis', 'oasis', 'oasis', 'oasis', 'oasis', 'oasis', 'oasis', 'oasis', 'ocean', 'ocean']",
+  "prediction": "ocean",
+  "num_images": 2
+}

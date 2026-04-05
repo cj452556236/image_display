@@ -1,0 +1,7 @@
+{
+  "question_id": 4780935,
+  "question": "What company owns the airplane?",
+  "gt_answers": "['star alliance', 'star alliance', 'star alliance', 'star alliance', 'star alliance', 'star alliance', 'delta', 'delta', 'american airlines', 'american airlines']",
+  "prediction": "Star Alliance",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5004205,
+  "question": "The long trailing part of this flying object is called a what?",
+  "gt_answers": "['tail', 'tail', 'tail', 'tail', 'tail', 'tail', 'tail', 'tail', 'tail', 'tail']",
+  "prediction": "tail",
+  "num_images": 1
+}

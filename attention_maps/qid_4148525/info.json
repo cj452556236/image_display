@@ -1,0 +1,7 @@
+{
+  "question_id": 4148525,
+  "question": "Can you guess the type of flooring shown in this picture?",
+  "gt_answers": "['stone', 'stone', 'stone', 'stone', 'tile', 'tile', 'tile', 'tile', 'linoleum', 'linoleum']",
+  "prediction": "tile",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2338405,
+  "question": "What type of dish is this?",
+  "gt_answers": "['sandwich', 'sandwich', 'sandwich', 'sandwich', 'fast food', 'fast food', 'hotdog', 'hotdog', 'chili dog', 'chili dog']",
+  "prediction": "hot dog",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 701925,
+  "question": "What do you do in this room?",
+  "gt_answers": "['sleep', 'sleep', 'sleep', 'sleep', 'sleep', 'sleep', 'sleep', 'sleep', 'live', 'live']",
+  "prediction": "sleep",
+  "num_images": 2
+}

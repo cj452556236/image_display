@@ -1,0 +1,7 @@
+{
+  "question_id": 5577095,
+  "question": "If the player misses the ball in the pictured game it is called what?",
+  "gt_answers": "['strike', 'strike', 'strike', 'strike', 'strike', 'strike', 'strike', 'strike', 'error', 'error']",
+  "prediction": "strike",
+  "num_images": 2
+}

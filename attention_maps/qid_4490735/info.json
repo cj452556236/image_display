@@ -1,0 +1,7 @@
+{
+  "question_id": 4490735,
+  "question": "What style of oranges are in the stack?",
+  "gt_answers": "['navel', 'navel', 'navel', 'navel', 'tangerine', 'tangerine', 'regular oranges', 'regular oranges', 'mandarin', 'mandarin']",
+  "prediction": "navel",
+  "num_images": 2
+}

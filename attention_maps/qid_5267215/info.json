@@ -1,0 +1,7 @@
+{
+  "question_id": 5267215,
+  "question": "Is this animal a carnivore herbivore or omnivore?",
+  "gt_answers": "['carnivore', 'carnivore', 'carnivore', 'carnivore', 'carnivore', 'carnivore', 'carnivore', 'carnivore', 'omnivore', 'omnivore']",
+  "prediction": "carnivore",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4066815,
+  "question": "What breed of dogs are in this photo?",
+  "gt_answers": "['pit bull', 'pit bull', 'pit bull', 'pit bull', 'pit bull', 'pit bull', 'terrier', 'terrier', 'hound', 'hound']",
+  "prediction": "pit bull",
+  "num_images": 2
+}

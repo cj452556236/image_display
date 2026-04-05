@@ -1,0 +1,7 @@
+{
+  "question_id": 1318415,
+  "question": "How does the bread taste?",
+  "gt_answers": "['good', 'good', 'good', 'good', 'like bread', 'like bread', 'sweet', 'sweet', 'delicious', 'delicious']",
+  "prediction": "sweet",
+  "num_images": 2
+}

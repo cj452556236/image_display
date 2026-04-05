@@ -1,0 +1,7 @@
+{
+  "question_id": 4313065,
+  "question": "What kind of lights are over these mirrors?",
+  "gt_answers": "['flourescent', 'flourescent', 'flourescent', 'flourescent', 'florescent', 'florescent', 'ceiling', 'ceiling', 'fluorescent', 'fluorescent']",
+  "prediction": "fluorescent",
+  "num_images": 2
+}

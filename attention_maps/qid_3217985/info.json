@@ -1,0 +1,7 @@
+{
+  "question_id": 3217985,
+  "question": "How many calories are in this meal?",
+  "gt_answers": "['400', '400', '400', '400', '1200', '1200', '1000', '1000', '500', '500']",
+  "prediction": "500",
+  "num_images": 2
+}

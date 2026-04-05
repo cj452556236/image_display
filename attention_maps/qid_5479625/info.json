@@ -1,0 +1,7 @@
+{
+  "question_id": 5479625,
+  "question": "What is the weather in this photo?",
+  "gt_answers": "['raining', 'raining', 'raining', 'raining', 'rainy', 'rainy', 'rainy', 'rainy', 'rain', 'rain']",
+  "prediction": "rainy",
+  "num_images": 2
+}

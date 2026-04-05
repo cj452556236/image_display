@@ -1,0 +1,7 @@
+{
+  "question_id": 4399075,
+  "question": "What type of countertop is used for the sink?",
+  "gt_answers": "['granite', 'granite', 'granite', 'granite', 'marble', 'marble', 'marble', 'marble', 'black', 'black']",
+  "prediction": "granite",
+  "num_images": 2
+}

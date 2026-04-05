@@ -1,0 +1,7 @@
+{
+  "question_id": 1137565,
+  "question": "What is missing on this man's elbows and knees?",
+  "gt_answers": "['pads', 'pads', 'pads', 'pads', 'pads', 'pads', 'pads', 'pads', 'safety pads', 'safety pads']",
+  "prediction": "pads",
+  "num_images": 2
+}

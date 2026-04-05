@@ -1,0 +1,7 @@
+{
+  "question_id": 5060855,
+  "question": "What is a famous example of the item in the middle of the picture?",
+  "gt_answers": "['big ben', 'big ben', 'big ben', 'big ben', 'big ben', 'big ben', 'telling time', 'telling time', 'clock', 'clock']",
+  "prediction": "Big Ben",
+  "num_images": 2
+}

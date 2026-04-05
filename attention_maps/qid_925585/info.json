@@ -1,0 +1,7 @@
+{
+  "question_id": 925585,
+  "question": "What type of weather would you say is shown here?",
+  "gt_answers": "['partly cloudy', 'partly cloudy', 'partly cloudy', 'partly cloudy', 'cloudy', 'cloudy', 'cloudy', 'cloudy', 'stormy', 'stormy']",
+  "prediction": "cloudy",
+  "num_images": 1
+}

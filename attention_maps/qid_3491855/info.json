@@ -1,0 +1,7 @@
+{
+  "question_id": 3491855,
+  "question": "What does this truck appear to be doing out in the open field?",
+  "gt_answers": "['dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping dirt', 'dumping', 'dumping']",
+  "prediction": "dumping",
+  "num_images": 2
+}

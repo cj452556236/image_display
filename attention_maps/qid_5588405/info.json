@@ -1,0 +1,7 @@
+{
+  "question_id": 5588405,
+  "question": "Name the dish which can be prepared using these vegetables?",
+  "gt_answers": "['hot dog', 'hot dog', 'hot dog', 'hot dog', 'soup', 'soup', 'french fries', 'french fries', 'mashed potatoes', 'mashed potatoes']",
+  "prediction": "hot dog",
+  "num_images": 1
+}

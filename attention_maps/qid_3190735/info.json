@@ -1,0 +1,7 @@
+{
+  "question_id": 3190735,
+  "question": "What is the person in the photo wearing?",
+  "gt_answers": "['wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'suit', 'suit', 'wet suit', 'wet suit', 'trunks', 'trunks']",
+  "prediction": "wetsuit",
+  "num_images": 1
+}

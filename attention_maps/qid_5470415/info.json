@@ -1,0 +1,7 @@
+{
+  "question_id": 5470415,
+  "question": "What is the black objects on the salad called?",
+  "gt_answers": "['olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'eggplant', 'eggplant', 'olive', 'olive']",
+  "prediction": "olives",
+  "num_images": 2
+}

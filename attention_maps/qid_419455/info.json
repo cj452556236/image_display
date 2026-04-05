@@ -1,0 +1,7 @@
+{
+  "question_id": 419455,
+  "question": "In what language is the name of this boat written?",
+  "gt_answers": "['danish', 'danish', 'danish', 'danish', 'japan', 'japan', 'chinese', 'chinese', 'vietnamese', 'vietnamese']",
+  "prediction": "Danish",
+  "num_images": 2
+}

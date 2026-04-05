@@ -1,0 +1,7 @@
+{
+  "question_id": 3262845,
+  "question": "What kind of board is this?",
+  "gt_answers": "['boogie', 'boogie', 'boogie', 'boogie', 'surf', 'surf', 'boogie board', 'boogie board', 'body', 'body']",
+  "prediction": "boogie board",
+  "num_images": 1
+}

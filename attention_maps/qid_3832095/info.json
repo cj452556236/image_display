@@ -1,0 +1,7 @@
+{
+  "question_id": 3832095,
+  "question": "What electronic device is this?",
+  "gt_answers": "['television', 'television', 'television', 'television', 'television', 'television', 'tv', 'tv', 'tv', 'tv']",
+  "prediction": "television",
+  "num_images": 2
+}

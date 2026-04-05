@@ -1,0 +1,7 @@
+{
+  "question_id": 3970635,
+  "question": "What is the shape?",
+  "gt_answers": "['circle', 'circle', 'circle', 'circle', 'circle', 'circle', 'round', 'round', 'round', 'round']",
+  "prediction": "circle",
+  "num_images": 1
+}

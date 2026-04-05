@@ -1,0 +1,7 @@
+{
+  "question_id": 4951465,
+  "question": "What organization operates this train?",
+  "gt_answers": "['amtrak', 'amtrak', 'amtrak', 'amtrak', 'southwest', 'southwest', 'southwest', 'southwest', 'norfolk southern', 'norfolk southern']",
+  "prediction": "South West",
+  "num_images": 2
+}

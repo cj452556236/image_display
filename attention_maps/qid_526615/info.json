@@ -1,0 +1,7 @@
+{
+  "question_id": 526615,
+  "question": "What kind of boat is shown here?",
+  "gt_answers": "['sailboat', 'sailboat', 'sailboat', 'sailboat', 'sailboat', 'sailboat', 'sail', 'sail', 'sail', 'sail']",
+  "prediction": "sailboat",
+  "num_images": 2
+}

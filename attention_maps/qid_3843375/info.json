@@ -1,0 +1,7 @@
+{
+  "question_id": 3843375,
+  "question": "In what sort of building might this be found?",
+  "gt_answers": "['hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'jail', 'jail', 'college dormitory', 'college dormitory']",
+  "prediction": "hospital",
+  "num_images": 1
+}

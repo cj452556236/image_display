@@ -1,0 +1,7 @@
+{
+  "question_id": 3161835,
+  "question": "What do people throw in these round objects?",
+  "gt_answers": "['coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins']",
+  "prediction": "coins",
+  "num_images": 1
+}

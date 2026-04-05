@@ -1,0 +1,7 @@
+{
+  "question_id": 2210005,
+  "question": "Why is this woman in bed?",
+  "gt_answers": "['sick', 'sick', 'sick', 'sick', 'sick', 'sick', 'childbirth', 'childbirth', \"she's sick\", \"she's sick\"]",
+  "prediction": "sick",
+  "num_images": 2
+}

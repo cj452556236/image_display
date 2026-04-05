@@ -1,0 +1,7 @@
+{
+  "question_id": 1994425,
+  "question": "The body hugging garment seen here is called a what?",
+  "gt_answers": "['wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wet suit', 'wet suit']",
+  "prediction": "wetsuit",
+  "num_images": 1
+}

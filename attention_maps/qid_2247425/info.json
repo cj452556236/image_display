@@ -1,0 +1,7 @@
+{
+  "question_id": 2247425,
+  "question": "What is the object called on the wall that you can see yourself in?",
+  "gt_answers": "['mirror', 'mirror', 'mirror', 'mirror', 'mirror', 'mirror', 'mirror', 'mirror', 'mirror', 'mirror']",
+  "prediction": "mirror",
+  "num_images": 2
+}

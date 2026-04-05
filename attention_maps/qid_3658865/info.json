@@ -1,0 +1,7 @@
+{
+  "question_id": 3658865,
+  "question": "What brand of phone is this?",
+  "gt_answers": "['samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'sasung', 'sasung']",
+  "prediction": "Samsung",
+  "num_images": 2
+}

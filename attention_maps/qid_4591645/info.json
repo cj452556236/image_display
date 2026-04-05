@@ -1,0 +1,7 @@
+{
+  "question_id": 4591645,
+  "question": "What brand is the black laptop?",
+  "gt_answers": "['acer', 'acer', 'acer', 'acer', 'acer', 'acer', 'acer', 'acer', 'acer', 'acer']",
+  "prediction": "Acer",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4670225,
+  "question": "What are the benefits of drinking coffee?",
+  "gt_answers": "['energy', 'energy', 'energy', 'energy', 'alertness', 'alertness', 'caffeinne', 'caffeinne', 'caffeine', 'caffeine']",
+  "prediction": "energy",
+  "num_images": 2
+}

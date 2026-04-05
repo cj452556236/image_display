@@ -1,0 +1,7 @@
+{
+  "question_id": 3804935,
+  "question": "What superhero donut is pictured?",
+  "gt_answers": "['batman', 'batman', 'batman', 'batman', 'batman', 'batman', 'batman', 'batman', 'spiderman', 'spiderman']",
+  "prediction": "Batman",
+  "num_images": 2
+}

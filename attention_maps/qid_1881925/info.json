@@ -1,0 +1,7 @@
+{
+  "question_id": 1881925,
+  "question": "Who owns these three things?",
+  "gt_answers": "['man', 'man', 'man', 'man', 'business men', 'business men', 'businessman', 'businessman', 'rich people', 'rich people']",
+  "prediction": "businessman",
+  "num_images": 1
+}

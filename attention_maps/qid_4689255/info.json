@@ -1,0 +1,7 @@
+{
+  "question_id": 4689255,
+  "question": "Is the bacon made from turkey or pork?",
+  "gt_answers": "['pork', 'pork', 'pork', 'pork', 'pork', 'pork', 'pork', 'pork', 'turkey', 'turkey']",
+  "prediction": "pork",
+  "num_images": 2
+}

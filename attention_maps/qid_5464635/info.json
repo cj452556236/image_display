@@ -1,0 +1,7 @@
+{
+  "question_id": 5464635,
+  "question": "What brand is this stove?",
+  "gt_answers": "['kenmore', 'kenmore', 'kenmore', 'kenmore', 'whirlpool', 'whirlpool', 'lg', 'lg', 'ge', 'ge']",
+  "prediction": "Whirlpool",
+  "num_images": 2
+}

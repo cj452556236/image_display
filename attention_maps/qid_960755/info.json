@@ -1,0 +1,7 @@
+{
+  "question_id": 960755,
+  "question": "Where can i store these vehicles?",
+  "gt_answers": "['marina', 'marina', 'marina', 'marina', 'marina', 'marina', 'dock', 'dock', 'dock', 'dock']",
+  "prediction": "marina",
+  "num_images": 1
+}

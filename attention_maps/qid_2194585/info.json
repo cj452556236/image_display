@@ -1,0 +1,7 @@
+{
+  "question_id": 2194585,
+  "question": "Which type of material is used for making the hat weared by the lady?",
+  "gt_answers": "['fabric', 'fabric', 'fabric', 'fabric', 'cotton', 'cotton', 'felt', 'felt', 'rayon polyester', 'rayon polyester']",
+  "prediction": "felt",
+  "num_images": 2
+}

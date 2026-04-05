@@ -1,0 +1,7 @@
+{
+  "question_id": 2832685,
+  "question": "What is a red condiment commonly placed in the food in the image?",
+  "gt_answers": "['ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup']",
+  "prediction": "ketchup",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5163165,
+  "question": "What is a common predator of the animal seen here?",
+  "gt_answers": "['lion', 'lion', 'lion', 'lion', 'lion', 'lion', 'lion', 'lion', 'lions', 'lions']",
+  "prediction": "lion",
+  "num_images": 1
+}

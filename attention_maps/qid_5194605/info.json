@@ -1,0 +1,7 @@
+{
+  "question_id": 5194605,
+  "question": "What is the most healthy item in this picture?",
+  "gt_answers": "['lettuce', 'lettuce', 'lettuce', 'lettuce', 'salad', 'salad', 'salad', 'salad', 'tomato', 'tomato']",
+  "prediction": "salad",
+  "num_images": 1
+}

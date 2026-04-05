@@ -1,0 +1,7 @@
+{
+  "question_id": 3963695,
+  "question": "What type of window covering is in this photo?",
+  "gt_answers": "['bamboo', 'bamboo', 'bamboo', 'bamboo', 'bamboo', 'bamboo', 'bamboo shade', 'bamboo shade', 'shade', 'shade']",
+  "prediction": "bamboo",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4854065,
+  "question": "What type of american currency would you stick in the machine?",
+  "gt_answers": "['quarters', 'quarters', 'quarters', 'quarters', 'quarters coins', 'quarters coins', 'quarter', 'quarter', 'quater', 'quater']",
+  "prediction": "Quarters",
+  "num_images": 1
+}

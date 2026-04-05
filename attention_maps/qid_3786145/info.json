@@ -1,0 +1,7 @@
+{
+  "question_id": 3786145,
+  "question": "What type od bread is this meal made from?",
+  "gt_answers": "['tortilla', 'tortilla', 'tortilla', 'tortilla', 'pita', 'pita', 'peta', 'peta', 'pizza', 'pizza']",
+  "prediction": "pita",
+  "num_images": 2
+}

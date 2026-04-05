@@ -1,0 +1,7 @@
+{
+  "question_id": 662975,
+  "question": "What language is that on the advertisements and what foods are they advertising?",
+  "gt_answers": "['english hot dogs', 'english hot dogs', 'english hot dogs', 'english hot dogs', 'english and hotdogs', 'english and hotdogs', 'english', 'english', 'hot dogs', 'hot dogs']",
+  "prediction": "English",
+  "num_images": 1
+}

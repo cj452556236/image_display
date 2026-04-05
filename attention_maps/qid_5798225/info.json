@@ -1,0 +1,7 @@
+{
+  "question_id": 5798225,
+  "question": "What kind of suit would you wear while doing this?",
+  "gt_answers": "['swimsuit', 'swimsuit', 'wet suit', 'wet suit', 'swimming', 'swimming', 'swim', 'swim', 'bathing suit', 'bathing suit']",
+  "prediction": "wetsuit",
+  "num_images": 1
+}

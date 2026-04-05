@@ -1,0 +1,7 @@
+{
+  "question_id": 1569995,
+  "question": "What is this animal famously known for?",
+  "gt_answers": "['long neck', 'long neck', 'long neck', 'long neck', 'long neck', 'long neck', 'long neck', 'long neck', 'neck', 'neck']",
+  "prediction": "neck",
+  "num_images": 1
+}

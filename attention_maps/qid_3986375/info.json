@@ -1,0 +1,7 @@
+{
+  "question_id": 3986375,
+  "question": "Is this his wife or sister?",
+  "gt_answers": "['sister', 'sister', 'sister', 'sister', 'sister', 'sister', 'wife', 'wife', 'wife', 'wife']",
+  "prediction": "wife",
+  "num_images": 2
+}

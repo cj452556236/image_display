@@ -1,0 +1,7 @@
+{
+  "question_id": 3123855,
+  "question": "What animal do you have to watch out for when doing this sport?",
+  "gt_answers": "['sharks', 'sharks', 'sharks', 'sharks', 'sharks', 'sharks', 'wave', 'wave', 'shark', 'shark']",
+  "prediction": "Shark",
+  "num_images": 1
+}

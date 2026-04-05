@@ -1,0 +1,7 @@
+{
+  "question_id": 3036115,
+  "question": "What type of cheese was used?",
+  "gt_answers": "['mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'mozarella', 'mozarella', 'mozzerella', 'mozzerella', 'melted', 'melted']",
+  "prediction": "mozzarella",
+  "num_images": 1
+}

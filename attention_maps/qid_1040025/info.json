@@ -1,0 +1,7 @@
+{
+  "question_id": 1040025,
+  "question": "What sound do these animals make?",
+  "gt_answers": "['neigh', 'neigh', 'neigh', 'neigh', 'neigh', 'neigh', 'moo', 'moo', 'moo', 'moo']",
+  "prediction": "moo",
+  "num_images": 2
+}

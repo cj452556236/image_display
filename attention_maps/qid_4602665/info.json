@@ -1,0 +1,7 @@
+{
+  "question_id": 4602665,
+  "question": "What kind of cake is on the plate?",
+  "gt_answers": "['cheesecake', 'cheesecake', 'cheesecake', 'cheesecake', 'flan', 'flan', 'sponge', 'sponge', 'cheese cake', 'cheese cake']",
+  "prediction": "sponge",
+  "num_images": 2
+}

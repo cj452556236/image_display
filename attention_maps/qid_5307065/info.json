@@ -1,0 +1,7 @@
+{
+  "question_id": 5307065,
+  "question": "Is this a private or public room?",
+  "gt_answers": "['public', 'public', 'public', 'public', 'public', 'public', 'public', 'public', 'public', 'public']",
+  "prediction": "public",
+  "num_images": 1
+}

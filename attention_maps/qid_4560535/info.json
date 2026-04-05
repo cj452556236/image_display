@@ -1,0 +1,7 @@
+{
+  "question_id": 4560535,
+  "question": "What sort of infrastructure is required to support this method of transportation?",
+  "gt_answers": "['rails', 'rails', 'rails', 'rails', 'railways', 'railways', 'tracks', 'tracks', 'train tracks', 'train tracks']",
+  "prediction": "railways",
+  "num_images": 2
+}

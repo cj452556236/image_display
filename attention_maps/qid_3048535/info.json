@@ -1,0 +1,7 @@
+{
+  "question_id": 3048535,
+  "question": "Where would he use this?",
+  "gt_answers": "['outside', 'outside', 'outside', 'outside', 'outside', 'outside', 'camping', 'camping', 'outdoors', 'outdoors']",
+  "prediction": "outside",
+  "num_images": 1
+}

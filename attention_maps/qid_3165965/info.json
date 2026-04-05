@@ -1,0 +1,7 @@
+{
+  "question_id": 3165965,
+  "question": "Does this food taste salty sweet sour or bitter?",
+  "gt_answers": "['sweet', 'sweet', 'sweet', 'sweet', 'sweet', 'sweet', 'sweet', 'sweet', 'sweet', 'sweet']",
+  "prediction": "sweet",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1996815,
+  "question": "What small appliance is that stuffed animal inside?",
+  "gt_answers": "['microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave']",
+  "prediction": "microwave",
+  "num_images": 2
+}

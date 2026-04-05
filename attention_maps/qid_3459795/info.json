@@ -1,0 +1,7 @@
+{
+  "question_id": 3459795,
+  "question": "What kind of clothes is dressing the man?",
+  "gt_answers": "['suit', 'suit', 'suit', 'suit', 'suit', 'suit', 'texedo', 'texedo', 'formal', 'formal']",
+  "prediction": "Formal",
+  "num_images": 1
+}

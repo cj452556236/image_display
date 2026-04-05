@@ -1,0 +1,7 @@
+{
+  "question_id": 5367085,
+  "question": "How was the meat in this photo prepeared?",
+  "gt_answers": "['grilled', 'grilled', 'grilled', 'grilled', 'grilled', 'grilled', 'fried', 'fried', 'cooked', 'cooked']",
+  "prediction": "grilled",
+  "num_images": 2
+}

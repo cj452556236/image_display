@@ -1,0 +1,7 @@
+{
+  "question_id": 357265,
+  "question": "What waterway is this boat on?",
+  "gt_answers": "['canal', 'canal', 'canal', 'canal', 'canal', 'canal', 'venice', 'venice', 'river', 'river']",
+  "prediction": "canal",
+  "num_images": 2
+}

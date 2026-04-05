@@ -1,0 +1,7 @@
+{
+  "question_id": 3370425,
+  "question": "What is the street made of?",
+  "gt_answers": "['asphalt', 'asphalt', 'asphalt', 'asphalt', 'asphalt', 'asphalt', 'concrete', 'concrete', 'concrete', 'concrete']",
+  "prediction": "asphalt",
+  "num_images": 2
+}

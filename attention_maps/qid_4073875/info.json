@@ -1,0 +1,7 @@
+{
+  "question_id": 4073875,
+  "question": "What type of bird is this?",
+  "gt_answers": "['heron', 'heron', 'heron', 'heron', 'crain', 'crain', 'osprey', 'osprey', 'long legged bird', 'long legged bird']",
+  "prediction": "heron",
+  "num_images": 2
+}

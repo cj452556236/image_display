@@ -1,0 +1,7 @@
+{
+  "question_id": 5445385,
+  "question": "What kind of cold meet is this?",
+  "gt_answers": "['hotdog', 'hotdog', 'hotdog', 'hotdog', 'hot dog', 'hot dog', 'pork', 'pork', 'beef', 'beef']",
+  "prediction": "hot dog",
+  "num_images": 1
+}

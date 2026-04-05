@@ -1,0 +1,7 @@
+{
+  "question_id": 1610475,
+  "question": "What kind of beverage could one make with the item on top of the stove?",
+  "gt_answers": "['tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea']",
+  "prediction": "tea",
+  "num_images": 2
+}

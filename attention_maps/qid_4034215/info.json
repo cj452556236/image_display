@@ -1,0 +1,7 @@
+{
+  "question_id": 4034215,
+  "question": "What type of breed is this dog?",
+  "gt_answers": "['labrador', 'labrador', 'labrador', 'labrador', 'labrador', 'labrador', 'labrador retriever', 'labrador retriever', 'black lab', 'black lab']",
+  "prediction": "Labrador",
+  "num_images": 2
+}

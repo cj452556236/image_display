@@ -1,0 +1,7 @@
+{
+  "question_id": 1809825,
+  "question": "What type of trains are these?",
+  "gt_answers": "['steam', 'steam', 'steam', 'steam', 'coal fired passenger trains', 'coal fired passenger trains', 'steam engines', 'steam engines', 'freight', 'freight']",
+  "prediction": "steam",
+  "num_images": 2
+}

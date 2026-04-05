@@ -1,0 +1,7 @@
+{
+  "question_id": 4486005,
+  "question": "What kind of fruit?",
+  "gt_answers": "['strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry']",
+  "prediction": "strawberry",
+  "num_images": 1
+}

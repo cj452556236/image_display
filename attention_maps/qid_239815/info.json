@@ -1,0 +1,7 @@
+{
+  "question_id": 239815,
+  "question": "What are these animals famous for?",
+  "gt_answers": "['stripes', 'stripes', 'stripes', 'stripes', 'stripes', 'stripes', 'having stripes', 'having stripes', 'their stripes', 'their stripes']",
+  "prediction": "stripes",
+  "num_images": 2
+}

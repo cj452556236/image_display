@@ -1,0 +1,7 @@
+{
+  "question_id": 3898695,
+  "question": "What birds are those?",
+  "gt_answers": "['seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagull', 'seagull']",
+  "prediction": "seagulls",
+  "num_images": 2
+}

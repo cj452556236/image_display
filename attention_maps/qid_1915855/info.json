@@ -1,0 +1,7 @@
+{
+  "question_id": 1915855,
+  "question": "What are these peole pulling?",
+  "gt_answers": "['luggage', 'luggage', 'luggage', 'luggage', 'luggage', 'luggage', 'suitcases', 'suitcases', 'travelling', 'travelling']",
+  "prediction": "suitcases",
+  "num_images": 1
+}

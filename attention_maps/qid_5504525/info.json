@@ -1,0 +1,7 @@
+{
+  "question_id": 5504525,
+  "question": "A vehicle like the one in the image is used primarily for what purpose?",
+  "gt_answers": "['transport goods', 'transport goods', 'transportation', 'transportation', 'transporting freight across land', 'transporting freight across land', 'transporting raw materials', 'transporting raw materials', 'transport', 'transport']",
+  "prediction": "transportation",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4509935,
+  "question": "The people in this photo are wearing what outfits which can be considered business formal?",
+  "gt_answers": "['suits', 'suits', 'suits', 'suits', 'suits', 'suits', 'suit', 'suit', 'trousersuits', 'trousersuits']",
+  "prediction": "suits",
+  "num_images": 2
+}

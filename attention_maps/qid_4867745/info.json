@@ -1,0 +1,7 @@
+{
+  "question_id": 4867745,
+  "question": "Who is top player in this sport?",
+  "gt_answers": "['kelly slater', 'kelly slater', 'kelly slater', 'kelly slater', 'kelly slater', 'kelly slater', 'mick fanning', 'mick fanning', 'mick finning', 'mick finning']",
+  "prediction": "Kelly Slater",
+  "num_images": 2
+}

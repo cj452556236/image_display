@@ -1,0 +1,7 @@
+{
+  "question_id": 2530365,
+  "question": "What produced that light?",
+  "gt_answers": "['sun', 'sun', 'sun', 'sun', 'reflection', 'reflection', 'sun glare', 'sun glare', 'light pole', 'light pole']",
+  "prediction": "sun",
+  "num_images": 2
+}

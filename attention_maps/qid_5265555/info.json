@@ -1,0 +1,7 @@
+{
+  "question_id": 5265555,
+  "question": "How old does one have to be to partake in this activity?",
+  "gt_answers": "['21', '21', '21', '21', '21', '21', '21', '21', 'twenty 1', 'twenty 1']",
+  "prediction": "21",
+  "num_images": 1
+}

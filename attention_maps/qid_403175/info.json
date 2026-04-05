@@ -1,0 +1,7 @@
+{
+  "question_id": 403175,
+  "question": "What sporting equipment are they using?",
+  "gt_answers": "['skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'ski', 'ski']",
+  "prediction": "skis",
+  "num_images": 1
+}

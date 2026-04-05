@@ -1,0 +1,7 @@
+{
+  "question_id": 3324615,
+  "question": "What outdoor activity are they prepared for?",
+  "gt_answers": "['camping', 'camping', 'camping', 'camping', 'camping', 'camping', 'camping', 'camping', 'skiing', 'skiing']",
+  "prediction": "Skiing",
+  "num_images": 1
+}

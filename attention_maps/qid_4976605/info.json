@@ -1,0 +1,7 @@
+{
+  "question_id": 4976605,
+  "question": "What is the horsepower of the truck pulling the load?",
+  "gt_answers": "['510', '510', '510', '510', '510', '510', '420', '420', '500', '500']",
+  "prediction": "510",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2431995,
+  "question": "What type of blanket is that?",
+  "gt_answers": "['quilt', 'quilt', 'quilt', 'quilt', 'cotton', 'cotton', 'duvet', 'duvet', 'patchwork', 'patchwork']",
+  "prediction": "Quilt",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3989925,
+  "question": "What area of a school might this be?",
+  "gt_answers": "['library', 'library', 'library', 'library', 'library', 'library', 'library', 'library', 'library', 'library']",
+  "prediction": "library",
+  "num_images": 2
+}

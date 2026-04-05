@@ -1,0 +1,7 @@
+{
+  "question_id": 5020905,
+  "question": "Where are these kites?",
+  "gt_answers": "['sky', 'sky', 'sky', 'sky', 'sky', 'sky', 'ocean', 'ocean', 'beach', 'beach']",
+  "prediction": "sky",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2261615,
+  "question": "What is this fireplace made of?",
+  "gt_answers": "['bricks', 'bricks', 'bricks', 'bricks', 'bricks', 'bricks', 'metal', 'metal', 'brick', 'brick']",
+  "prediction": "brick",
+  "num_images": 2
+}

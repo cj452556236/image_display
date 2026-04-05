@@ -1,0 +1,7 @@
+{
+  "question_id": 3125245,
+  "question": "What flavour of cake is this?",
+  "gt_answers": "['vanilla', 'vanilla', 'vanilla', 'vanilla', 'vanilla', 'vanilla', 'lemon', 'lemon', 'lemon vanilla', 'lemon vanilla']",
+  "prediction": "Lemon",
+  "num_images": 2
+}

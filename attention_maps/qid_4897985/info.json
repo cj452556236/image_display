@@ -1,0 +1,7 @@
+{
+  "question_id": 4897985,
+  "question": "What event might this be?",
+  "gt_answers": "['family reunion', 'family reunion', 'family reunion', 'family reunion', 'party', 'party', 'party', 'party', 'picnic', 'picnic']",
+  "prediction": "picnic",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3300515,
+  "question": "Who manufactured this clock?",
+  "gt_answers": "['dent', 'dent', 'dent', 'dent', 'dent', 'dent', 'den', 'den', 'denmark', 'denmark']",
+  "prediction": "Den",
+  "num_images": 2
+}

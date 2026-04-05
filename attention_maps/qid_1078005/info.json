@@ -1,0 +1,7 @@
+{
+  "question_id": 1078005,
+  "question": "What is the man checking for from the passengers when they enter?",
+  "gt_answers": "['tickets', 'tickets', 'tickets', 'tickets', 'tickets', 'tickets', 'tickets', 'tickets', 'tickets', 'tickets']",
+  "prediction": "tickets",
+  "num_images": 2
+}

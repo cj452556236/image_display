@@ -1,0 +1,7 @@
+{
+  "question_id": 3453295,
+  "question": "What part of the atmosphere is the object in?",
+  "gt_answers": "['troposphere', 'troposphere', 'troposphere', 'troposphere', 'clouds', 'clouds', 'stratosphere', 'stratosphere', 'sky', 'sky']",
+  "prediction": "troposphere",
+  "num_images": 1
+}

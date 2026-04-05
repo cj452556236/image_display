@@ -1,0 +1,7 @@
+{
+  "question_id": 3313665,
+  "question": "What type of bike is this?",
+  "gt_answers": "['penny farthing', 'penny farthing', 'penny farthing', 'penny farthing', 'big wheel', 'big wheel', 'old', 'old', '2 wheel', '2 wheel']",
+  "prediction": "penny-farthing",
+  "num_images": 2
+}

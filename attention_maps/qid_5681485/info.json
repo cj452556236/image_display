@@ -1,0 +1,7 @@
+{
+  "question_id": 5681485,
+  "question": "What can the woman do with this toy?",
+  "gt_answers": "['throw it', 'throw it', 'throw it', 'throw it', 'throw it', 'throw it', 'throw it', 'throw it', 'throw', 'throw']",
+  "prediction": "throw",
+  "num_images": 1
+}

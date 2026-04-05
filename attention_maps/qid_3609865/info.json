@@ -1,0 +1,7 @@
+{
+  "question_id": 3609865,
+  "question": "What is a baby cow called?",
+  "gt_answers": "['calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'kid', 'kid']",
+  "prediction": "calf",
+  "num_images": 2
+}

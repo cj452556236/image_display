@@ -1,0 +1,7 @@
+{
+  "question_id": 269675,
+  "question": "What are the people queuing for?",
+  "gt_answers": "['luggage', 'luggage', 'luggage', 'luggage', 'luggage', 'luggage', 'airport security', 'airport security', 'airplane', 'airplane']",
+  "prediction": "luggage",
+  "num_images": 1
+}

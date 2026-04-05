@@ -1,0 +1,7 @@
+{
+  "question_id": 5218045,
+  "question": "What mountain range is this?",
+  "gt_answers": "['alps', 'alps', 'alps', 'alps', 'alps', 'alps', 'appalachians', 'appalachians', 'himilaya', 'himilaya']",
+  "prediction": "Alps",
+  "num_images": 2
+}

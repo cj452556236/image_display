@@ -1,0 +1,7 @@
+{
+  "question_id": 868355,
+  "question": "Do the occupants of this building receive their mail at their door or in a box along the street?",
+  "gt_answers": "['box', 'box', 'box', 'box', 'box', 'box', 'door', 'door', 'door', 'door']",
+  "prediction": "door",
+  "num_images": 1
+}

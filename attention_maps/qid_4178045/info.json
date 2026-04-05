@@ -1,0 +1,7 @@
+{
+  "question_id": 4178045,
+  "question": "What kind of devices use these?",
+  "gt_answers": "['computers', 'computers', 'computers', 'computers', 'computers', 'computers', 'computer', 'computer', 'mouse', 'mouse']",
+  "prediction": "Computers",
+  "num_images": 2
+}

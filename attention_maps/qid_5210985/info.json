@@ -1,0 +1,7 @@
+{
+  "question_id": 5210985,
+  "question": "What language is the text in this picture written in?",
+  "gt_answers": "['english', 'english', 'english', 'english', 'english', 'english', 'english', 'english', 'english', 'english']",
+  "prediction": "English",
+  "num_images": 1
+}

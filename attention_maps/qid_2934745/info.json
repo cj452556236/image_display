@@ -1,0 +1,7 @@
+{
+  "question_id": 2934745,
+  "question": "What are these items usually used by?",
+  "gt_answers": "['firemen', 'firemen', 'firemen', 'firemen', 'firemen', 'firemen', 'firemen', 'firemen', 'firefighters', 'firefighters']",
+  "prediction": "Firefighters",
+  "num_images": 1
+}

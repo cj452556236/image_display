@@ -1,0 +1,7 @@
+{
+  "question_id": 1274945,
+  "question": "What kind of veggies is this?",
+  "gt_answers": "['asparagus', 'asparagus', 'asparagus', 'asparagus', 'asparagus', 'asparagus', 'spinach', 'spinach', 'kale', 'kale']",
+  "prediction": "spinach",
+  "num_images": 2
+}

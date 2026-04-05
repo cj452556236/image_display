@@ -1,0 +1,7 @@
+{
+  "question_id": 3359815,
+  "question": "What language is that sign in?",
+  "gt_answers": "['russian', 'russian', 'russian', 'russian', 'turkish', 'turkish', 'greek', 'greek', 'english', 'english']",
+  "prediction": "Turkish",
+  "num_images": 1
+}

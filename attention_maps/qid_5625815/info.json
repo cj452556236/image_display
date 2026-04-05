@@ -1,0 +1,7 @@
+{
+  "question_id": 5625815,
+  "question": "Which fashion conscious sisters are famous for playing this game?",
+  "gt_answers": "['williams', 'williams', 'williams', 'williams', 'williams', 'williams', 'venus', 'venus', 'williams sisters', 'williams sisters']",
+  "prediction": "Williams",
+  "num_images": 1
+}

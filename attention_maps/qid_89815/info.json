@@ -1,0 +1,7 @@
+{
+  "question_id": 89815,
+  "question": "Is the ocean calm or rough in this scene?",
+  "gt_answers": "['rough', 'rough', 'rough', 'rough', 'rough', 'rough', 'rough', 'rough', 'rough', 'rough']",
+  "prediction": "rough",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3993495,
+  "question": "Is that a donkey or a pony?",
+  "gt_answers": "['donkey', 'donkey', 'donkey', 'donkey', 'donkey', 'donkey', 'pony', 'pony', 'pony', 'pony']",
+  "prediction": "pony",
+  "num_images": 2
+}

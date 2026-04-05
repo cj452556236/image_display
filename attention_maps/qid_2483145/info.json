@@ -1,0 +1,7 @@
+{
+  "question_id": 2483145,
+  "question": "What piece of technology is lain between the notepad and computer?",
+  "gt_answers": "['calculator', 'calculator', 'calculator', 'calculator', 'calculator', 'calculator', 'calculator', 'calculator', 'tablet with extra keyboard', 'tablet with extra keyboard']",
+  "prediction": "Calculator",
+  "num_images": 1
+}

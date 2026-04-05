@@ -1,0 +1,7 @@
+{
+  "question_id": 5246115,
+  "question": "What is being hauled in this train?",
+  "gt_answers": "['oil', 'oil', 'oil', 'oil', 'coal', 'coal', 'fuel', 'fuel', 'chemicals', 'chemicals']",
+  "prediction": "oil",
+  "num_images": 2
+}

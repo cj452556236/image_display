@@ -1,0 +1,7 @@
+{
+  "question_id": 4885735,
+  "question": "What continent has this style of arch?",
+  "gt_answers": "['asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'japan', 'japan']",
+  "prediction": "Asia",
+  "num_images": 2
+}

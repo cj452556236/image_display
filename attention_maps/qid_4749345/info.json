@@ -1,0 +1,7 @@
+{
+  "question_id": 4749345,
+  "question": "What is the type of ground the horses are riding on?",
+  "gt_answers": "['sand', 'sand', 'sand', 'sand', 'sand', 'sand', 'sand', 'sand', 'beach', 'beach']",
+  "prediction": "sand",
+  "num_images": 2
+}

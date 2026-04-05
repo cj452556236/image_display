@@ -1,0 +1,7 @@
+{
+  "question_id": 4259735,
+  "question": "What type of emotion is displayed in the image?",
+  "gt_answers": "['love', 'love', 'love', 'love', 'happiness', 'happiness', 'nurture', 'nurture', 'affection', 'affection']",
+  "prediction": "Love",
+  "num_images": 1
+}

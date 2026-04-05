@@ -1,0 +1,7 @@
+{
+  "question_id": 3050505,
+  "question": "The man wearing a hat what is the name of that hat?",
+  "gt_answers": "['cowboy hat', 'cowboy hat', 'cowboy hat', 'cowboy hat', 'cowboy hat', 'cowboy hat', 'cowboy', 'cowboy', 'stetson', 'stetson']",
+  "prediction": "cowboy",
+  "num_images": 1
+}

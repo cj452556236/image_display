@@ -1,0 +1,7 @@
+{
+  "question_id": 5216435,
+  "question": "What type of flower is this?",
+  "gt_answers": "['rose', 'rose', 'rose', 'rose', 'rose', 'rose', 'tulip', 'tulip', 'roses', 'roses']",
+  "prediction": "rose",
+  "num_images": 2
+}

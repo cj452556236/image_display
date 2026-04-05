@@ -1,0 +1,7 @@
+{
+  "question_id": 3355155,
+  "question": "From what continent does this meal look like it came from?",
+  "gt_answers": "['asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'asia', 'japan', 'japan']",
+  "prediction": "Asia",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1449325,
+  "question": "What is the weather like?",
+  "gt_answers": "['stormy', 'stormy', 'stormy', 'stormy', 'windy', 'windy', 'overcast', 'overcast', 'cloudy', 'cloudy']",
+  "prediction": "cloudy",
+  "num_images": 1
+}

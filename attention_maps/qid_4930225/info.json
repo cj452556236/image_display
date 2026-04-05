@@ -1,0 +1,7 @@
+{
+  "question_id": 4930225,
+  "question": "What type of exercise might she be doing?",
+  "gt_answers": "['swimming', 'swimming', 'swimming', 'swimming', 'swimming', 'swimming', 'swimming', 'swimming', 'water areobics', 'water areobics']",
+  "prediction": "Swimming",
+  "num_images": 1
+}

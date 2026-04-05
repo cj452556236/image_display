@@ -1,0 +1,7 @@
+{
+  "question_id": 4903385,
+  "question": "What city is shown?",
+  "gt_answers": "['tokyo', 'tokyo', 'tokyo', 'tokyo', 'tokyo', 'tokyo', 'tokyo', 'tokyo', 'taiwan', 'taiwan']",
+  "prediction": "Tokyo",
+  "num_images": 2
+}

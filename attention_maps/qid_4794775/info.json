@@ -1,0 +1,7 @@
+{
+  "question_id": 4794775,
+  "question": "Was the ball thrown overhand or underhand?",
+  "gt_answers": "['underhand', 'underhand', 'underhand', 'underhand', 'underhand', 'underhand', 'underhand', 'underhand', 'overhand', 'overhand']",
+  "prediction": "underhand",
+  "num_images": 2
+}

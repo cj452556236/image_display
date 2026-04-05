@@ -1,0 +1,7 @@
+{
+  "question_id": 2494045,
+  "question": "What would you do if you were in the right lane?",
+  "gt_answers": "['turn', 'turn', 'turn', 'turn', 'turn right', 'turn right', 'turn right', 'turn right', 'go straight', 'go straight']",
+  "prediction": "Turn",
+  "num_images": 2
+}

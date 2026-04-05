@@ -1,0 +1,7 @@
+{
+  "question_id": 1559125,
+  "question": "What is the kid playing with?",
+  "gt_answers": "['kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite']",
+  "prediction": "kite",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3832295,
+  "question": "What sport is this?",
+  "gt_answers": "['horse racing', 'horse racing', 'horse racing', 'horse racing', 'horse racing', 'horse racing', 'horseracing', 'horseracing', 'racing', 'racing']",
+  "prediction": "horse racing",
+  "num_images": 1
+}

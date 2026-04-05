@@ -1,0 +1,7 @@
+{
+  "question_id": 4964025,
+  "question": "What game is being played?",
+  "gt_answers": "['chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess']",
+  "prediction": "Chess",
+  "num_images": 1
+}

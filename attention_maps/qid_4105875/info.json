@@ -1,0 +1,7 @@
+{
+  "question_id": 4105875,
+  "question": "How come we know this is the ground floor?",
+  "gt_answers": "['walk outside', 'walk outside', 'windows', 'windows', 'view', 'view', 'trees', 'trees', 'window', 'window']",
+  "prediction": "windows",
+  "num_images": 2
+}

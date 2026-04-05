@@ -1,0 +1,7 @@
+{
+  "question_id": 1405565,
+  "question": "Why do these workers wear a vest for?",
+  "gt_answers": "['safety', 'safety', 'safety', 'safety', 'safety', 'safety', 'safety', 'safety', 'safety', 'safety']",
+  "prediction": "safety",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2087935,
+  "question": "What nationality of food is she eating?",
+  "gt_answers": "['mexican', 'mexican', 'mexican', 'mexican', 'mexican', 'mexican', 'spanish', 'spanish', 'american', 'american']",
+  "prediction": "American",
+  "num_images": 2
+}

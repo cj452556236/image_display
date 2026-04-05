@@ -1,0 +1,7 @@
+{
+  "question_id": 2737285,
+  "question": "In what kind of movies would a man wear a hat like this while riding a horse?",
+  "gt_answers": "['western', 'western', 'western', 'western', 'cowboy', 'cowboy', 'western movie', 'western movie', 'brokeback mountain', 'brokeback mountain']",
+  "prediction": "Western",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3114655,
+  "question": "What sport is this kind of racquet used to play?",
+  "gt_answers": "['badminton', 'badminton', 'badminton', 'badminton', 'tennis', 'tennis', 'tennis', 'tennis', 'this is for tennis', 'this is for tennis']",
+  "prediction": "Badminton",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 926045,
+  "question": "What language is the writing in?",
+  "gt_answers": "['english', 'english', 'english', 'english', 'english', 'english', 'english', 'english', 'english', 'english']",
+  "prediction": "English",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2774985,
+  "question": "What mammalian genus do the animals in this picture belong to?",
+  "gt_answers": "['equine', 'equine', 'equine', 'equine', 'horse and zebra', 'horse and zebra', 'equus', 'equus', 'zebra', 'zebra']",
+  "prediction": "Equus",
+  "num_images": 2
+}

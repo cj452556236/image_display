@@ -1,0 +1,7 @@
+{
+  "question_id": 4247445,
+  "question": "What is the small white outdoor house like building called?",
+  "gt_answers": "['gazebo', 'gazebo', 'gazebo', 'gazebo', 'gazebo', 'gazebo', 'shed', 'shed', 'casida', 'casida']",
+  "prediction": "gazebo",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 52255,
+  "question": "What instrument is the toy bear playing?",
+  "gt_answers": "['drum', 'drum', 'drum', 'drum', 'drum', 'drum', 'drum', 'drum', 'drums', 'drums']",
+  "prediction": "drum",
+  "num_images": 2
+}

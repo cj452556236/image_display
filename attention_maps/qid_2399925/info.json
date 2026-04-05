@@ -1,0 +1,7 @@
+{
+  "question_id": 2399925,
+  "question": "What company is this brand for?",
+  "gt_answers": "['american airlines', 'american airlines', 'american airlines', 'american airlines', 'american airlines', 'american airlines', 'american', 'american', 'alied air', 'alied air']",
+  "prediction": "American",
+  "num_images": 1
+}

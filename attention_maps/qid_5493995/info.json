@@ -1,0 +1,7 @@
+{
+  "question_id": 5493995,
+  "question": "Who famously rode one of these in easy rider?",
+  "gt_answers": "['peter fonda', 'peter fonda', 'peter fonda', 'peter fonda', 'brad', 'brad', 'dennis hopper', 'dennis hopper', 'james dean', 'james dean']",
+  "prediction": "Peter Fonda",
+  "num_images": 1
+}

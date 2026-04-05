@@ -1,0 +1,7 @@
+{
+  "question_id": 1972265,
+  "question": "What is the profession of the person controlling the object shown?",
+  "gt_answers": "['pilot', 'pilot', 'pilot', 'pilot', 'pilot', 'pilot', 'pilot', 'pilot', 'airplane pilot', 'airplane pilot']",
+  "prediction": "pilot",
+  "num_images": 1
+}

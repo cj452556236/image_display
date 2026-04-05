@@ -1,0 +1,7 @@
+{
+  "question_id": 1690895,
+  "question": "What material are those suits made out of?",
+  "gt_answers": "['neoprene', 'neoprene', 'neoprene', 'neoprene', 'neoprene', 'neoprene', 'polysester', 'polysester', 'rubber', 'rubber']",
+  "prediction": "neoprene",
+  "num_images": 1
+}

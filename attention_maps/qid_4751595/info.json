@@ -1,0 +1,7 @@
+{
+  "question_id": 4751595,
+  "question": "What is the name of the clothes the man is wearing?",
+  "gt_answers": "['wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'wet suit', 'wet suit', 'wet', 'wet']",
+  "prediction": "wetsuit",
+  "num_images": 1
+}

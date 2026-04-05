@@ -1,0 +1,7 @@
+{
+  "question_id": 3017625,
+  "question": "What type of batter in pictured?",
+  "gt_answers": "['cake batter', 'cake batter', 'cake batter', 'cake batter', 'cake batter', 'cake batter', 'cake', 'cake', 'cake', 'cake']",
+  "prediction": "cake",
+  "num_images": 1
+}

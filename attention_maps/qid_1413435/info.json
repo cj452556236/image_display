@@ -1,0 +1,7 @@
+{
+  "question_id": 1413435,
+  "question": "What type of bear is in the front of the store?",
+  "gt_answers": "['teddy', 'teddy', 'teddy', 'teddy', 'teddy bear', 'teddy bear', 'stuffed bear', 'stuffed bear', 'stuffed', 'stuffed']",
+  "prediction": "teddy",
+  "num_images": 2
+}

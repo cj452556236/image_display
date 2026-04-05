@@ -1,0 +1,7 @@
+{
+  "question_id": 1427445,
+  "question": "What type of cat is in the cartoon?",
+  "gt_answers": "['tuxedo', 'tuxedo', 'tuxedo', 'tuxedo', 'housecat', 'housecat', 'house cat', 'house cat', 'black', 'black']",
+  "prediction": "tuxedo",
+  "num_images": 2
+}

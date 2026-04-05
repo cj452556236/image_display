@@ -1,0 +1,7 @@
+{
+  "question_id": 2776255,
+  "question": "What time period are these people from?",
+  "gt_answers": "['medieval', 'medieval', 'medieval', 'medieval', 'civil war', 'civil war', 'mid evil', 'mid evil', '1600s', '1600s']",
+  "prediction": "medieval",
+  "num_images": 1
+}

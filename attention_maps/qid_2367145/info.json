@@ -1,0 +1,7 @@
+{
+  "question_id": 2367145,
+  "question": "What type of bench is this?",
+  "gt_answers": "['park bench', 'park bench', 'park bench', 'park bench', 'iron', 'iron', 'park', 'park', 'metal park bench', 'metal park bench']",
+  "prediction": "park",
+  "num_images": 2
+}

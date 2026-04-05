@@ -1,0 +1,7 @@
+{
+  "question_id": 1892035,
+  "question": "What kind of animal does this resemble?",
+  "gt_answers": "['bird', 'bird', 'bird', 'bird', 'bird', 'bird', 'bird', 'bird', 'bird', 'bird']",
+  "prediction": "bird",
+  "num_images": 1
+}

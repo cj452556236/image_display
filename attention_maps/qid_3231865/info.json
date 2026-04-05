@@ -1,0 +1,7 @@
+{
+  "question_id": 3231865,
+  "question": "What type of bathtub is this?",
+  "gt_answers": "['freestanding', 'freestanding', 'freestanding', 'freestanding', 'porcelain', 'porcelain', 'newage', 'newage', 'stand alone', 'stand alone']",
+  "prediction": "freestanding",
+  "num_images": 2
+}

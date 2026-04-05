@@ -1,0 +1,7 @@
+{
+  "question_id": 1341195,
+  "question": "What is a group of these animals called?",
+  "gt_answers": "['herd', 'herd', 'herd', 'herd', 'herd', 'herd', 'tower', 'tower', 'tower', 'tower']",
+  "prediction": "tower",
+  "num_images": 2
+}

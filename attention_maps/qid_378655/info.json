@@ -1,0 +1,7 @@
+{
+  "question_id": 378655,
+  "question": "Excessive consumption of this sort of food could possibly lead to what types of health conditions?",
+  "gt_answers": "['obesity', 'obesity', 'obesity', 'obesity', 'obesity', 'obesity', 'diabetes', 'diabetes', 'bad', 'bad']",
+  "prediction": "obesity",
+  "num_images": 2
+}

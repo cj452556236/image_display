@@ -1,0 +1,7 @@
+{
+  "question_id": 3817095,
+  "question": "Is this the beach or sahara?",
+  "gt_answers": "['sahara', 'sahara', 'sahara', 'sahara', 'sahara', 'sahara', 'beach', 'beach', 'beach', 'beach']",
+  "prediction": "beach",
+  "num_images": 2
+}

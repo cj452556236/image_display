@@ -1,0 +1,7 @@
+{
+  "question_id": 1927555,
+  "question": "What type of building is this?",
+  "gt_answers": "['skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper', 'skyscraper']",
+  "prediction": "skyscraper",
+  "num_images": 2
+}

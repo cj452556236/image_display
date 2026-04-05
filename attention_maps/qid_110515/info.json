@@ -1,0 +1,7 @@
+{
+  "question_id": 110515,
+  "question": "What type of event might the couple be preparing for?",
+  "gt_answers": "['prom', 'prom', 'prom', 'prom', 'prom', 'prom', 'prom', 'prom', 'prom', 'prom']",
+  "prediction": "Prom",
+  "num_images": 1
+}

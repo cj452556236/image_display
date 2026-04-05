@@ -1,0 +1,7 @@
+{
+  "question_id": 4071625,
+  "question": "What type of cheese is usually on top?",
+  "gt_answers": "['mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'mozzarella', 'monterrey jack', 'monterrey jack']",
+  "prediction": "mozzarella",
+  "num_images": 1
+}

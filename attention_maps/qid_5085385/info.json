@@ -1,0 +1,7 @@
+{
+  "question_id": 5085385,
+  "question": "What group do these boys belong to?",
+  "gt_answers": "['skaters', 'skaters', 'skaters', 'skaters', 'youth', 'youth', 'skateboarders', 'skateboarders', 'punks', 'punks']",
+  "prediction": "Skaters",
+  "num_images": 2
+}

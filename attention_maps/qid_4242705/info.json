@@ -1,0 +1,7 @@
+{
+  "question_id": 4242705,
+  "question": "What gender is the child?",
+  "gt_answers": "['female', 'female', 'female', 'female', 'female', 'female', 'girl', 'girl', 'girl', 'girl']",
+  "prediction": "female",
+  "num_images": 2
+}

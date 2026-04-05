@@ -1,0 +1,7 @@
+{
+  "question_id": 2569035,
+  "question": "Who is famous for this activity?",
+  "gt_answers": "['shawn white', 'shawn white', 'shawn white', 'shawn white', 'shaun white', 'shaun white', 'art mason', 'art mason', 'sean white', 'sean white']",
+  "prediction": "Shaun White",
+  "num_images": 1
+}

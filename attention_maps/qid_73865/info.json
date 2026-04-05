@@ -1,0 +1,7 @@
+{
+  "question_id": 73865,
+  "question": "What type of door is raised is this photo?",
+  "gt_answers": "['garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage']",
+  "prediction": "Garage",
+  "num_images": 1
+}

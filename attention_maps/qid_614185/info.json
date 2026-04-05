@@ -1,0 +1,7 @@
+{
+  "question_id": 614185,
+  "question": "How big is the ship that these people are on?",
+  "gt_answers": "['very big', 'very big', 'very big', 'very big', 'very big', 'very big', 'big', 'big', 'large', 'large']",
+  "prediction": "Big",
+  "num_images": 2
+}

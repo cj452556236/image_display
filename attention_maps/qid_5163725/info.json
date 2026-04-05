@@ -1,0 +1,7 @@
+{
+  "question_id": 5163725,
+  "question": "What type of fire safety equipment is located near the parking lot?",
+  "gt_answers": "['fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'hydrant', 'hydrant']",
+  "prediction": "hydrant",
+  "num_images": 1
+}

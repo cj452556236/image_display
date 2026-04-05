@@ -1,0 +1,7 @@
+{
+  "question_id": 1629525,
+  "question": "What print is on the mans shirt?",
+  "gt_answers": "['floral', 'floral', 'floral', 'floral', 'plants', 'plants', 'roses', 'roses', 'pink and gray', 'pink and gray']",
+  "prediction": "floral",
+  "num_images": 2
+}

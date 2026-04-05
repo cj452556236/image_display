@@ -1,0 +1,7 @@
+{
+  "question_id": 1807515,
+  "question": "What is the substance contained in the bottle?",
+  "gt_answers": "['alcohol', 'alcohol', 'alcohol', 'alcohol', 'wine', 'wine', 'liquor', 'liquor', 'whisky', 'whisky']",
+  "prediction": "wine",
+  "num_images": 2
+}

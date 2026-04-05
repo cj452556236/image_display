@@ -1,0 +1,7 @@
+{
+  "question_id": 3094025,
+  "question": "What is the name of this bag?",
+  "gt_answers": "['suitcase', 'suitcase', 'suitcase', 'suitcase', 'suitcase', 'suitcase', 'luggage', 'luggage', 'luggage', 'luggage']",
+  "prediction": "suitcase",
+  "num_images": 2
+}

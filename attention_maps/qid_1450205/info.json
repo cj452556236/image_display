@@ -1,0 +1,7 @@
+{
+  "question_id": 1450205,
+  "question": "How many visitors arrive at the location shown on an average weekend?",
+  "gt_answers": "['5000', '5000', '5000', '5000', 'thousands', 'thousands', '50000', '50000', 'millions', 'millions']",
+  "prediction": "thousands",
+  "num_images": 2
+}

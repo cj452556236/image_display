@@ -1,0 +1,7 @@
+{
+  "question_id": 2887145,
+  "question": "Is the material shown in the photo organic or inorganic?",
+  "gt_answers": "['organic', 'organic', 'organic', 'organic', 'organic', 'organic', 'organic', 'organic', 'organic', 'organic']",
+  "prediction": "organic",
+  "num_images": 1
+}

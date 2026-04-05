@@ -1,0 +1,7 @@
+{
+  "question_id": 4244325,
+  "question": "What breed is this dog?",
+  "gt_answers": "['husky', 'husky', 'husky', 'husky', 'husky', 'husky', 'husky', 'husky', 'husky', 'husky']",
+  "prediction": "Husky",
+  "num_images": 2
+}

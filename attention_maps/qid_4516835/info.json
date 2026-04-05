@@ -1,0 +1,7 @@
+{
+  "question_id": 4516835,
+  "question": "What black veggie is on this pizza?",
+  "gt_answers": "['olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olive', 'olive']",
+  "prediction": "olives",
+  "num_images": 2
+}

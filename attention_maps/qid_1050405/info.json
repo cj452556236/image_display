@@ -1,0 +1,7 @@
+{
+  "question_id": 1050405,
+  "question": "Is this fruit or veggies?",
+  "gt_answers": "['veggies', 'veggies', 'veggies', 'veggies', 'vegetable', 'vegetable', 'veeggies', 'veeggies', 'veggie', 'veggie']",
+  "prediction": "veggies",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5176195,
+  "question": "What kind of resort is this?",
+  "gt_answers": "['ski', 'ski', 'ski', 'ski', 'ski', 'ski', 'ski resort', 'ski resort', 'skii resort', 'skii resort']",
+  "prediction": "ski",
+  "num_images": 2
+}

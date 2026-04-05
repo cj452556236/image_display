@@ -1,0 +1,7 @@
+{
+  "question_id": 245605,
+  "question": "Where is this picture taken from?",
+  "gt_answers": "['space', 'space', 'space', 'space', 'space', 'space', 'outer space', 'outer space', 'outer space', 'outer space']",
+  "prediction": "space",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2583225,
+  "question": "Who manufactured this popular 1990's cellular phone?",
+  "gt_answers": "['motorola', 'motorola', 'motorola', 'motorola', 'nokia', 'nokia', 'motorolla', 'motorolla', 'at and t', 'at and t']",
+  "prediction": "Motorola",
+  "num_images": 2
+}

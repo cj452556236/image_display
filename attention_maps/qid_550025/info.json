@@ -1,0 +1,7 @@
+{
+  "question_id": 550025,
+  "question": "Which type of metal is used for making this toilet?",
+  "gt_answers": "['stainless steel', 'stainless steel', 'stainless steel', 'stainless steel', 'stainless steel', 'stainless steel', 'steel', 'steel', 'steel', 'steel']",
+  "prediction": "stainless steel",
+  "num_images": 2
+}

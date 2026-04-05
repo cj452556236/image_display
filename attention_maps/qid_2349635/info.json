@@ -1,0 +1,7 @@
+{
+  "question_id": 2349635,
+  "question": "What are these cables used for?",
+  "gt_answers": "['power', 'power', 'power', 'power', 'electricity', 'electricity', 'communication', 'communication', 'phone lines', 'phone lines']",
+  "prediction": "electricity",
+  "num_images": 2
+}

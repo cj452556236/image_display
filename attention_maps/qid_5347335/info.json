@@ -1,0 +1,7 @@
+{
+  "question_id": 5347335,
+  "question": "What objects are usually in this room?",
+  "gt_answers": "['couch', 'couch', 'couch', 'couch', 'furniture', 'furniture', 'furniture tv lamps', 'furniture tv lamps', 'pictures', 'pictures']",
+  "prediction": "couch",
+  "num_images": 2
+}

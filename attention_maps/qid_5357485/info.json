@@ -1,0 +1,7 @@
+{
+  "question_id": 5357485,
+  "question": "What are these snacks called?",
+  "gt_answers": "['cupcakes', 'cupcakes', 'cupcakes', 'cupcakes', 'cupcakes', 'cupcakes', 'cupcakes', 'cupcakes', 'petit fours', 'petit fours']",
+  "prediction": "cupcakes",
+  "num_images": 2
+}

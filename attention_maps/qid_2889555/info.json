@@ -1,0 +1,7 @@
+{
+  "question_id": 2889555,
+  "question": "What is the dog eating off of?",
+  "gt_answers": "['plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate']",
+  "prediction": "plate",
+  "num_images": 2
+}

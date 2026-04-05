@@ -1,0 +1,7 @@
+{
+  "question_id": 2242205,
+  "question": "What activity is this?",
+  "gt_answers": "['rowing', 'rowing', 'rowing', 'rowing', 'canoeing', 'canoeing', 'canoeing', 'canoeing', 'boating', 'boating']",
+  "prediction": "Rowing",
+  "num_images": 1
+}

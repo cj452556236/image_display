@@ -1,0 +1,7 @@
+{
+  "question_id": 3972785,
+  "question": "What does the color of this sign represent in america?",
+  "gt_answers": "['caution', 'caution', 'caution', 'caution', 'caution', 'caution', 'caution', 'caution', 'yellow', 'yellow']",
+  "prediction": "Caution",
+  "num_images": 1
+}

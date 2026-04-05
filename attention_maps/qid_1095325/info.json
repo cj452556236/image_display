@@ -1,0 +1,7 @@
+{
+  "question_id": 1095325,
+  "question": "Is the light ambient or natural?",
+  "gt_answers": "['natural', 'natural', 'natural', 'natural', 'natural', 'natural', 'natural', 'natural', 'natural', 'natural']",
+  "prediction": "natural",
+  "num_images": 1
+}

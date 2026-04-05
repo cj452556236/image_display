@@ -1,0 +1,7 @@
+{
+  "question_id": 13745,
+  "question": "When was this type of transportation invented?",
+  "gt_answers": "['1804', '1804', '1804', '1804', '1804', '1804', '1804', '1804', '1800s', '1800s']",
+  "prediction": "1804",
+  "num_images": 1
+}

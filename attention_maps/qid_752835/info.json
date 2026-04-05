@@ -1,0 +1,7 @@
+{
+  "question_id": 752835,
+  "question": "What kind of dog is featured in this photo?",
+  "gt_answers": "['dalmation', 'dalmation', 'dalmation', 'dalmation', 'great dane', 'great dane', 'great dane', 'great dane', 'dalmations', 'dalmations']",
+  "prediction": "Great Dane",
+  "num_images": 2
+}

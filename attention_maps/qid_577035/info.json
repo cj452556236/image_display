@@ -1,0 +1,7 @@
+{
+  "question_id": 577035,
+  "question": "Name the bread of these dogs shown in this picture?",
+  "gt_answers": "['poodle', 'poodle', 'poodle', 'poodle', 'cocker spaniels', 'cocker spaniels', 'black', 'black', 'hound', 'hound']",
+  "prediction": "poodle",
+  "num_images": 1
+}

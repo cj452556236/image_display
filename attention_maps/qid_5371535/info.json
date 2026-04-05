@@ -1,0 +1,7 @@
+{
+  "question_id": 5371535,
+  "question": "Where will you find such in our country?",
+  "gt_answers": "['coast', 'coast', 'coast', 'coast', 'california', 'california', 'maine', 'maine', 'hawaii', 'hawaii']",
+  "prediction": "Maine",
+  "num_images": 2
+}

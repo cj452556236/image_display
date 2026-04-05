@@ -1,0 +1,7 @@
+{
+  "question_id": 1054655,
+  "question": "What is the name of the people who work in this environment?",
+  "gt_answers": "['flight attendants', 'flight attendants', 'flight attendants', 'flight attendants', 'flight attendent', 'flight attendent', 'stewardess', 'stewardess', 'flight attendant', 'flight attendant']",
+  "prediction": "flight attendants",
+  "num_images": 2
+}

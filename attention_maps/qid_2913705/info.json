@@ -1,0 +1,7 @@
+{
+  "question_id": 2913705,
+  "question": "What type of hat is this gentleman wearing?",
+  "gt_answers": "['top', 'top', 'top', 'top', 'top hat', 'top hat', 'top hat', 'top hat', 'tophat', 'tophat']",
+  "prediction": "top hat",
+  "num_images": 2
+}

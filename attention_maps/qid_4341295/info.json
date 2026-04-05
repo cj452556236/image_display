@@ -1,0 +1,7 @@
+{
+  "question_id": 4341295,
+  "question": "What leaf is in this logo?",
+  "gt_answers": "['maple', 'maple', 'maple', 'maple', 'maple', 'maple', 'maple', 'maple', 'canada', 'canada']",
+  "prediction": "maple",
+  "num_images": 1
+}

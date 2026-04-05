@@ -1,0 +1,7 @@
+{
+  "question_id": 3479365,
+  "question": "What celebration are these desserts for?",
+  "gt_answers": "[\"valentine's day\", \"valentine's day\", 'valentines day', 'valentines day', 'birthday', 'birthday', 'halloween', 'halloween', 'valentines', 'valentines']",
+  "prediction": "Valentine's Day",
+  "num_images": 2
+}

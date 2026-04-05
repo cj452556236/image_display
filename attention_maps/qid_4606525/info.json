@@ -1,0 +1,7 @@
+{
+  "question_id": 4606525,
+  "question": "What is this light used for?",
+  "gt_answers": "['traffic', 'traffic', 'traffic', 'traffic', 'traffic', 'traffic', 'coordinating traffic', 'coordinating traffic', 'controlling traffic', 'controlling traffic']",
+  "prediction": "traffic",
+  "num_images": 2
+}

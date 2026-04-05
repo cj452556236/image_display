@@ -1,0 +1,7 @@
+{
+  "question_id": 1422405,
+  "question": "What us holiday typically involves cooking one of these?",
+  "gt_answers": "['thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving']",
+  "prediction": "Thanksgiving",
+  "num_images": 1
+}

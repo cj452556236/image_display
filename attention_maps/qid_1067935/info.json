@@ -1,0 +1,7 @@
+{
+  "question_id": 1067935,
+  "question": "What kind of bed system is this?",
+  "gt_answers": "['bunk bed', 'bunk bed', 'bunk bed', 'bunk bed', 'bunk bed', 'bunk bed', 'bunk', 'bunk', 'bunkbed', 'bunkbed']",
+  "prediction": "bunk",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1706305,
+  "question": "What household chore do people use the white appliance for?",
+  "gt_answers": "['laundry', 'laundry', 'laundry', 'laundry', 'laundry', 'laundry', 'laundry', 'laundry', 'wash dishes', 'wash dishes']",
+  "prediction": "Laundry",
+  "num_images": 2
+}

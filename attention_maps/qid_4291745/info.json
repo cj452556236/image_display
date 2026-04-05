@@ -1,0 +1,7 @@
+{
+  "question_id": 4291745,
+  "question": "What church is this?",
+  "gt_answers": "['catholic', 'catholic', 'catholic', 'catholic', 'basilica', 'basilica', 'church', 'church', 'st paul', 'st paul']",
+  "prediction": "church",
+  "num_images": 2
+}

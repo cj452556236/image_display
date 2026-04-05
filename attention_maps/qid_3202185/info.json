@@ -1,0 +1,7 @@
+{
+  "question_id": 3202185,
+  "question": "What is this animal doing with it's head down?",
+  "gt_answers": "['grazing', 'grazing', 'grazing', 'grazing', 'horse', 'horse', 'smelling ground', 'smelling ground', 'eating', 'eating']",
+  "prediction": "grazing",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1726865,
+  "question": "What type of food is this?",
+  "gt_answers": "['oranges', 'oranges', 'oranges', 'oranges', 'orange', 'orange', 'orange', 'orange', 'fruit', 'fruit']",
+  "prediction": "oranges",
+  "num_images": 1
+}

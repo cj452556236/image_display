@@ -1,0 +1,7 @@
+{
+  "question_id": 887485,
+  "question": "What material is the fountain made of?",
+  "gt_answers": "['concrete', 'concrete', 'concrete', 'concrete', 'ceramic', 'ceramic', 'stone', 'stone', 'cement', 'cement']",
+  "prediction": "stone",
+  "num_images": 2
+}

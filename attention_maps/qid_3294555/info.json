@@ -1,0 +1,7 @@
+{
+  "question_id": 3294555,
+  "question": "What animal does the meat on the pizza come from?",
+  "gt_answers": "['pig', 'pig', 'pig', 'pig', 'pig', 'pig', 'pig', 'pig', 'pig', 'pig']",
+  "prediction": "pig",
+  "num_images": 1
+}

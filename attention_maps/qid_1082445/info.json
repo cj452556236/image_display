@@ -1,0 +1,7 @@
+{
+  "question_id": 1082445,
+  "question": "To what profession is the hat depicted frequently linked?",
+  "gt_answers": "['pirate', 'pirate', 'pirate', 'pirate', 'pirate', 'pirate', 'pirates', 'pirates', 'piracy', 'piracy']",
+  "prediction": "pirate",
+  "num_images": 2
+}

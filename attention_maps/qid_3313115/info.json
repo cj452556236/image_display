@@ -1,0 +1,7 @@
+{
+  "question_id": 3313115,
+  "question": "What material is burning?",
+  "gt_answers": "['wax', 'wax', 'wax', 'wax', 'wax', 'wax', 'candle wax', 'candle wax', 'wic', 'wic']",
+  "prediction": "wax",
+  "num_images": 1
+}

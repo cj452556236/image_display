@@ -1,0 +1,7 @@
+{
+  "question_id": 5326105,
+  "question": "What brand of soda is on the shelf?",
+  "gt_answers": "['coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola']",
+  "prediction": "Coca-Cola",
+  "num_images": 2
+}

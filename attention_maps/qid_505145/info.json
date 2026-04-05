@@ -1,0 +1,7 @@
+{
+  "question_id": 505145,
+  "question": "What fruit comes from these trees?",
+  "gt_answers": "['coconut', 'coconut', 'coconut', 'coconut', 'coconut', 'coconut', 'pineapples', 'pineapples', 'banana', 'banana']",
+  "prediction": "coconut",
+  "num_images": 1
+}

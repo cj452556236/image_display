@@ -1,0 +1,7 @@
+{
+  "question_id": 1725135,
+  "question": "What rank is the man on the right?",
+  "gt_answers": "['captain', 'captain', 'captain', 'captain', 'captain', 'captain', 'corporal', 'corporal', 'admiral', 'admiral']",
+  "prediction": "Captain",
+  "num_images": 2
+}

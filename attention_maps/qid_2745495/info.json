@@ -1,0 +1,7 @@
+{
+  "question_id": 2745495,
+  "question": "How cold is it?",
+  "gt_answers": "['very cold', 'very cold', 'very cold', 'very cold', 'snowy', 'snowy', 'cold', 'cold', 'freezing', 'freezing']",
+  "prediction": "cold",
+  "num_images": 1
+}

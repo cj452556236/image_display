@@ -1,0 +1,7 @@
+{
+  "question_id": 4572305,
+  "question": "What are these people participating in?",
+  "gt_answers": "['parade', 'parade', 'parade', 'parade', 'riot', 'riot', 'standoff', 'standoff', 'blockaid', 'blockaid']",
+  "prediction": "parade",
+  "num_images": 1
+}

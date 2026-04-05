@@ -1,0 +1,7 @@
+{
+  "question_id": 688145,
+  "question": "What might you do in this room?",
+  "gt_answers": "['work', 'work', 'work', 'work', 'work', 'work', 'type', 'type', 'home office work', 'home office work']",
+  "prediction": "work",
+  "num_images": 1
+}

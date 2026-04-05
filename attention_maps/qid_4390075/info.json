@@ -1,0 +1,7 @@
+{
+  "question_id": 4390075,
+  "question": "What phenomena has endangered the habitat of this animal?",
+  "gt_answers": "['climate change', 'climate change', 'climate change', 'climate change', 'global warming', 'global warming', 'global warming', 'global warming', 'global climate change', 'global climate change']",
+  "prediction": "Climate change",
+  "num_images": 2
+}

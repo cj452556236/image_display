@@ -1,0 +1,7 @@
+{
+  "question_id": 4012495,
+  "question": "What type of jacket is this person wearing?",
+  "gt_answers": "['suit', 'suit', 'suit', 'suit', 'suit', 'suit', 'blazer', 'blazer', 'blazer', 'blazer']",
+  "prediction": "Suit",
+  "num_images": 2
+}

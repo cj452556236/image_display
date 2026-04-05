@@ -1,0 +1,7 @@
+{
+  "question_id": 5815575,
+  "question": "What is that special shirt called?",
+  "gt_answers": "['wet shirt', 'wet shirt', 'wet shirt', 'wet shirt', 'wetsuit', 'wetsuit', 'wetsuit', 'wetsuit', 'rash guard', 'rash guard']",
+  "prediction": "wetsuit",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1099075,
+  "question": "What climate would contain a lake like this?",
+  "gt_answers": "['temperate', 'temperate', 'temperate', 'temperate', 'wind', 'wind', 'midwest', 'midwest', 'warm', 'warm']",
+  "prediction": "temperate",
+  "num_images": 2
+}

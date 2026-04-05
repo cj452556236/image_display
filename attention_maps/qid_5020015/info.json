@@ -1,0 +1,7 @@
+{
+  "question_id": 5020015,
+  "question": "What animal is the woman's shirt replicating the pelt?",
+  "gt_answers": "['leopard', 'leopard', 'leopard', 'leopard', 'zebra', 'zebra', 'zebra', 'zebra', 'cheetah', 'cheetah']",
+  "prediction": "leopard",
+  "num_images": 1
+}

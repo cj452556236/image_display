@@ -1,0 +1,7 @@
+{
+  "question_id": 4568655,
+  "question": "Which brand of aeroplane is shown in this picture?",
+  "gt_answers": "['boeing', 'boeing', 'boeing', 'boeing', 'boing', 'boing', 'china eastern', 'china eastern', 'sas', 'sas']",
+  "prediction": "China Eastern",
+  "num_images": 2
+}

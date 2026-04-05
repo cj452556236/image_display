@@ -1,0 +1,7 @@
+{
+  "question_id": 5474935,
+  "question": "What type of dinnerware is the food on?",
+  "gt_answers": "['plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate', 'plate']",
+  "prediction": "plate",
+  "num_images": 2
+}

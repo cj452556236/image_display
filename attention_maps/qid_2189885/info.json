@@ -1,0 +1,7 @@
+{
+  "question_id": 2189885,
+  "question": "What kind of harmful physiological effects does the depicted appliance have on a consumer's health?",
+  "gt_answers": "['radiation', 'radiation', 'radiation', 'radiation', 'hurt eyes', 'hurt eyes', 'radation', 'radation', 'headaches', 'headaches']",
+  "prediction": "radiation",
+  "num_images": 2
+}

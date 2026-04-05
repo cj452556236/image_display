@@ -1,0 +1,7 @@
+{
+  "question_id": 3936825,
+  "question": "What popular restaurant is named for after this dessert?",
+  "gt_answers": "['cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheesecake factory', 'cheescake factory', 'cheescake factory']",
+  "prediction": "Cheesecake Factory",
+  "num_images": 2
+}

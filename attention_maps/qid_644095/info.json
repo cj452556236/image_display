@@ -1,0 +1,7 @@
+{
+  "question_id": 644095,
+  "question": "What would be in the small case?",
+  "gt_answers": "['guitar', 'guitar', 'guitar', 'guitar', 'violin', 'violin', 'violin', 'violin', 'pencils', 'pencils']",
+  "prediction": "guitar",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4637815,
+  "question": "What is the name of the airline of the pictured airplane?",
+  "gt_answers": "['air canada', 'air canada', 'air canada', 'air canada', 'canada air', 'canada air', 'boeing', 'boeing', 'jet', 'jet']",
+  "prediction": "Air Canada",
+  "num_images": 2
+}

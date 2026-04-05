@@ -1,0 +1,7 @@
+{
+  "question_id": 1328605,
+  "question": "Which of the sexes is more likely to carry these items?",
+  "gt_answers": "['women', 'women', 'women', 'women', 'women', 'women', 'females', 'females', 'female', 'female']",
+  "prediction": "female",
+  "num_images": 2
+}

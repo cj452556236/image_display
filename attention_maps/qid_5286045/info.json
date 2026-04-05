@@ -1,0 +1,7 @@
+{
+  "question_id": 5286045,
+  "question": "It looks like this baby just got out of what?",
+  "gt_answers": "['bath', 'bath', 'bath', 'bath', 'bath', 'bath', 'bath', 'bath', 'bath tub', 'bath tub']",
+  "prediction": "bath",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3955315,
+  "question": "What religion does the statue belone to?",
+  "gt_answers": "['buddhism', 'buddhism', 'buddhism', 'buddhism', 'buda', 'buda', 'china', 'china', 'buddhist', 'buddhist']",
+  "prediction": "Buddhism",
+  "num_images": 2
+}

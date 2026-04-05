@@ -1,0 +1,7 @@
+{
+  "question_id": 3836215,
+  "question": "This plane is passing by a part of what type of vehicle?",
+  "gt_answers": "['ship', 'ship', 'ship', 'ship', 'sail boat mast', 'sail boat mast', 'sailboar', 'sailboar', 'sail boat', 'sail boat']",
+  "prediction": "ship",
+  "num_images": 2
+}

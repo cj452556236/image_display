@@ -1,0 +1,7 @@
+{
+  "question_id": 1635895,
+  "question": "What nationality is represented by this crusty bread?",
+  "gt_answers": "['french', 'french', 'french', 'french', 'france', 'france', 'italian', 'italian', 'italy', 'italy']",
+  "prediction": "French",
+  "num_images": 2
+}

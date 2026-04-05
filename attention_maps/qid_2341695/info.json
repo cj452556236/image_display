@@ -1,0 +1,7 @@
+{
+  "question_id": 2341695,
+  "question": "How many different types of donuts are in this shop?",
+  "gt_answers": "['6', '6', '6', '6', '3', '3', '4', '4', '8', '8']",
+  "prediction": "three",
+  "num_images": 2
+}

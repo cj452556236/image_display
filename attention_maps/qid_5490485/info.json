@@ -1,0 +1,7 @@
+{
+  "question_id": 5490485,
+  "question": "What is the rack on the bus used for?",
+  "gt_answers": "['bikes', 'bikes', 'bikes', 'bikes', 'carry bikes', 'carry bikes', 'luggage', 'luggage', 'bicycles', 'bicycles']",
+  "prediction": "bicycles",
+  "num_images": 2
+}

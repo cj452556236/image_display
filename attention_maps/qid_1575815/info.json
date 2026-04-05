@@ -1,0 +1,7 @@
+{
+  "question_id": 1575815,
+  "question": "What fruit is used to make the beverage pictured?",
+  "gt_answers": "['grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes']",
+  "prediction": "grapes",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5512435,
+  "question": "What is the flower attacked to the jacket called?",
+  "gt_answers": "['rose', 'rose', 'rose', 'rose', 'butonniere', 'butonniere', 'boutonniere', 'boutonniere', 'boutonnierre', 'boutonnierre']",
+  "prediction": "boutonniere",
+  "num_images": 2
+}

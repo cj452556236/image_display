@@ -1,0 +1,7 @@
+{
+  "question_id": 1626775,
+  "question": "What type of establishment would have this?",
+  "gt_answers": "['prison', 'prison', 'prison', 'prison', 'prison', 'prison', 'jail', 'jail', 'restaurant', 'restaurant']",
+  "prediction": "Prison",
+  "num_images": 1
+}

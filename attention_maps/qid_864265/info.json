@@ -1,0 +1,7 @@
+{
+  "question_id": 864265,
+  "question": "What kind of computer is shown?",
+  "gt_answers": "['desktop', 'desktop', 'desktop', 'desktop', 'desktop', 'desktop', 'desk top', 'desk top', 'apple', 'apple']",
+  "prediction": "desktop",
+  "num_images": 2
+}

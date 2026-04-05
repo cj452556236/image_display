@@ -1,0 +1,7 @@
+{
+  "question_id": 1455975,
+  "question": "What type of meal are these people enjoying?",
+  "gt_answers": "['picnic', 'picnic', 'picnic', 'picnic', 'picnic', 'picnic', 'lunch', 'lunch', 'lunch', 'lunch']",
+  "prediction": "picnic",
+  "num_images": 2
+}

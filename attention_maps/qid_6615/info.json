@@ -1,0 +1,7 @@
+{
+  "question_id": 6615,
+  "question": "What condiments would be good on this sandwhich?",
+  "gt_answers": "['ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'ketchup', 'mustard', 'mustard', 'mayonnaise', 'mayonnaise']",
+  "prediction": "Mustard",
+  "num_images": 2
+}

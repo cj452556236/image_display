@@ -1,0 +1,7 @@
+{
+  "question_id": 3291385,
+  "question": "What are the breeds of the horses shown?",
+  "gt_answers": "['porter', 'porter', 'thoroughbreds', 'thoroughbreds', 'palomino', 'palomino', 'clydesdale', 'clydesdale', 'thoroughbred', 'thoroughbred']",
+  "prediction": "thoroughbred",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2086495,
+  "question": "What type of bread is on this sandwhich?",
+  "gt_answers": "['rye', 'rye', 'rye', 'rye', 'rye', 'rye', 'sourdough', 'sourdough', 'sourdough', 'sourdough']",
+  "prediction": "rye",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 209725,
+  "question": "What type of bear is this?",
+  "gt_answers": "['polar', 'polar', 'polar', 'polar', 'polar', 'polar', 'polar', 'polar', 'polar bear', 'polar bear']",
+  "prediction": "polar",
+  "num_images": 2
+}

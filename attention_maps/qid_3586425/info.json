@@ -1,0 +1,7 @@
+{
+  "question_id": 3586425,
+  "question": "Is this shop making a pun or using a double entendre?",
+  "gt_answers": "['pun', 'pun', 'pun', 'pun', 'pun', 'pun', 'pun', 'pun', 'pun', 'pun']",
+  "prediction": "pun",
+  "num_images": 2
+}

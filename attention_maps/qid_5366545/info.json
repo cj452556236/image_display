@@ -1,0 +1,7 @@
+{
+  "question_id": 5366545,
+  "question": "What kind of flowers are on the table?",
+  "gt_answers": "['roses', 'roses', 'roses', 'roses', 'roses', 'roses', 'roses', 'roses', 'roses', 'roses']",
+  "prediction": "roses",
+  "num_images": 2
+}

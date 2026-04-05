@@ -1,0 +1,7 @@
+{
+  "question_id": 1576015,
+  "question": "Where can i buy clothes similar to hers online?",
+  "gt_answers": "['amazon', 'amazon', 'amazon', 'amazon', 'gap', 'gap', 'kohls', 'kohls', 'old navy', 'old navy']",
+  "prediction": "Amazon",
+  "num_images": 2
+}

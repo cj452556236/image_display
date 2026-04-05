@@ -1,0 +1,7 @@
+{
+  "question_id": 152595,
+  "question": "What type of flowers are pictured?",
+  "gt_answers": "['wisteria', 'wisteria', 'hyacinth', 'hyacinth', 'lilac', 'lilac', 'lilacs', 'lilacs', 'purple', 'purple']",
+  "prediction": "lilacs",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 511915,
+  "question": "Is this bathroom high or low end?",
+  "gt_answers": "['high', 'high', 'high', 'high', 'high', 'high', 'high end', 'high end', 'high end', 'high end']",
+  "prediction": "High",
+  "num_images": 2
+}

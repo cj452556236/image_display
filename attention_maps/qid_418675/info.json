@@ -1,0 +1,7 @@
+{
+  "question_id": 418675,
+  "question": "What kind of bird is this?",
+  "gt_answers": "['myna', 'myna', 'myna', 'myna', 'cardinal', 'cardinal', 'yellowcheek', 'yellowcheek', 'brown', 'brown']",
+  "prediction": "myna",
+  "num_images": 2
+}

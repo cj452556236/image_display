@@ -1,0 +1,7 @@
+{
+  "question_id": 2142445,
+  "question": "What are the two items that this athlete has in either hand?",
+  "gt_answers": "['ski poles', 'ski poles', 'ski poles', 'ski poles', 'ski poles', 'ski poles', 'poles', 'poles', 'poles', 'poles']",
+  "prediction": "ski poles",
+  "num_images": 2
+}

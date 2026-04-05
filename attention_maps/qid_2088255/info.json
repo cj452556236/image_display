@@ -1,0 +1,7 @@
+{
+  "question_id": 2088255,
+  "question": "This cake contains what vegatable?",
+  "gt_answers": "['carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot']",
+  "prediction": "carrot",
+  "num_images": 2
+}

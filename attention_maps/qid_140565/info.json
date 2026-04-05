@@ -1,0 +1,7 @@
+{
+  "question_id": 140565,
+  "question": "What is the name of the equipment these people are using?",
+  "gt_answers": "['surfboards', 'surfboards', 'surfboards', 'surfboards', 'surf boards', 'surf boards', 'surf boredphone', 'surf boredphone', 'wetsuit', 'wetsuit']",
+  "prediction": "surfboards",
+  "num_images": 1
+}

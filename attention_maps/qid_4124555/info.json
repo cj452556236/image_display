@@ -1,0 +1,7 @@
+{
+  "question_id": 4124555,
+  "question": "What century is this?",
+  "gt_answers": "['20th', '20th', '20th', '20th', '20th', '20th', '1950s', '1950s', '1900', '1900']",
+  "prediction": "20th",
+  "num_images": 1
+}

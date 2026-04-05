@@ -1,0 +1,7 @@
+{
+  "question_id": 4879905,
+  "question": "What type of instrument is this?",
+  "gt_answers": "['ukelele', 'ukelele', 'ukelele', 'ukelele', 'ukulele', 'ukulele', 'guitar', 'guitar', 'eukalaylee', 'eukalaylee']",
+  "prediction": "ukulele",
+  "num_images": 2
+}

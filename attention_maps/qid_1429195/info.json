@@ -1,0 +1,7 @@
+{
+  "question_id": 1429195,
+  "question": "What green food is on top of the pizza?",
+  "gt_answers": "['spinach', 'spinach', 'spinach', 'spinach', 'arugula', 'arugula', 'celery', 'celery', 'pepper', 'pepper']",
+  "prediction": "arugula",
+  "num_images": 2
+}

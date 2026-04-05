@@ -1,0 +1,7 @@
+{
+  "question_id": 889835,
+  "question": "What electronic device is being featured in this photo?",
+  "gt_answers": "['remote', 'remote', 'remote', 'remote', 'remote', 'remote', 'sony tv controller', 'sony tv controller', 'television and remote', 'television and remote']",
+  "prediction": "remote",
+  "num_images": 2
+}

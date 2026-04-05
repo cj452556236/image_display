@@ -1,0 +1,7 @@
+{
+  "question_id": 3023885,
+  "question": "Is this surfer regular footed or goofy footed?",
+  "gt_answers": "['regular', 'regular', 'regular', 'regular', 'regular', 'regular', 'regular', 'regular', 'regular footed', 'regular footed']",
+  "prediction": "regular",
+  "num_images": 2
+}

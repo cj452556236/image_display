@@ -1,0 +1,7 @@
+{
+  "question_id": 2525735,
+  "question": "What animal does the cat thinks this device is?",
+  "gt_answers": "['mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'toy', 'toy']",
+  "prediction": "mouse",
+  "num_images": 2
+}

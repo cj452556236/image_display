@@ -1,0 +1,7 @@
+{
+  "question_id": 5642805,
+  "question": "What long strap is attached to the object around the animal's neck?",
+  "gt_answers": "['leash', 'leash', 'leash', 'leash', 'leash', 'leash', 'collar', 'collar', 'collar', 'collar']",
+  "prediction": "collar",
+  "num_images": 2
+}

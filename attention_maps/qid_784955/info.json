@@ -1,0 +1,7 @@
+{
+  "question_id": 784955,
+  "question": "What is the piece of decorative fabric called that the cat is sitting on?",
+  "gt_answers": "['rug', 'rug', 'rug', 'rug', 'oriental rug', 'oriental rug', 'carpet', 'carpet', 'mat', 'mat']",
+  "prediction": "rug",
+  "num_images": 2
+}

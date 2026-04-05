@@ -1,0 +1,7 @@
+{
+  "question_id": 1653365,
+  "question": "This type of animal has a famously long what?",
+  "gt_answers": "['neck', 'neck', 'neck', 'neck', 'neck', 'neck', 'neck', 'neck', 'necks', 'necks']",
+  "prediction": "neck",
+  "num_images": 2
+}

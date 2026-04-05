@@ -1,0 +1,7 @@
+{
+  "question_id": 4265785,
+  "question": "The activity that the man in the photo is doing can increase which vital signs?",
+  "gt_answers": "['heart rate', 'heart rate', 'heart rate', 'heart rate', 'heart rate', 'heart rate', 'walking', 'walking', 'heat rate', 'heat rate']",
+  "prediction": "heart rate",
+  "num_images": 1
+}

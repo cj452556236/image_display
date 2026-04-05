@@ -1,0 +1,7 @@
+{
+  "question_id": 4813275,
+  "question": "The dried flowers in this photo are stuck down inside what type of item?",
+  "gt_answers": "['vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase']",
+  "prediction": "vase",
+  "num_images": 2
+}

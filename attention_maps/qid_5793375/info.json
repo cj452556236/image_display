@@ -1,0 +1,7 @@
+{
+  "question_id": 5793375,
+  "question": "What is in the woman's hand?",
+  "gt_answers": "['racket', 'racket', 'racket', 'racket', 'racket', 'racket', 'racket', 'racket', 'raquet', 'raquet']",
+  "prediction": "racket",
+  "num_images": 2
+}

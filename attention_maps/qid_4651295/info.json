@@ -1,0 +1,7 @@
+{
+  "question_id": 4651295,
+  "question": "What kind of garment is this person wearing?",
+  "gt_answers": "['robe', 'robe', 'robe', 'robe', 'robe', 'robe', 'night gown', 'night gown', 'bathrobe', 'bathrobe']",
+  "prediction": "robe",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 300495,
+  "question": "When was the activity shown first invented?",
+  "gt_answers": "['1922', '1922', '1922', '1922', '1920s', '1920s', '1950', '1950', '1985', '1985']",
+  "prediction": "1922",
+  "num_images": 1
+}

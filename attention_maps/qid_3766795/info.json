@@ -1,0 +1,7 @@
+{
+  "question_id": 3766795,
+  "question": "What is this guy doing?",
+  "gt_answers": "['playing video games', 'playing video games', 'playing video games', 'playing video games', 'gaming', 'gaming', 'playing', 'playing', 'wii bowling', 'wii bowling']",
+  "prediction": "playing",
+  "num_images": 2
+}

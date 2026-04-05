@@ -1,0 +1,7 @@
+{
+  "question_id": 3732665,
+  "question": "What type of building is this?",
+  "gt_answers": "['hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital', 'hospital']",
+  "prediction": "Hospital",
+  "num_images": 1
+}

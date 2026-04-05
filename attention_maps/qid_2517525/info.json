@@ -1,0 +1,7 @@
+{
+  "question_id": 2517525,
+  "question": "What other movie franchises has lego made playsets based on?",
+  "gt_answers": "['star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'starwars', 'starwars', 'harry potter', 'harry potter']",
+  "prediction": "Star Wars",
+  "num_images": 2
+}

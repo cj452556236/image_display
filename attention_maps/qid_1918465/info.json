@@ -1,0 +1,7 @@
+{
+  "question_id": 1918465,
+  "question": "What type of race would these kids compete in?",
+  "gt_answers": "['bike', 'bike', 'bike', 'bike', 'bicycle', 'bicycle', 'bicycle', 'bicycle', 'egg and spoon', 'egg and spoon']",
+  "prediction": "bicycle",
+  "num_images": 2
+}

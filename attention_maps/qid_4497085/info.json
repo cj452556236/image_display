@@ -1,0 +1,7 @@
+{
+  "question_id": 4497085,
+  "question": "What is this space used for?",
+  "gt_answers": "['working', 'working', 'working', 'working', 'computer', 'computer', 'office work', 'office work', 'work', 'work']",
+  "prediction": "Work",
+  "num_images": 2
+}

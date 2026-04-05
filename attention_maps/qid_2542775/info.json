@@ -1,0 +1,7 @@
+{
+  "question_id": 2542775,
+  "question": "Where can i buy flowers like these?",
+  "gt_answers": "['florist', 'florist', 'florist', 'florist', 'flower shop', 'flower shop', 'store', 'store', 'kroger', 'kroger']",
+  "prediction": "Flower shop",
+  "num_images": 2
+}

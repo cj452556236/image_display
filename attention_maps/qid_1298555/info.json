@@ -1,0 +1,7 @@
+{
+  "question_id": 1298555,
+  "question": "What is the profession of the person?",
+  "gt_answers": "['surfer', 'surfer', 'surfer', 'surfer', 'surfer', 'surfer', 'surfer', 'surfer', 'surfer', 'surfer']",
+  "prediction": "Surfer",
+  "num_images": 2
+}

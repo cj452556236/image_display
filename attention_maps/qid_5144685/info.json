@@ -1,0 +1,7 @@
+{
+  "question_id": 5144685,
+  "question": "What is the name of the board he is on?",
+  "gt_answers": "['surf board', 'surf board', 'surf board', 'surf board', 'surfboard', 'surfboard', 'surfboard', 'surfboard', 'surf', 'surf']",
+  "prediction": "surfboard",
+  "num_images": 1
+}

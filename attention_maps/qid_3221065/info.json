@@ -1,0 +1,7 @@
+{
+  "question_id": 3221065,
+  "question": "Is the basket on the ground open or closed?",
+  "gt_answers": "['open', 'open', 'open', 'open', 'open', 'open', 'open', 'open', 'food', 'food']",
+  "prediction": "open",
+  "num_images": 2
+}

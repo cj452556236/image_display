@@ -1,0 +1,7 @@
+{
+  "question_id": 799555,
+  "question": "What is a common term for the type of roadway the truck is entering?",
+  "gt_answers": "['freeway', 'freeway', 'freeway', 'freeway', 'highway', 'highway', 'exit ramp', 'exit ramp', 'interstate', 'interstate']",
+  "prediction": "highway",
+  "num_images": 2
+}

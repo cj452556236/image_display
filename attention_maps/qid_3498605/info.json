@@ -1,0 +1,7 @@
+{
+  "question_id": 3498605,
+  "question": "What is he riding?",
+  "gt_answers": "['skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard']",
+  "prediction": "skateboard",
+  "num_images": 1
+}

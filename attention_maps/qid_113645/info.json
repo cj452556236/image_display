@@ -1,0 +1,7 @@
+{
+  "question_id": 113645,
+  "question": "What california national park are these known to be seen?",
+  "gt_answers": "['yosemite', 'yosemite', 'yosemite', 'yosemite', 'sequoia', 'sequoia', 'yellowstone', 'yellowstone', 'sequoia and kings canyon national parks', 'sequoia and kings canyon national parks']",
+  "prediction": "Yosemite",
+  "num_images": 2
+}

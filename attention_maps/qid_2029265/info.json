@@ -1,0 +1,7 @@
+{
+  "question_id": 2029265,
+  "question": "What types of birds are those present?",
+  "gt_answers": "['pelicans', 'pelicans', 'pelicans', 'pelicans', 'pelicans', 'pelicans', 'seagulls', 'seagulls', 'seagulls', 'seagulls']",
+  "prediction": "seagulls",
+  "num_images": 2
+}

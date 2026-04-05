@@ -1,0 +1,7 @@
+{
+  "question_id": 5764615,
+  "question": "Name the place shown in this picture?",
+  "gt_answers": "['highway', 'highway', 'highway', 'highway', 'chicago', 'chicago', 'brighton', 'brighton', 'america', 'america']",
+  "prediction": "highway",
+  "num_images": 1
+}

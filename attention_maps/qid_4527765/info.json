@@ -1,0 +1,7 @@
+{
+  "question_id": 4527765,
+  "question": "Is this a landline or cellular phone?",
+  "gt_answers": "['cellular', 'cellular', 'cellular', 'cellular', 'cellular', 'cellular', 'flip phone', 'flip phone', 'cell phone', 'cell phone']",
+  "prediction": "cellular",
+  "num_images": 2
+}

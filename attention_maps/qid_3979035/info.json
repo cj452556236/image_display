@@ -1,0 +1,7 @@
+{
+  "question_id": 3979035,
+  "question": "What is the woman doing?",
+  "gt_answers": "['taking picture', 'taking picture', 'taking picture', 'taking picture', 'taking picture', 'taking picture', 'photographing', 'photographing', 'taking photo', 'taking photo']",
+  "prediction": "Taking a picture",
+  "num_images": 2
+}

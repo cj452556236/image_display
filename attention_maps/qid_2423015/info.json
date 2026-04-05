@@ -1,0 +1,7 @@
+{
+  "question_id": 2423015,
+  "question": "What size bed is this?",
+  "gt_answers": "['queen', 'queen', 'queen', 'queen', 'king', 'king', 'king', 'king', 'single', 'single']",
+  "prediction": "queen",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1071405,
+  "question": "What is spread across the person's toast in this photo?",
+  "gt_answers": "['butter', 'butter', 'butter', 'butter', 'butter', 'butter', 'butter', 'butter', 'cream cheese', 'cream cheese']",
+  "prediction": "butter",
+  "num_images": 2
+}

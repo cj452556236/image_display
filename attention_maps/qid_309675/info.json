@@ -1,0 +1,7 @@
+{
+  "question_id": 309675,
+  "question": "Which feline has a pelt similar to this animals but with smaller detailing?",
+  "gt_answers": "['leopard', 'leopard', 'leopard', 'leopard', 'leopard', 'leopard', 'cheetah', 'cheetah', 'cheetah', 'cheetah']",
+  "prediction": "leopard",
+  "num_images": 1
+}

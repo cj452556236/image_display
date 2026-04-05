@@ -1,0 +1,7 @@
+{
+  "question_id": 5445745,
+  "question": "What causes these waves?",
+  "gt_answers": "['tides', 'tides', 'tides', 'tides', 'wind', 'wind', 'wind', 'wind', 'gravity', 'gravity']",
+  "prediction": "Wind",
+  "num_images": 1
+}

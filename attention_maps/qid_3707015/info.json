@@ -1,0 +1,7 @@
+{
+  "question_id": 3707015,
+  "question": "What kinds of dogs are those?",
+  "gt_answers": "['chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihauhaus', 'chihauhaus']",
+  "prediction": "Chihuahua",
+  "num_images": 2
+}

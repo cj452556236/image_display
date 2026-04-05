@@ -1,0 +1,7 @@
+{
+  "question_id": 2793435,
+  "question": "What is the primary purpose of the vehicles in this image?",
+  "gt_answers": "['flying', 'flying', 'flying', 'flying', 'defense', 'defense', 'sightseeing', 'sightseeing', 'fly', 'fly']",
+  "prediction": "fly",
+  "num_images": 1
+}

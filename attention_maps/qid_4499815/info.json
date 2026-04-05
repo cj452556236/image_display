@@ -1,0 +1,7 @@
+{
+  "question_id": 4499815,
+  "question": "What kind of soil is this?",
+  "gt_answers": "['red soil', 'red soil', 'red soil', 'red soil', 'healthy', 'healthy', 'teracotta', 'teracotta', 'clay', 'clay']",
+  "prediction": "clay",
+  "num_images": 2
+}

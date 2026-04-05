@@ -1,0 +1,7 @@
+{
+  "question_id": 5302205,
+  "question": "What are some safety precautions to take when riding this vehicle?",
+  "gt_answers": "['wear helmet', 'wear helmet', 'wear helmet', 'wear helmet', 'wear helmet', 'wear helmet', 'helmet', 'helmet', 'seat foot pegs wheel guards', 'seat foot pegs wheel guards']",
+  "prediction": "Helmet",
+  "num_images": 1
+}

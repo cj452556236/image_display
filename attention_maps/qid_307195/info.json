@@ -1,0 +1,7 @@
+{
+  "question_id": 307195,
+  "question": "What kind of slope is pictured here?",
+  "gt_answers": "['ski', 'ski', 'ski', 'ski', 'ski', 'ski', 'ski', 'ski', 'ski slope', 'ski slope']",
+  "prediction": "ski",
+  "num_images": 2
+}

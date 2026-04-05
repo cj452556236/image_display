@@ -1,0 +1,7 @@
+{
+  "question_id": 3611535,
+  "question": "What kind of tomato sauce is there?",
+  "gt_answers": "['marinara', 'marinara', 'marinara', 'marinara', 'sweet and sour', 'sweet and sour', 'tomato', 'tomato', 'hot oil tomato sauce', 'hot oil tomato sauce']",
+  "prediction": "marinara",
+  "num_images": 1
+}

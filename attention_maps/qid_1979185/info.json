@@ -1,0 +1,7 @@
+{
+  "question_id": 1979185,
+  "question": "What is the boy doing to the girl's hair?",
+  "gt_answers": "['brushing it', 'brushing it', 'brushing it', 'brushing it', 'brushing it', 'brushing it', 'brushing', 'brushing', 'combing', 'combing']",
+  "prediction": "combing",
+  "num_images": 2
+}

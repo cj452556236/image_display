@@ -1,0 +1,7 @@
+{
+  "question_id": 3235645,
+  "question": "What would you call this device if it only had one wheel?",
+  "gt_answers": "['unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle', 'unicycle']",
+  "prediction": "unicycle",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4843315,
+  "question": "How long does it take to learn this sport?",
+  "gt_answers": "['1 year', '1 year', '1 year', '1 year', 'months', 'months', '2', '2', 'not long', 'not long']",
+  "prediction": "2",
+  "num_images": 1
+}

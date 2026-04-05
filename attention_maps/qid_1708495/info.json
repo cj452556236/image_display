@@ -1,0 +1,7 @@
+{
+  "question_id": 1708495,
+  "question": "How would you dress for this setting?",
+  "gt_answers": "['shorts', 'shorts', 'shorts', 'shorts', 'bathing suit', 'bathing suit', 'bikini', 'bikini', 'summer', 'summer']",
+  "prediction": "shorts",
+  "num_images": 1
+}

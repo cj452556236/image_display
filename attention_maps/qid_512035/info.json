@@ -1,0 +1,7 @@
+{
+  "question_id": 512035,
+  "question": "Which color seen on a garment here is often seen on flowering bushes?",
+  "gt_answers": "['pink', 'pink', 'pink', 'pink', 'pink', 'pink', 'rose', 'rose', 'rose', 'rose']",
+  "prediction": "pink",
+  "num_images": 1
+}

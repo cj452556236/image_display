@@ -1,0 +1,7 @@
+{
+  "question_id": 2037545,
+  "question": "What is the chair made of?",
+  "gt_answers": "['fabric', 'fabric', 'fabric', 'fabric', 'fabric', 'fabric', 'wood', 'wood', 'wood', 'wood']",
+  "prediction": "wood",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5010235,
+  "question": "What would you call this type of climate or ecosystem pictured here?",
+  "gt_answers": "['desert', 'desert', 'desert', 'desert', 'desert', 'desert', 'dessert', 'dessert', 'dry', 'dry']",
+  "prediction": "desert",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2188535,
+  "question": "Would you travel more or less than 100 miles in this vehicle?",
+  "gt_answers": "['more', 'more', 'more', 'more', 'more', 'more', 'more', 'more', 'less', 'less']",
+  "prediction": "more",
+  "num_images": 1
+}

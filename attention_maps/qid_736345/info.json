@@ -1,0 +1,7 @@
+{
+  "question_id": 736345,
+  "question": "This is a modern plane that was originally inspired by what two brothers?",
+  "gt_answers": "['wright', 'wright', 'wright', 'wright', 'wright', 'wright', 'wright brothers', 'wright brothers', 'write', 'write']",
+  "prediction": "Wright",
+  "num_images": 2
+}

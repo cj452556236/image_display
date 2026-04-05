@@ -1,0 +1,7 @@
+{
+  "question_id": 5662495,
+  "question": "What is this street made of?",
+  "gt_answers": "['cobblestone', 'cobblestone', 'brick', 'brick', 'stone', 'stone', 'cobblestones', 'cobblestones', 'bricks', 'bricks']",
+  "prediction": "cobblestone",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 543345,
+  "question": "What are the fabric coverings on the window called?",
+  "gt_answers": "['drapes', 'drapes', 'drapes', 'drapes', 'curtains', 'curtains', 'curtains', 'curtains', 'lace', 'lace']",
+  "prediction": "curtains",
+  "num_images": 2
+}

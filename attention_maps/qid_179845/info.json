@@ -1,0 +1,7 @@
+{
+  "question_id": 179845,
+  "question": "What south american country usually has this climate?",
+  "gt_answers": "['brazil', 'brazil', 'brazil', 'brazil', 'brazil', 'brazil', 'africa', 'africa', 'ecuador', 'ecuador']",
+  "prediction": "Brazil",
+  "num_images": 2
+}

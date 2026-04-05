@@ -1,0 +1,7 @@
+{
+  "question_id": 449645,
+  "question": "What does this animal eat?",
+  "gt_answers": "['vegetation', 'vegetation', 'vegetation', 'vegetation', 'peanuts', 'peanuts', 'straw', 'straw', 'grass', 'grass']",
+  "prediction": "grass",
+  "num_images": 1
+}

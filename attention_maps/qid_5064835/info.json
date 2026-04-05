@@ -1,0 +1,7 @@
+{
+  "question_id": 5064835,
+  "question": "What media was used to create the tigers face?",
+  "gt_answers": "['paint', 'paint', 'paint', 'paint', 'balloon', 'balloon', 'photograph', 'photograph', 'rubber', 'rubber']",
+  "prediction": "paint",
+  "num_images": 2
+}

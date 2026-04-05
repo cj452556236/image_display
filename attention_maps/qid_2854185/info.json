@@ -1,0 +1,7 @@
+{
+  "question_id": 2854185,
+  "question": "What kind of cat is that?",
+  "gt_answers": "['domestic', 'domestic', 'domestic', 'domestic', 'tabby', 'tabby', 'shorthair', 'shorthair', 'american', 'american']",
+  "prediction": "tabby",
+  "num_images": 2
+}

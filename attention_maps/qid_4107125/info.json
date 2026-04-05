@@ -1,0 +1,7 @@
+{
+  "question_id": 4107125,
+  "question": "How do we know there may be a school nearby?",
+  "gt_answers": "['sign', 'sign', 'sign', 'sign', 'sign', 'sign', 'yellow sign', 'yellow sign', 'crosswalk', 'crosswalk']",
+  "prediction": "sign",
+  "num_images": 2
+}

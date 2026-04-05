@@ -1,0 +1,7 @@
+{
+  "question_id": 3321595,
+  "question": "What kind of omen is the cat on the right considered?",
+  "gt_answers": "['bad', 'bad', 'bad', 'bad', 'death', 'death', 'black', 'black', 'bad luck', 'bad luck']",
+  "prediction": "bad",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5590625,
+  "question": "What common material can you use to clean shine the object being held?",
+  "gt_answers": "['wax', 'wax', 'wax', 'wax', 'wax', 'wax', 'wax', 'wax', 'resin', 'resin']",
+  "prediction": "wax",
+  "num_images": 1
+}

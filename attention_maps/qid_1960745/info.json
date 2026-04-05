@@ -1,0 +1,7 @@
+{
+  "question_id": 1960745,
+  "question": "What utensil may be used when eating this soft food?",
+  "gt_answers": "['spoon', 'spoon', 'spoon', 'spoon', 'spoon', 'spoon', 'spoon', 'spoon', 'fork', 'fork']",
+  "prediction": "spoon",
+  "num_images": 2
+}

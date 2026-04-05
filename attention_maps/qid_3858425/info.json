@@ -1,0 +1,7 @@
+{
+  "question_id": 3858425,
+  "question": "What kind of flower is this?",
+  "gt_answers": "['daffodil', 'daffodil', 'daffodil', 'daffodil', 'daisy', 'daisy', 'carnation', 'carnation', 'sunflower', 'sunflower']",
+  "prediction": "daisy",
+  "num_images": 2
+}

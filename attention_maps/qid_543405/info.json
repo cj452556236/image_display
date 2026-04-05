@@ -1,0 +1,7 @@
+{
+  "question_id": 543405,
+  "question": "What do you call a baby version of this animal?",
+  "gt_answers": "['kitten', 'kitten', 'kitten', 'kitten', 'kitten', 'kitten', 'kitten', 'kitten', 'kittens', 'kittens']",
+  "prediction": "kitten",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 457105,
+  "question": "What are the white things under the trunk called?",
+  "gt_answers": "['tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks']",
+  "prediction": "tusks",
+  "num_images": 2
+}

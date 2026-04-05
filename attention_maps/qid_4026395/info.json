@@ -1,0 +1,7 @@
+{
+  "question_id": 4026395,
+  "question": "Is this a room for a boy or girl?",
+  "gt_answers": "['girl', 'girl', 'girl', 'girl', 'girl', 'girl', 'girl', 'girl', 'girl', 'girl']",
+  "prediction": "girl",
+  "num_images": 2
+}

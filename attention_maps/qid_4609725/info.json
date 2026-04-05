@@ -1,0 +1,7 @@
+{
+  "question_id": 4609725,
+  "question": "Where could you find these animals?",
+  "gt_answers": "['north america', 'north america', 'north america', 'north america', 'canada', 'canada', 'pond', 'pond', 'lake', 'lake']",
+  "prediction": "lake",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5304615,
+  "question": "What piece of apparel holds a tiny version of the item on the pole?",
+  "gt_answers": "['watch', 'watch', 'watch', 'watch', 'watch', 'watch', 'watch band', 'watch band', 'rolex', 'rolex']",
+  "prediction": "watch",
+  "num_images": 2
+}

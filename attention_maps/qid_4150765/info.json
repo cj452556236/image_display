@@ -1,0 +1,7 @@
+{
+  "question_id": 4150765,
+  "question": "What are these bricks stuck together with?",
+  "gt_answers": "['mortar', 'mortar', 'mortar', 'mortar', 'mortar', 'mortar', 'cement', 'cement', 'concrete', 'concrete']",
+  "prediction": "mortar",
+  "num_images": 2
+}

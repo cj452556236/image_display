@@ -1,0 +1,7 @@
+{
+  "question_id": 3170625,
+  "question": "What key allows someone to remove text?",
+  "gt_answers": "['backspace', 'backspace', 'backspace', 'backspace', 'backspace', 'backspace', 'delete', 'delete', 'delete', 'delete']",
+  "prediction": "delete",
+  "num_images": 1
+}

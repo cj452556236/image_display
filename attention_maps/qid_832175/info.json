@@ -1,0 +1,7 @@
+{
+  "question_id": 832175,
+  "question": "What utensil is needed to eat this meal?",
+  "gt_answers": "['fork', 'fork', 'fork', 'fork', 'fork', 'fork', 'fork', 'fork', 'fork', 'fork']",
+  "prediction": "fork",
+  "num_images": 1
+}

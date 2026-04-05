@@ -1,0 +1,7 @@
+{
+  "question_id": 2727385,
+  "question": "Was the person old or young?",
+  "gt_answers": "['old', 'old', 'old', 'old', 'old', 'old', 'old', 'old', 'young', 'young']",
+  "prediction": "young",
+  "num_images": 1
+}

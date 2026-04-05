@@ -1,0 +1,7 @@
+{
+  "question_id": 5757195,
+  "question": "Do you think this person has won or lost a game?",
+  "gt_answers": "['won', 'won', 'won', 'won', 'won', 'won', 'won', 'won', 'won', 'won']",
+  "prediction": "won",
+  "num_images": 1
+}

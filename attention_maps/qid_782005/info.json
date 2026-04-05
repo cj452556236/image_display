@@ -1,0 +1,7 @@
+{
+  "question_id": 782005,
+  "question": "What object is disguised as a fridge?",
+  "gt_answers": "['amplifier', 'amplifier', 'amplifier', 'amplifier', 'amplifier', 'amplifier', 'amp', 'amp', 'speaker', 'speaker']",
+  "prediction": "amplifier",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5692515,
+  "question": "What kind of instrument is on the refrigerator?",
+  "gt_answers": "['violin', 'violin', 'violin', 'violin', 'violin', 'violin', 'violin', 'violin', 'guitar', 'guitar']",
+  "prediction": "violin",
+  "num_images": 2
+}

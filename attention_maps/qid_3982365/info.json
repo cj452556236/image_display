@@ -1,0 +1,7 @@
+{
+  "question_id": 3982365,
+  "question": "What is a good side dish for this meal?",
+  "gt_answers": "['fries', 'fries', 'fries', 'fries', 'chips', 'chips', 'baked beans', 'baked beans', 'coleslaw', 'coleslaw']",
+  "prediction": "coleslaw",
+  "num_images": 1
+}

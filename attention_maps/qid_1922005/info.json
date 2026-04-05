@@ -1,0 +1,7 @@
+{
+  "question_id": 1922005,
+  "question": "What human limbs are illegal to use in this sport?",
+  "gt_answers": "['hands', 'hands', 'hands', 'hands', 'hands', 'hands', 'arms', 'arms', 'arms', 'arms']",
+  "prediction": "hands",
+  "num_images": 1
+}

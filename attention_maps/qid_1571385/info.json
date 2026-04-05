@@ -1,0 +1,7 @@
+{
+  "question_id": 1571385,
+  "question": "Is this a snack or meal?",
+  "gt_answers": "['snack', 'snack', 'snack', 'snack', 'snack', 'snack', 'snack', 'snack', 'snack', 'snack']",
+  "prediction": "snack",
+  "num_images": 2
+}

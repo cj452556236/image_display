@@ -1,0 +1,7 @@
+{
+  "question_id": 3395125,
+  "question": "What is on the ears of the cattle in this photo?",
+  "gt_answers": "['tags', 'tags', 'tags', 'tags', 'tags', 'tags', 'tag', 'tag', 'tag', 'tag']",
+  "prediction": "tags",
+  "num_images": 2
+}

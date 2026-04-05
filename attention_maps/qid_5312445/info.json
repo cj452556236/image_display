@@ -1,0 +1,7 @@
+{
+  "question_id": 5312445,
+  "question": "Why is the ladies stomach large?",
+  "gt_answers": "['pregnant', 'pregnant', 'pregnant', 'pregnant', 'pregnant', 'pregnant', 'pregnant', 'pregnant', 'pregnancy', 'pregnancy']",
+  "prediction": "pregnant",
+  "num_images": 2
+}

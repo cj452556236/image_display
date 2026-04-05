@@ -1,0 +1,7 @@
+{
+  "question_id": 3173305,
+  "question": "What style of dress is that man wearing?",
+  "gt_answers": "['formal', 'formal', 'formal', 'formal', 'classic', 'classic', 'suit', 'suit', 'old', 'old']",
+  "prediction": "Formal",
+  "num_images": 1
+}

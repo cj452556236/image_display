@@ -1,0 +1,7 @@
+{
+  "question_id": 4029315,
+  "question": "What were they doing?",
+  "gt_answers": "['sledding', 'sledding', 'sledding', 'sledding', 'sledding', 'sledding', 'snowboarding', 'snowboarding', 'skiing', 'skiing']",
+  "prediction": "sledding",
+  "num_images": 1
+}

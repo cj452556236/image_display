@@ -1,0 +1,7 @@
+{
+  "question_id": 3855865,
+  "question": "It is a boat or ship or fishboat?",
+  "gt_answers": "['ship', 'ship', 'ship', 'ship', 'ship', 'ship', 'ship', 'ship', 'fishboat', 'fishboat']",
+  "prediction": "ship",
+  "num_images": 2
+}

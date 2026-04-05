@@ -1,0 +1,7 @@
+{
+  "question_id": 2980515,
+  "question": "What event is this?",
+  "gt_answers": "['concert', 'concert', 'concert', 'concert', 'concert', 'concert', 'concert', 'concert', 'british heart foundation', 'british heart foundation']",
+  "prediction": "concert",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1153005,
+  "question": "Why can you not cross the barrier?",
+  "gt_answers": "['danger', 'danger', 'danger', 'danger', 'gate', 'gate', 'safety', 'safety', 'there is animal on other side', 'there is animal on other side']",
+  "prediction": "danger",
+  "num_images": 2
+}

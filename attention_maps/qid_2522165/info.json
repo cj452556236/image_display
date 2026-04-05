@@ -1,0 +1,7 @@
+{
+  "question_id": 2522165,
+  "question": "What is the animal to the left?",
+  "gt_answers": "['llama', 'llama', 'llama', 'llama', 'horse', 'horse', 'goat', 'goat', 'alpaca', 'alpaca']",
+  "prediction": "llama",
+  "num_images": 2
+}

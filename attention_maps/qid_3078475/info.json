@@ -1,0 +1,7 @@
+{
+  "question_id": 3078475,
+  "question": "What is the light indicating oncoming traffic should be doing?",
+  "gt_answers": "['stopping', 'stopping', 'stopping', 'stopping', 'stopping', 'stopping', 'stop', 'stop', 'stop', 'stop']",
+  "prediction": "stop",
+  "num_images": 1
+}

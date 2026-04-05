@@ -1,0 +1,7 @@
+{
+  "question_id": 5192715,
+  "question": "What small cloth is used to wipe the face or eating this meal?",
+  "gt_answers": "['napkin', 'napkin', 'napkin', 'napkin', 'napkin', 'napkin', 'napkin', 'napkin', 'napkin', 'napkin']",
+  "prediction": "napkin",
+  "num_images": 2
+}

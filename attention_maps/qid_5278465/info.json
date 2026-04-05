@@ -1,0 +1,7 @@
+{
+  "question_id": 5278465,
+  "question": "Where do these foods grow?",
+  "gt_answers": "['trees', 'trees', 'trees', 'trees', 'trees', 'trees', 'in tree', 'in tree', 'on trees', 'on trees']",
+  "prediction": "trees",
+  "num_images": 2
+}

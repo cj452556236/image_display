@@ -1,0 +1,7 @@
+{
+  "question_id": 1174325,
+  "question": "What body of water is this?",
+  "gt_answers": "['river', 'river', 'river', 'river', 'river', 'river', 'river', 'river', 'sea', 'sea']",
+  "prediction": "River",
+  "num_images": 2
+}

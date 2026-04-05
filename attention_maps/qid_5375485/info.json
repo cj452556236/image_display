@@ -1,0 +1,7 @@
+{
+  "question_id": 5375485,
+  "question": "Why he is having an orange vest?",
+  "gt_answers": "['safety', 'safety', 'safety', 'safety', 'to be visible to others', 'to be visible to others', 'for protection', 'for protection', 'visibility in traffic', 'visibility in traffic']",
+  "prediction": "safety",
+  "num_images": 2
+}

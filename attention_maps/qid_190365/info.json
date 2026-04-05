@@ -1,0 +1,7 @@
+{
+  "question_id": 190365,
+  "question": "Which class are these students most likely attending?",
+  "gt_answers": "['culinary', 'culinary', 'culinary', 'culinary', 'home economics', 'home economics', 'home ec', 'home ec', 'cooking', 'cooking']",
+  "prediction": "cooking",
+  "num_images": 2
+}

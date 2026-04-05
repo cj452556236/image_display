@@ -1,0 +1,7 @@
+{
+  "question_id": 3793325,
+  "question": "What english city is famous for a tournament for the sport this man is playing?",
+  "gt_answers": "['wimbledon', 'wimbledon', 'wimbledon', 'wimbledon', 'london', 'london', 'wimbleton', 'wimbleton', 'tennis', 'tennis']",
+  "prediction": "London",
+  "num_images": 1
+}

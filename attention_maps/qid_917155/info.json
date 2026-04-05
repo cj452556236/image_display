@@ -1,0 +1,7 @@
+{
+  "question_id": 917155,
+  "question": "What name is listed across the top of the can of the red truck?",
+  "gt_answers": "['roy cawood', 'roy cawood', 'roy cawood', 'roy cawood', 'roy cawood', 'roy cawood', 'buy camrup', 'buy camrup', 'eat right', 'eat right']",
+  "prediction": "Roy Cawood",
+  "num_images": 2
+}

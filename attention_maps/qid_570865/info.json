@@ -1,0 +1,7 @@
+{
+  "question_id": 570865,
+  "question": "What year was this sport invented?",
+  "gt_answers": "['1880', '1880', '1880', '1880', '1920', '1920', '1875', '1875', '1839', '1839']",
+  "prediction": "1839",
+  "num_images": 1
+}

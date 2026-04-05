@@ -1,0 +1,7 @@
+{
+  "question_id": 3058005,
+  "question": "What are these people celebrating?",
+  "gt_answers": "['wine tasting', 'wine tasting', 'wine tasting', 'wine tasting', 'wine', 'wine', 'wedding', 'wedding', 'new years', 'new years']",
+  "prediction": "wine",
+  "num_images": 1
+}

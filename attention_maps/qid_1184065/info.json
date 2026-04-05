@@ -1,0 +1,7 @@
+{
+  "question_id": 1184065,
+  "question": "How did this man get in the air?",
+  "gt_answers": "['jumped', 'jumped', 'jumped', 'jumped', 'jumped', 'jumped', 'jumped', 'jumped', 'soccer', 'soccer']",
+  "prediction": "jumped",
+  "num_images": 2
+}

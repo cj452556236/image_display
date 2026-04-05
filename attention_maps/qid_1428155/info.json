@@ -1,0 +1,7 @@
+{
+  "question_id": 1428155,
+  "question": "The man in the orange shirt has a device what is this device used for?",
+  "gt_answers": "['video', 'video', 'video', 'video', 'photography', 'photography', 'filming', 'filming', 'camera', 'camera']",
+  "prediction": "camera",
+  "num_images": 1
+}

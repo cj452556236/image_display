@@ -1,0 +1,7 @@
+{
+  "question_id": 358945,
+  "question": "Is this a legal or illegal fire hydrant color?",
+  "gt_answers": "['legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal']",
+  "prediction": "legal",
+  "num_images": 2
+}

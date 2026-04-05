@@ -1,0 +1,7 @@
+{
+  "question_id": 1267015,
+  "question": "What type of tree is this?",
+  "gt_answers": "['willow', 'willow', 'willow', 'willow', 'willow', 'willow', 'willow', 'willow', 'willow', 'willow']",
+  "prediction": "Willow",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1115485,
+  "question": "What tooth is named after this type of animal?",
+  "gt_answers": "['canine', 'canine', 'canine', 'canine', 'canine', 'canine', 'cainine', 'cainine', 'k9', 'k9']",
+  "prediction": "canine",
+  "num_images": 2
+}

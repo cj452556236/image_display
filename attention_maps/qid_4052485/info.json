@@ -1,0 +1,7 @@
+{
+  "question_id": 4052485,
+  "question": "These plants are called what?",
+  "gt_answers": "['succulents', 'succulents', 'succulents', 'succulents', 'succulents', 'succulents', 'plants', 'plants', 'house plants', 'house plants']",
+  "prediction": "succulents",
+  "num_images": 2
+}

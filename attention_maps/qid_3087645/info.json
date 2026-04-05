@@ -1,0 +1,7 @@
+{
+  "question_id": 3087645,
+  "question": "Is this bird diurnal or nocturnal?",
+  "gt_answers": "['nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal', 'nocturnal']",
+  "prediction": "nocturnal",
+  "num_images": 1
+}

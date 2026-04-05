@@ -1,0 +1,7 @@
+{
+  "question_id": 3774865,
+  "question": "Name the type of hat the man is wearing?",
+  "gt_answers": "['cowboy', 'cowboy', 'cowboy', 'cowboy', 'sombrero', 'sombrero', 'sombrero', 'sombrero', 'stetson', 'stetson']",
+  "prediction": "cowboy",
+  "num_images": 2
+}

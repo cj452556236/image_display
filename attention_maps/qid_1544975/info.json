@@ -1,0 +1,7 @@
+{
+  "question_id": 1544975,
+  "question": "There are two girls in the forefront of this photo the one on the left has no type of pattern on her clothing but what design is on the girls on the right?",
+  "gt_answers": "['floral', 'floral', 'floral', 'floral', 'floral', 'floral', 'floral', 'floral', 'flowers', 'flowers']",
+  "prediction": "floral",
+  "num_images": 1
+}

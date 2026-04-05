@@ -1,0 +1,7 @@
+{
+  "question_id": 5592705,
+  "question": "What type of car is this?",
+  "gt_answers": "['old', 'old', 'old', 'old', 'vintage', 'vintage', 'wood car', 'wood car', 'station wagon', 'station wagon']",
+  "prediction": "station wagon",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4339715,
+  "question": "What city is this?",
+  "gt_answers": "['los angeles', 'los angeles', 'los angeles', 'los angeles', 'los angeles', 'los angeles', 'los angeles', 'los angeles', 'prague', 'prague']",
+  "prediction": "Los Angeles",
+  "num_images": 2
+}

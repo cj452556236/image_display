@@ -1,0 +1,7 @@
+{
+  "question_id": 4347465,
+  "question": "What is the name of the trick being performed?",
+  "gt_answers": "['flip', 'flip', 'flip', 'flip', 'flip kick', 'flip kick', 'ollie', 'ollie', 'skateboard jumping', 'skateboard jumping']",
+  "prediction": "ollie",
+  "num_images": 1
+}

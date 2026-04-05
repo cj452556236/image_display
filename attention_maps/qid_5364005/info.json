@@ -1,0 +1,7 @@
+{
+  "question_id": 5364005,
+  "question": "What kind of dog is in this picture?",
+  "gt_answers": "['rottweiler', 'rottweiler', 'rottweiler', 'rottweiler', 'rottweiler', 'rottweiler', 'st bernard', 'st bernard', 'beagle', 'beagle']",
+  "prediction": "Rottweiler",
+  "num_images": 2
+}

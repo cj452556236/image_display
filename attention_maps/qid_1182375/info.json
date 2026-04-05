@@ -1,0 +1,7 @@
+{
+  "question_id": 1182375,
+  "question": "What is this picture comparing?",
+  "gt_answers": "['living rooms', 'living rooms', 'living rooms', 'living rooms', 'rooms', 'rooms', 'wallpaper', 'wallpaper', 'cats', 'cats']",
+  "prediction": "rooms",
+  "num_images": 2
+}

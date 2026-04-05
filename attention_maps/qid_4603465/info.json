@@ -1,0 +1,7 @@
+{
+  "question_id": 4603465,
+  "question": "What star is in this picture?",
+  "gt_answers": "['sun', 'sun', 'sun', 'sun', 'sun', 'sun', 'sun', 'sun', 'hawke', 'hawke']",
+  "prediction": "sun",
+  "num_images": 1
+}

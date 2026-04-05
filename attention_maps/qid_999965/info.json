@@ -1,0 +1,7 @@
+{
+  "question_id": 999965,
+  "question": "What game is he playing?",
+  "gt_answers": "['fetch', 'fetch', 'fetch', 'fetch', 'fetch', 'fetch', 'fetch', 'fetch', 'fetch', 'fetch']",
+  "prediction": "fetch",
+  "num_images": 1
+}

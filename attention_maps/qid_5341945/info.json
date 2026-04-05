@@ -1,0 +1,7 @@
+{
+  "question_id": 5341945,
+  "question": "What weather phenomenon most likely happened?",
+  "gt_answers": "['flood', 'flood', 'flood', 'flood', 'hurricane', 'hurricane', 'hurricane', 'hurricane', 'rain', 'rain']",
+  "prediction": "rain",
+  "num_images": 2
+}

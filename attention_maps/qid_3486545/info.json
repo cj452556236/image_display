@@ -1,0 +1,7 @@
+{
+  "question_id": 3486545,
+  "question": "What type of technological device is this?",
+  "gt_answers": "['phone', 'phone', 'phone', 'phone', 'smart phone', 'smart phone', 'smartphone', 'smartphone', 'cellphone', 'cellphone']",
+  "prediction": "phone",
+  "num_images": 2
+}

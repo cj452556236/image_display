@@ -1,0 +1,7 @@
+{
+  "question_id": 5101385,
+  "question": "What is he listening to?",
+  "gt_answers": "['music', 'music', 'music', 'music', 'music', 'music', 'music', 'music', 'headphones', 'headphones']",
+  "prediction": "music",
+  "num_images": 1
+}

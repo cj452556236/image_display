@@ -1,0 +1,7 @@
+{
+  "question_id": 218645,
+  "question": "What type of clouds are in the sky?",
+  "gt_answers": "['cirrus', 'cirrus', 'cirrus', 'cirrus', 'stratus', 'stratus', 'puffy', 'puffy', 'cumulus', 'cumulus']",
+  "prediction": "stratus",
+  "num_images": 2
+}

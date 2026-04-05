@@ -1,0 +1,7 @@
+{
+  "question_id": 2020015,
+  "question": "What kind of electronic device is used in this picture?",
+  "gt_answers": "['phone', 'phone', 'phone', 'phone', 'phone', 'phone', 'cell phone', 'cell phone', 'cell phone', 'cell phone']",
+  "prediction": "phone",
+  "num_images": 2
+}

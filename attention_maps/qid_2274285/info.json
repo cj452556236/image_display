@@ -1,0 +1,7 @@
+{
+  "question_id": 2274285,
+  "question": "What is this dog doing?",
+  "gt_answers": "['resting', 'resting', 'resting', 'resting', 'resting in blanket', 'resting in blanket', 'napping', 'napping', 'sleeping', 'sleeping']",
+  "prediction": "sleeping",
+  "num_images": 2
+}

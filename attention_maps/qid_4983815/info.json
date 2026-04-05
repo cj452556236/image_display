@@ -1,0 +1,7 @@
+{
+  "question_id": 4983815,
+  "question": "What food does this animal eat?",
+  "gt_answers": "['seed', 'seed', 'worms', 'worms', 'fish', 'fish', 'seeds', 'seeds', 'leaves', 'leaves']",
+  "prediction": "seeds",
+  "num_images": 1
+}

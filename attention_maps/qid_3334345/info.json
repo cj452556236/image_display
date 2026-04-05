@@ -1,0 +1,7 @@
+{
+  "question_id": 3334345,
+  "question": "What activities could you engage in at this place?",
+  "gt_answers": "['swimming', 'swimming', 'swimming', 'swimming', 'sunbathing', 'sunbathing', 'swim', 'swim', 'swiming', 'swiming']",
+  "prediction": "Swimming",
+  "num_images": 1
+}

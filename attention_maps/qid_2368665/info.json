@@ -1,0 +1,7 @@
+{
+  "question_id": 2368665,
+  "question": "What celestial body affects the behavior of this water?",
+  "gt_answers": "['moon', 'moon', 'moon', 'moon', 'moon', 'moon', 'moon', 'moon', 'ocean', 'ocean']",
+  "prediction": "Moon",
+  "num_images": 2
+}

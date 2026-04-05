@@ -1,0 +1,7 @@
+{
+  "question_id": 4606215,
+  "question": "What causes the staining to occur?",
+  "gt_answers": "['rust', 'rust', 'rust', 'rust', 'soap scum', 'soap scum', 'limescale', 'limescale', 'hard water', 'hard water']",
+  "prediction": "hard water",
+  "num_images": 1
+}

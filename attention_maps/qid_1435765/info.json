@@ -1,0 +1,7 @@
+{
+  "question_id": 1435765,
+  "question": "What does this man have on his head?",
+  "gt_answers": "['bandana', 'bandana', 'bandana', 'bandana', 'bandana', 'bandana', 'bandana', 'bandana', 'bandana', 'bandana']",
+  "prediction": "bandana",
+  "num_images": 2
+}

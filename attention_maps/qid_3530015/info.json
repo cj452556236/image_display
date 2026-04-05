@@ -1,0 +1,7 @@
+{
+  "question_id": 3530015,
+  "question": "What kind of umbrella are those in the background?",
+  "gt_answers": "['parasol', 'parasol', 'parasol', 'parasol', 'parasol', 'parasol', 'parasol', 'parasol', 'pink', 'pink']",
+  "prediction": "parasol",
+  "num_images": 2
+}

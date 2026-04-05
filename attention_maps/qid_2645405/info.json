@@ -1,0 +1,7 @@
+{
+  "question_id": 2645405,
+  "question": "What are the rolled black food items called?",
+  "gt_answers": "['sushi', 'sushi', 'sushi', 'sushi', 'sushi', 'sushi', 'sushi', 'sushi', 'sushi', 'sushi']",
+  "prediction": "sushi",
+  "num_images": 1
+}

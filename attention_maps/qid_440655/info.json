@@ -1,0 +1,7 @@
+{
+  "question_id": 440655,
+  "question": "What are the baskets made of?",
+  "gt_answers": "['wicker', 'wicker', 'wicker', 'wicker', 'wood', 'wood', 'bamboo', 'bamboo', 'reeds', 'reeds']",
+  "prediction": "bamboo",
+  "num_images": 2
+}

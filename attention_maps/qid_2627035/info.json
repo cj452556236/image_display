@@ -1,0 +1,7 @@
+{
+  "question_id": 2627035,
+  "question": "What happened to this person?",
+  "gt_answers": "['fell', 'fell', 'fell', 'fell', 'fell', 'fell', 'crash', 'crash', 'crashed', 'crashed']",
+  "prediction": "fell",
+  "num_images": 2
+}

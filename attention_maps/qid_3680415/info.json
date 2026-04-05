@@ -1,0 +1,7 @@
+{
+  "question_id": 3680415,
+  "question": "What hair style does the child have?",
+  "gt_answers": "['short', 'short', 'short', 'short', 'short', 'short', 'bob', 'bob', 'bob cut', 'bob cut']",
+  "prediction": "short",
+  "num_images": 2
+}

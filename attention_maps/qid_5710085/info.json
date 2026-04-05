@@ -1,0 +1,7 @@
+{
+  "question_id": 5710085,
+  "question": "Who sang the song referenced in the picture?",
+  "gt_answers": "['mc hammer', 'mc hammer', 'mc hammer', 'mc hammer', 'mc hammer', 'mc hammer', 'mc hammer', 'mc hammer', 'm c hammer', 'm c hammer']",
+  "prediction": "MC Hammer",
+  "num_images": 1
+}

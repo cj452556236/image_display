@@ -1,0 +1,7 @@
+{
+  "question_id": 806665,
+  "question": "Where can you buy this pet?",
+  "gt_answers": "['pet store', 'pet store', 'pet store', 'pet store', 'pet store', 'pet store', 'pet store', 'pet store', 'shelter', 'shelter']",
+  "prediction": "pet store",
+  "num_images": 2
+}

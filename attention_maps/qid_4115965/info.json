@@ -1,0 +1,7 @@
+{
+  "question_id": 4115965,
+  "question": "What movie is the popular charecter from?",
+  "gt_answers": "['star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars', 'star wars']",
+  "prediction": "Star Wars",
+  "num_images": 1
+}

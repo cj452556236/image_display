@@ -1,0 +1,7 @@
+{
+  "question_id": 2357845,
+  "question": "What kind of skiing is this person engaged in?",
+  "gt_answers": "['cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country']",
+  "prediction": "cross-country",
+  "num_images": 2
+}

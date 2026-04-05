@@ -1,0 +1,7 @@
+{
+  "question_id": 540915,
+  "question": "Is the person in this picture sad mad or glad?",
+  "gt_answers": "['glad', 'glad', 'glad', 'glad', 'glad', 'glad', 'mad', 'mad', 'sad', 'sad']",
+  "prediction": "glad",
+  "num_images": 2
+}

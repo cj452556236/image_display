@@ -1,0 +1,7 @@
+{
+  "question_id": 2831635,
+  "question": "What type of surface is the plane landing on?",
+  "gt_answers": "['asphalt', 'asphalt', 'asphalt', 'asphalt', 'concrete', 'concrete', 'concrete', 'concrete', 'pavement', 'pavement']",
+  "prediction": "concrete",
+  "num_images": 1
+}

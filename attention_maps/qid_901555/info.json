@@ -1,0 +1,7 @@
+{
+  "question_id": 901555,
+  "question": "What type of place is this train in?",
+  "gt_answers": "['train tracks', 'train tracks', 'train tracks', 'train tracks', 'counryside', 'counryside', 'rural', 'rural', 'countryside', 'countryside']",
+  "prediction": "rural",
+  "num_images": 2
+}

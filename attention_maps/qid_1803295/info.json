@@ -1,0 +1,7 @@
+{
+  "question_id": 1803295,
+  "question": "What new company has created competition for this type of transportation?",
+  "gt_answers": "['uber', 'uber', 'uber', 'uber', 'uber', 'uber', 'uber', 'uber', 'uber', 'uber']",
+  "prediction": "Uber",
+  "num_images": 2
+}

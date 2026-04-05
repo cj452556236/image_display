@@ -1,0 +1,7 @@
+{
+  "question_id": 2010045,
+  "question": "Do you think that it is more likely that this is a court or someone's home?",
+  "gt_answers": "['court', 'court', 'court', 'court', 'court', 'court', 'court', 'court', 'court', 'court']",
+  "prediction": "court",
+  "num_images": 2
+}

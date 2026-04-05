@@ -1,0 +1,7 @@
+{
+  "question_id": 128875,
+  "question": "What liberace used in his career?",
+  "gt_answers": "['piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'piano']",
+  "prediction": "piano",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2117225,
+  "question": "What was used to capture this photo?",
+  "gt_answers": "['camera', 'camera', 'camera', 'camera', 'camera', 'camera', 'camera', 'camera', 'filter', 'filter']",
+  "prediction": "camera",
+  "num_images": 2
+}

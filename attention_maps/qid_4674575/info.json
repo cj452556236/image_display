@@ -1,0 +1,7 @@
+{
+  "question_id": 4674575,
+  "question": "Why is it good to eat oranges often?",
+  "gt_answers": "['vitamins', 'vitamins', 'vitamins', 'vitamins', 'they are high in vitamin c', 'they are high in vitamin c', 'vitamin c', 'vitamin c', \"it's healthy\", \"it's healthy\"]",
+  "prediction": "vitamin C",
+  "num_images": 2
+}

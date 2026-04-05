@@ -1,0 +1,7 @@
+{
+  "question_id": 3187545,
+  "question": "Who was the first company to make this type of glove?",
+  "gt_answers": "['rawlings', 'rawlings', 'rawlings', 'rawlings', 'wilson', 'wilson', 'wilson', 'wilson', 'spalding', 'spalding']",
+  "prediction": "Rawlings",
+  "num_images": 1
+}

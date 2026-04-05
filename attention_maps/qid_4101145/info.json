@@ -1,0 +1,7 @@
+{
+  "question_id": 4101145,
+  "question": "What is the average weight of an adult male of this species?",
+  "gt_answers": "['800 lbs', '800 lbs', '800 lbs', '800 lbs', '500 pounds', '500 pounds', '1000', '1000', '1200 pounds', '1200 pounds']",
+  "prediction": "1000",
+  "num_images": 1
+}

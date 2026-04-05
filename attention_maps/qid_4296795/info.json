@@ -1,0 +1,7 @@
+{
+  "question_id": 4296795,
+  "question": "Name a metal shown?",
+  "gt_answers": "['spoon', 'spoon', 'spoon', 'spoon', 'steel', 'steel', 'silver', 'silver', 'stainless steel', 'stainless steel']",
+  "prediction": "spoon",
+  "num_images": 1
+}

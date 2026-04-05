@@ -1,0 +1,7 @@
+{
+  "question_id": 4566795,
+  "question": "What types of food does this breed of elephant consume?",
+  "gt_answers": "['plants', 'plants', 'plants', 'plants', 'vegetables', 'vegetables', 'grass', 'grass', 'green plants', 'green plants']",
+  "prediction": "grass",
+  "num_images": 1
+}

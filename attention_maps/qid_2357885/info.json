@@ -1,0 +1,7 @@
+{
+  "question_id": 2357885,
+  "question": "What is the brand of this van?",
+  "gt_answers": "['volkswagon', 'volkswagon', 'volkswagon', 'volkswagon', 'vw', 'vw', 'volkswagen', 'volkswagen', 'volkwagan', 'volkwagan']",
+  "prediction": "Volkswagen",
+  "num_images": 1
+}

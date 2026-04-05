@@ -1,0 +1,7 @@
+{
+  "question_id": 1131855,
+  "question": "What does this sign mean?",
+  "gt_answers": "['street', 'street', 'street', 'street', 'street sign', 'street sign', \"it's name of street\", \"it's name of street\", 'subway station', 'subway station']",
+  "prediction": "street",
+  "num_images": 1
+}

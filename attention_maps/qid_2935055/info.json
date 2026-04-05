@@ -1,0 +1,7 @@
+{
+  "question_id": 2935055,
+  "question": "Is this a walkway or motorway?",
+  "gt_answers": "['walkway', 'walkway', 'walkway', 'walkway', 'walkway', 'walkway', 'motorway', 'motorway', 'both', 'both']",
+  "prediction": "walkway",
+  "num_images": 2
+}

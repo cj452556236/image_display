@@ -1,0 +1,7 @@
+{
+  "question_id": 2158125,
+  "question": "What are these used for?",
+  "gt_answers": "['peeing', 'peeing', 'peeing', 'peeing', 'urine', 'urine', 'elimination', 'elimination', 'urination', 'urination']",
+  "prediction": "urination",
+  "num_images": 1
+}

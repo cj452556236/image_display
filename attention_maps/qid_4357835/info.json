@@ -1,0 +1,7 @@
+{
+  "question_id": 4357835,
+  "question": "In an area like this what sort of animals might be seen in the trees?",
+  "gt_answers": "['monkeys', 'monkeys', 'monkeys', 'monkeys', 'birds', 'birds', 'elephants', 'elephants', 'giraffes', 'giraffes']",
+  "prediction": "Monkeys",
+  "num_images": 2
+}

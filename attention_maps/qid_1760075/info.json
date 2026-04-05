@@ -1,0 +1,7 @@
+{
+  "question_id": 1760075,
+  "question": "Before being used what are most cellphone likely connected to by those cords?",
+  "gt_answers": "['charger', 'charger', 'charger', 'charger', 'chargers', 'chargers', 'electrical outlet', 'electrical outlet', 'charging', 'charging']",
+  "prediction": "charger",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4800755,
+  "question": "How would the wheels on this vehicle go?",
+  "gt_answers": "['engine', 'engine', 'engine', 'engine', 'around', 'around', 'round', 'round', 'round and round', 'round and round']",
+  "prediction": "round",
+  "num_images": 2
+}

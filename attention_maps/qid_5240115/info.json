@@ -1,0 +1,7 @@
+{
+  "question_id": 5240115,
+  "question": "What airline are the planes from?",
+  "gt_answers": "['korean air', 'korean air', 'korean air', 'korean air', 'korean air', 'korean air', 'pepsi', 'pepsi', 'southwest', 'southwest']",
+  "prediction": "Korean Air",
+  "num_images": 2
+}

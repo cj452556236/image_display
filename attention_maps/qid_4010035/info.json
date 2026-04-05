@@ -1,0 +1,7 @@
+{
+  "question_id": 4010035,
+  "question": "What kind of vehicle is that and how many terrorist attacks have been performed with it?",
+  "gt_answers": "['airplane 3', 'airplane 3', 'airplane 3', 'airplane 3', 'airplane 33', 'airplane 33', 'plane 3', 'plane 3', 'airplane', 'airplane']",
+  "prediction": "airplane",
+  "num_images": 1
+}

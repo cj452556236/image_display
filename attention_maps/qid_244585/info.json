@@ -1,0 +1,7 @@
+{
+  "question_id": 244585,
+  "question": "What is the brown wooden thing called?",
+  "gt_answers": "['fence', 'fence', 'fence', 'fence', 'fence', 'fence', 'fence', 'fence', 'fence', 'fence']",
+  "prediction": "fence",
+  "num_images": 1
+}

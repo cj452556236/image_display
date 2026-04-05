@@ -1,0 +1,7 @@
+{
+  "question_id": 4665965,
+  "question": "What do you do with this?",
+  "gt_answers": "['eat', 'eat', 'eat', 'eat', 'eat', 'eat', 'eat', 'eat', 'pizza', 'pizza']",
+  "prediction": "eat",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1315815,
+  "question": "What is this man wearing on his head?",
+  "gt_answers": "['cap', 'cap', 'cap', 'cap', 'ballcap', 'ballcap', 'durag', 'durag', 'blue fez', 'blue fez']",
+  "prediction": "cap",
+  "num_images": 2
+}

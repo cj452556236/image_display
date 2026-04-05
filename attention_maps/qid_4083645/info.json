@@ -1,0 +1,7 @@
+{
+  "question_id": 4083645,
+  "question": "What state is this child most likely in?",
+  "gt_answers": "['massachusetts', 'massachusetts', 'massachusetts', 'massachusetts', 'massachusetts', 'massachusetts', 'boston', 'boston', 'united states', 'united states']",
+  "prediction": "Massachusetts",
+  "num_images": 2
+}

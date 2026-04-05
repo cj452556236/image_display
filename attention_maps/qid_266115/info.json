@@ -1,0 +1,7 @@
+{
+  "question_id": 266115,
+  "question": "How are the carrots cook?",
+  "gt_answers": "['boiled', 'boiled', 'boiled', 'boiled', 'boil', 'boil', 'on stove', 'on stove', 'steamed', 'steamed']",
+  "prediction": "boiled",
+  "num_images": 2
+}

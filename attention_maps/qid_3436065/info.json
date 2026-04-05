@@ -1,0 +1,7 @@
+{
+  "question_id": 3436065,
+  "question": "What type of flightless bird is this?",
+  "gt_answers": "['turkey', 'turkey', 'turkey', 'turkey', 'turkey', 'turkey', 'dodo', 'dodo', 'guinea fowl', 'guinea fowl']",
+  "prediction": "guinea fowl",
+  "num_images": 2
+}

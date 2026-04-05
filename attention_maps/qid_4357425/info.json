@@ -1,0 +1,7 @@
+{
+  "question_id": 4357425,
+  "question": "What type of train is that freight or passenger?",
+  "gt_answers": "['freight', 'freight', 'freight', 'freight', 'freight', 'freight', 'freight', 'freight', 'freight', 'freight']",
+  "prediction": "Freight",
+  "num_images": 2
+}

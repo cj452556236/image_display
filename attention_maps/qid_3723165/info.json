@@ -1,0 +1,7 @@
+{
+  "question_id": 3723165,
+  "question": "Approximately what time do you think this photo was taken?",
+  "gt_answers": "['9 pm', '9 pm', '9 pm', '9 pm', '8pm', '8pm', 'night', 'night', '9pm', '9pm']",
+  "prediction": "9 PM",
+  "num_images": 1
+}

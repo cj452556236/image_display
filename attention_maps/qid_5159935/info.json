@@ -1,0 +1,7 @@
+{
+  "question_id": 5159935,
+  "question": "What type of berry is in this cake?",
+  "gt_answers": "['blueberry', 'blueberry', 'blueberry', 'blueberry', 'blueberry', 'blueberry', 'blueberry', 'blueberry', 'blue berry', 'blue berry']",
+  "prediction": "blueberry",
+  "num_images": 2
+}

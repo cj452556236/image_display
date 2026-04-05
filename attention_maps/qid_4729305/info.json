@@ -1,0 +1,7 @@
+{
+  "question_id": 4729305,
+  "question": "What is outside of the window?",
+  "gt_answers": "['bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'trees', 'trees', 'table', 'table']",
+  "prediction": "table",
+  "num_images": 2
+}

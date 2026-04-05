@@ -1,0 +1,7 @@
+{
+  "question_id": 3448885,
+  "question": "What kind of farm is this?",
+  "gt_answers": "['horse farm', 'horse farm', 'horse farm', 'horse farm', 'horse', 'horse', 'horse', 'horse', 'rustic', 'rustic']",
+  "prediction": "horse",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5163415,
+  "question": "What do those stickers do?",
+  "gt_answers": "['advertise brands', 'advertise brands', 'decoration', 'decoration', 'decorate', 'decorate', 'style', 'style', 'show your personality', 'show your personality']",
+  "prediction": "decoration",
+  "num_images": 2
+}

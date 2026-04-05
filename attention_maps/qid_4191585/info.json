@@ -1,0 +1,7 @@
+{
+  "question_id": 4191585,
+  "question": "What type of cellphone are both women using?",
+  "gt_answers": "['flip phone', 'flip phone', 'flip phone', 'flip phone', 'flip phone', 'flip phone', 'flip', 'flip', 'flip', 'flip']",
+  "prediction": "flip",
+  "num_images": 2
+}

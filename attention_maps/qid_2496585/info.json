@@ -1,0 +1,7 @@
+{
+  "question_id": 2496585,
+  "question": "What type of product is being advertised on the bus?",
+  "gt_answers": "['paint', 'paint', 'paint', 'paint', 'water', 'water', 'travel', 'travel', 'soda', 'soda']",
+  "prediction": "paint",
+  "num_images": 2
+}

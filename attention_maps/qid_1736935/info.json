@@ -1,0 +1,7 @@
+{
+  "question_id": 1736935,
+  "question": "What derby is the horse apart of?",
+  "gt_answers": "['kentucky', 'kentucky', 'kentucky', 'kentucky', 'kentucky', 'kentucky', 'kentucky', 'kentucky', 'horse racing', 'horse racing']",
+  "prediction": "Kentucky",
+  "num_images": 2
+}

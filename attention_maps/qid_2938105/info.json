@@ -1,0 +1,7 @@
+{
+  "question_id": 2938105,
+  "question": "Are vegetables and meats more healthy if they are boiled or if they are steamed?",
+  "gt_answers": "['steamed', 'steamed', 'steamed', 'steamed', 'steamed', 'steamed', 'steamed', 'steamed', 'steaming', 'steaming']",
+  "prediction": "steamed",
+  "num_images": 2
+}

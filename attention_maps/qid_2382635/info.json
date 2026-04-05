@@ -1,0 +1,7 @@
+{
+  "question_id": 2382635,
+  "question": "When was this building made?",
+  "gt_answers": "[\"1800's\", \"1800's\", '1842', '1842', '1810', '1810', '1800s', '1800s', '1899', '1899']",
+  "prediction": "1899",
+  "num_images": 2
+}

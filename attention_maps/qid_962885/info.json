@@ -1,0 +1,7 @@
+{
+  "question_id": 962885,
+  "question": "What activity is this?",
+  "gt_answers": "['hiking', 'hiking', 'hiking', 'hiking', 'hiking', 'hiking', 'hiking', 'hiking', 'hiking', 'hiking']",
+  "prediction": "hiking",
+  "num_images": 1
+}

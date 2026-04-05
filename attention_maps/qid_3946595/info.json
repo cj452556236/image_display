@@ -1,0 +1,7 @@
+{
+  "question_id": 3946595,
+  "question": "What is the item with the burners and knobs?",
+  "gt_answers": "['stove', 'stove', 'stove', 'stove', 'stove', 'stove', 'stove', 'stove', 'stove', 'stove']",
+  "prediction": "stove",
+  "num_images": 2
+}

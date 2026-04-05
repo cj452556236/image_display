@@ -1,0 +1,7 @@
+{
+  "question_id": 1799605,
+  "question": "What game is this?",
+  "gt_answers": "['volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball', 'volleyball']",
+  "prediction": "volleyball",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1046695,
+  "question": "What sort of garnish should be added to this dish to make it more appetizing?",
+  "gt_answers": "['parsley', 'parsley', 'parsley', 'parsley', 'parsley', 'parsley', 'parsley', 'parsley', 'red pepper', 'red pepper']",
+  "prediction": "parsley",
+  "num_images": 2
+}

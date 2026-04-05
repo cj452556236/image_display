@@ -1,0 +1,7 @@
+{
+  "question_id": 5393265,
+  "question": "What is the proper name for a child of the species shown?",
+  "gt_answers": "['calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf', 'calf']",
+  "prediction": "calf",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1172375,
+  "question": "Name the bird family to which it belongs to shown in this picture?",
+  "gt_answers": "['finch', 'finch', 'finch', 'finch', 'robin', 'robin', 'goldfinch', 'goldfinch', 'canary', 'canary']",
+  "prediction": "Finch",
+  "num_images": 2
+}

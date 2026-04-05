@@ -1,0 +1,7 @@
+{
+  "question_id": 2380625,
+  "question": "What kind of spread is on the rolls?",
+  "gt_answers": "['butter', 'butter', 'butter', 'butter', 'butter', 'butter', 'cheese', 'cheese', 'tuna', 'tuna']",
+  "prediction": "cheese",
+  "num_images": 1
+}

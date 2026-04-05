@@ -1,0 +1,7 @@
+{
+  "question_id": 697955,
+  "question": "Name the type of wood used to make this window shown in this picture?",
+  "gt_answers": "['cedar', 'cedar', 'cedar', 'cedar', 'plywood', 'plywood', 'pine', 'pine', 'oak', 'oak']",
+  "prediction": "pine",
+  "num_images": 2
+}

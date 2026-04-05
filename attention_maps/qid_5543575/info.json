@@ -1,0 +1,7 @@
+{
+  "question_id": 5543575,
+  "question": "What brand of tennis racket is this person holding?",
+  "gt_answers": "['wilson', 'wilson', 'wilson', 'wilson', 'spanlding', 'spanlding', 'rocket', 'rocket', 'babolat', 'babolat']",
+  "prediction": "Wilson",
+  "num_images": 1
+}

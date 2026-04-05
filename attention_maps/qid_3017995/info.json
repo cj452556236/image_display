@@ -1,0 +1,7 @@
+{
+  "question_id": 3017995,
+  "question": "What are the eating utensils on the left called?",
+  "gt_answers": "['chopsticks', 'chopsticks', 'chopsticks', 'chopsticks', 'chopsticks', 'chopsticks', 'chopsticks', 'chopsticks', 'chop sticks', 'chop sticks']",
+  "prediction": "chopsticks",
+  "num_images": 2
+}

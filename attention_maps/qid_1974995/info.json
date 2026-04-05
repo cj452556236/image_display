@@ -1,0 +1,7 @@
+{
+  "question_id": 1974995,
+  "question": "What year did the company advertising on the side of this bag open for business?",
+  "gt_answers": "['1936', '1936', '1936', '1936', '1970', '1970', '1950', '1950', '1976', '1976']",
+  "prediction": "1950",
+  "num_images": 2
+}

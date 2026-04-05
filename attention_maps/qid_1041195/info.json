@@ -1,0 +1,7 @@
+{
+  "question_id": 1041195,
+  "question": "On what holiday do people traditionally eat this bird?",
+  "gt_answers": "['thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving', 'thanksgiving']",
+  "prediction": "Thanksgiving",
+  "num_images": 2
+}

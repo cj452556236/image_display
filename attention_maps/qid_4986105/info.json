@@ -1,0 +1,7 @@
+{
+  "question_id": 4986105,
+  "question": "Giraffes have spots to provide what kind of defense?",
+  "gt_answers": "['camouflage', 'camouflage', 'camouflage', 'camouflage', 'cammouflage', 'cammouflage', 'camoflauge', 'camoflauge', 'visual', 'visual']",
+  "prediction": "camouflage",
+  "num_images": 2
+}

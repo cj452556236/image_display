@@ -1,0 +1,7 @@
+{
+  "question_id": 5071715,
+  "question": "What is the board made of?",
+  "gt_answers": "['polyurethane', 'polyurethane', 'polyurethane', 'polyurethane', 'styrofoam', 'styrofoam', 'foam', 'foam', 'fiberglass', 'fiberglass']",
+  "prediction": "foam",
+  "num_images": 2
+}

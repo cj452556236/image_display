@@ -1,0 +1,7 @@
+{
+  "question_id": 5724955,
+  "question": "Is this a laptop or desktop?",
+  "gt_answers": "['desktop', 'desktop', 'desktop', 'desktop', 'desktop', 'desktop', 'laptop', 'laptop', 'both', 'both']",
+  "prediction": "desktop",
+  "num_images": 1
+}

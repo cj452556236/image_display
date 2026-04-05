@@ -1,0 +1,7 @@
+{
+  "question_id": 4920515,
+  "question": "What type of wall is in this part of the house?",
+  "gt_answers": "['wallpaper', 'wallpaper', 'wallpaper', 'wallpaper', 'non load bearing', 'non load bearing', 'patterned', 'patterned', 'wall paper', 'wall paper']",
+  "prediction": "Wallpaper",
+  "num_images": 2
+}

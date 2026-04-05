@@ -1,0 +1,7 @@
+{
+  "question_id": 5355195,
+  "question": "When was this type of two wheeled vehicle invented?",
+  "gt_answers": "['1885', '1885', '1885', '1885', \"30's\", \"30's\", '1845', '1845', '1915', '1915']",
+  "prediction": "1885",
+  "num_images": 2
+}

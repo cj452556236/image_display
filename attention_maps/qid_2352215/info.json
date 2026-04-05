@@ -1,0 +1,7 @@
+{
+  "question_id": 2352215,
+  "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+  "gt_answers": "['depression', 'depression', 'depression', 'depression', 'shock', 'shock', 'fright', 'fright', 'fear', 'fear']",
+  "prediction": "fear",
+  "num_images": 2
+}

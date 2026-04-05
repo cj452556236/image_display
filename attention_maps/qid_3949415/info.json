@@ -1,0 +1,7 @@
+{
+  "question_id": 3949415,
+  "question": "Is this man safe or unsafe?",
+  "gt_answers": "['unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'safe', 'safe']",
+  "prediction": "safe",
+  "num_images": 2
+}

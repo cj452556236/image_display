@@ -1,0 +1,7 @@
+{
+  "question_id": 3369375,
+  "question": "What is a company that makes these?",
+  "gt_answers": "['kohler', 'kohler', 'kohler', 'kohler', 'standard', 'standard', 'meissen', 'meissen', 'american standard', 'american standard']",
+  "prediction": "American Standard",
+  "num_images": 1
+}

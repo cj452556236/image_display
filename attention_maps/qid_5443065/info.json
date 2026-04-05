@@ -1,0 +1,7 @@
+{
+  "question_id": 5443065,
+  "question": "What kind of tower is this?",
+  "gt_answers": "['clock tower', 'clock tower', 'clock tower', 'clock tower', 'clock tower', 'clock tower', 'clock towel', 'clock towel', 'clock', 'clock']",
+  "prediction": "clock",
+  "num_images": 2
+}

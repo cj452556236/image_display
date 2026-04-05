@@ -1,0 +1,7 @@
+{
+  "question_id": 5306315,
+  "question": "Is this a garage or factory?",
+  "gt_answers": "['garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage', 'garage']",
+  "prediction": "garage",
+  "num_images": 2
+}

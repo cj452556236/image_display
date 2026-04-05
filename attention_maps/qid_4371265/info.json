@@ -1,0 +1,7 @@
+{
+  "question_id": 4371265,
+  "question": "Name the material used to make this car seat shown in this picture?",
+  "gt_answers": "['cloth', 'cloth', 'cloth', 'cloth', 'nylon', 'nylon', 'polyester', 'polyester', 'leather', 'leather']",
+  "prediction": "leather",
+  "num_images": 1
+}

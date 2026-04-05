@@ -1,0 +1,7 @@
+{
+  "question_id": 1229825,
+  "question": "What does a messy desk like this say about a person?",
+  "gt_answers": "['disorganized', 'disorganized', 'disorganized', 'disorganized', 'unorganized', 'unorganized', 'they are busy', 'they are busy', 'busy', 'busy']",
+  "prediction": "disorganized",
+  "num_images": 2
+}

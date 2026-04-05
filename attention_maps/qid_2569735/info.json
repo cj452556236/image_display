@@ -1,0 +1,7 @@
+{
+  "question_id": 2569735,
+  "question": "What is that book about?",
+  "gt_answers": "['topology', 'topology', 'topology', 'topology', 'topology', 'topology', 'cooking', 'cooking', 'life', 'life']",
+  "prediction": "Topology",
+  "num_images": 2
+}

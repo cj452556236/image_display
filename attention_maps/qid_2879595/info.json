@@ -1,0 +1,7 @@
+{
+  "question_id": 2879595,
+  "question": "What is this sandwich called on the east coast of the us?",
+  "gt_answers": "['sub', 'sub', 'sub', 'sub', 'sub', 'sub', 'hoagie', 'hoagie', 'deli', 'deli']",
+  "prediction": "hoagie",
+  "num_images": 2
+}

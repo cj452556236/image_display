@@ -1,0 +1,7 @@
+{
+  "question_id": 4242085,
+  "question": "What brand is the tv?",
+  "gt_answers": "['toshiba', 'toshiba', 'toshiba', 'toshiba', 'toshiba', 'toshiba', 'sony', 'sony', 'vizio', 'vizio']",
+  "prediction": "Toshiba",
+  "num_images": 2
+}

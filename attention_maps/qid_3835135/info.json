@@ -1,0 +1,7 @@
+{
+  "question_id": 3835135,
+  "question": "What type of clouds are these?",
+  "gt_answers": "['nimbus', 'nimbus', 'nimbus', 'nimbus', 'rain', 'rain', 'cumulus', 'cumulus', 'cumulous', 'cumulous']",
+  "prediction": "cumulus",
+  "num_images": 2
+}

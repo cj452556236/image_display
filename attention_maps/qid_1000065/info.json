@@ -1,0 +1,7 @@
+{
+  "question_id": 1000065,
+  "question": "What is the purpose of the logos on this truck?",
+  "gt_answers": "['identification', 'identification', 'identification', 'identification', 'advertising', 'advertising', 'advertising', 'advertising', 'sponsorship', 'sponsorship']",
+  "prediction": "sponsorship",
+  "num_images": 1
+}

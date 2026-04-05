@@ -1,0 +1,7 @@
+{
+  "question_id": 1201295,
+  "question": "What kind of cat is this?",
+  "gt_answers": "['maine coon', 'maine coon', 'maine coon', 'maine coon', 'tabby', 'tabby', 'long hair', 'long hair', 'domestic', 'domestic']",
+  "prediction": "Maine Coon",
+  "num_images": 2
+}

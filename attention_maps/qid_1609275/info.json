@@ -1,0 +1,7 @@
+{
+  "question_id": 1609275,
+  "question": "What type of ship is this?",
+  "gt_answers": "['cruise', 'cruise', 'cruise', 'cruise', 'cruise', 'cruise', 'cruse linner', 'cruse linner', 'cruise ship', 'cruise ship']",
+  "prediction": "cruise",
+  "num_images": 2
+}

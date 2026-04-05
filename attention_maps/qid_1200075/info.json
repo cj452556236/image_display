@@ -1,0 +1,7 @@
+{
+  "question_id": 1200075,
+  "question": "What breed of cow is this?",
+  "gt_answers": "['jersey', 'jersey', 'jersey', 'jersey', 'bovine', 'bovine', 'holstein', 'holstein', 'heritage', 'heritage']",
+  "prediction": "Holstein",
+  "num_images": 1
+}

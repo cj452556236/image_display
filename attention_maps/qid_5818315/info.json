@@ -1,0 +1,7 @@
+{
+  "question_id": 5818315,
+  "question": "What year was the first game of this sport played?",
+  "gt_answers": "['1863', '1863', '1863', '1863', '1863', '1863', '1800 1950', '1800 1950', '1945', '1945']",
+  "prediction": "1863",
+  "num_images": 1
+}

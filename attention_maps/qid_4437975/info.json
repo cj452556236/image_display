@@ -1,0 +1,7 @@
+{
+  "question_id": 4437975,
+  "question": "What size bed is in this room?",
+  "gt_answers": "['twin', 'twin', 'twin', 'twin', 'twin', 'twin', 'single', 'single', '8x12', '8x12']",
+  "prediction": "single",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 310495,
+  "question": "What breed of dog is shown in the picture?",
+  "gt_answers": "['labrador', 'labrador', 'labrador', 'labrador', 'labrador', 'labrador', 'golden retriever', 'golden retriever', 'golden retriever', 'golden retriever']",
+  "prediction": "Golden Retriever",
+  "num_images": 2
+}

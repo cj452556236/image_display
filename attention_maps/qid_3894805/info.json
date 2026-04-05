@@ -1,0 +1,7 @@
+{
+  "question_id": 3894805,
+  "question": "Where is the evidence of an ax or hatchet?",
+  "gt_answers": "['log', 'log', 'log', 'log', 'wood logs', 'wood logs', 'smooth cut', 'smooth cut', 'log used for splitting', 'log used for splitting']",
+  "prediction": "log",
+  "num_images": 2
+}

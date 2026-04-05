@@ -1,0 +1,7 @@
+{
+  "question_id": 5787105,
+  "question": "Which holiday would the teddy bear be sold at malls?",
+  "gt_answers": "[\"valentine's day\", \"valentine's day\", \"valentine's day\", \"valentine's day\", 'valentines day', 'valentines day', 'christmas', 'christmas', 'valentines', 'valentines']",
+  "prediction": "Christmas",
+  "num_images": 2
+}

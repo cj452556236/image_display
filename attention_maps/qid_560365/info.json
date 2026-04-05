@@ -1,0 +1,7 @@
+{
+  "question_id": 560365,
+  "question": "What activity can be done using the items below the clock?",
+  "gt_answers": "['reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'read', 'read']",
+  "prediction": "Reading",
+  "num_images": 2
+}

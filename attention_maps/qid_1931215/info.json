@@ -1,0 +1,7 @@
+{
+  "question_id": 1931215,
+  "question": "How many of these animals remain in the wild?",
+  "gt_answers": "['thousands', 'thousands', 'thousands', 'thousands', '300', '300', '10000', '10000', 'many', 'many']",
+  "prediction": "many",
+  "num_images": 1
+}

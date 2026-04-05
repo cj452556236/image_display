@@ -1,0 +1,7 @@
+{
+  "question_id": 4167655,
+  "question": "What month is this?",
+  "gt_answers": "['march', 'march', 'march', 'march', 'november', 'november', 'october', 'october', 'january', 'january']",
+  "prediction": "January",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3325125,
+  "question": "Which item in this room is usually to wash hands?",
+  "gt_answers": "['sink', 'sink', 'sink', 'sink', 'sink', 'sink', 'sink', 'sink', 'sink', 'sink']",
+  "prediction": "sink",
+  "num_images": 2
+}

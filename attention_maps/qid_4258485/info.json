@@ -1,0 +1,7 @@
+{
+  "question_id": 4258485,
+  "question": "What is brown on the plate?",
+  "gt_answers": "['steak', 'steak', 'steak', 'steak', 'meat', 'meat', 'meat', 'meat', 'potatoes', 'potatoes']",
+  "prediction": "steak",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5096415,
+  "question": "What would happen if these items fall to the ground?",
+  "gt_answers": "['shatter', 'shatter', 'shatter', 'shatter', 'they would shatter', 'they would shatter', 'break', 'break', 'they would break', 'they would break']",
+  "prediction": "break",
+  "num_images": 1
+}

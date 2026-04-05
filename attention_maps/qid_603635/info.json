@@ -1,0 +1,7 @@
+{
+  "question_id": 603635,
+  "question": "What is the purpose of the white circle?",
+  "gt_answers": "['time telling', 'time telling', 'time telling', 'time telling', 'clock tells time', 'clock tells time', 'tell time', 'tell time', 'clock', 'clock']",
+  "prediction": "clock",
+  "num_images": 1
+}

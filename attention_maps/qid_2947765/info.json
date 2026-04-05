@@ -1,0 +1,7 @@
+{
+  "question_id": 2947765,
+  "question": "What is this woman playing with?",
+  "gt_answers": "['sprinkler', 'sprinkler', 'sprinkler', 'sprinkler', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'ultimate frisbee', 'ultimate frisbee']",
+  "prediction": "frisbee",
+  "num_images": 2
+}

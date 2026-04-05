@@ -1,0 +1,7 @@
+{
+  "question_id": 4675805,
+  "question": "What ocean has the best surfing waves?",
+  "gt_answers": "['pacific', 'pacific', 'pacific', 'pacific', 'pacific', 'pacific', 'pacific', 'pacific', 'pacific', 'pacific']",
+  "prediction": "Pacific",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3329405,
+  "question": "What is this toy made of?",
+  "gt_answers": "['cardboard', 'cardboard', 'cardboard', 'cardboard', 'cardboard', 'cardboard', 'cardboard', 'cardboard', 'wooden', 'wooden']",
+  "prediction": "cardboard",
+  "num_images": 2
+}

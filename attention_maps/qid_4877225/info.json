@@ -1,0 +1,7 @@
+{
+  "question_id": 4877225,
+  "question": "What are all the things sitting in front of the red truck?",
+  "gt_answers": "['luggage', 'luggage', 'luggage', 'luggage', 'garbage bags', 'garbage bags', 'bags', 'bags', 'garbage', 'garbage']",
+  "prediction": "luggage",
+  "num_images": 2
+}

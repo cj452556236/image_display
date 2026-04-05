@@ -1,0 +1,7 @@
+{
+  "question_id": 1763285,
+  "question": "What items are filling the shelves in the far left of this photo?",
+  "gt_answers": "['books', 'books', 'books', 'books', 'books', 'books', 'books', 'books', 'books', 'books']",
+  "prediction": "books",
+  "num_images": 2
+}

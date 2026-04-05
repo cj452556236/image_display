@@ -1,0 +1,7 @@
+{
+  "question_id": 243965,
+  "question": "Who is the motorcycle manufacture?",
+  "gt_answers": "['kawasaki', 'kawasaki', 'kawasaki', 'kawasaki', 'harley', 'harley', 'triumph', 'triumph', 'trump', 'trump']",
+  "prediction": "Triumph",
+  "num_images": 2
+}

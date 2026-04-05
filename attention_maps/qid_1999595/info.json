@@ -1,0 +1,7 @@
+{
+  "question_id": 1999595,
+  "question": "What type of train is this?",
+  "gt_answers": "['commuter', 'commuter', 'commuter', 'commuter', 'commuter', 'commuter', 'commuter train', 'commuter train', 'passenger', 'passenger']",
+  "prediction": "Commuter",
+  "num_images": 2
+}

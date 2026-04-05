@@ -1,0 +1,7 @@
+{
+  "question_id": 1859435,
+  "question": "What pollutants do these vehicles emit?",
+  "gt_answers": "['carbon monoxide', 'carbon monoxide', 'carbon monoxide', 'carbon monoxide', 'co2', 'co2', 'co2', 'co2', 'carbon dioxide', 'carbon dioxide']",
+  "prediction": "CO2",
+  "num_images": 2
+}

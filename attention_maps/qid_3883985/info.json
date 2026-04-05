@@ -1,0 +1,7 @@
+{
+  "question_id": 3883985,
+  "question": "Would this article of furniture typically be for public or private use?",
+  "gt_answers": "['public', 'public', 'public', 'public', 'public', 'public', 'public', 'public', 'public', 'public']",
+  "prediction": "public",
+  "num_images": 1
+}

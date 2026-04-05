@@ -1,0 +1,7 @@
+{
+  "question_id": 79895,
+  "question": "What is the device called up that is suspended on the cables shown?",
+  "gt_answers": "['lift', 'lift', 'lift', 'lift', 'chair cart', 'chair cart', 'funicular', 'funicular', 'ski lift', 'ski lift']",
+  "prediction": "ski lift",
+  "num_images": 2
+}

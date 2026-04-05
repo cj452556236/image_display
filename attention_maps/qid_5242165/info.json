@@ -1,0 +1,7 @@
+{
+  "question_id": 5242165,
+  "question": "What gas station is pictured?",
+  "gt_answers": "['shell', 'shell', 'shell', 'shell', 'shell', 'shell', 'shell', 'shell', 'shell', 'shell']",
+  "prediction": "Shell",
+  "num_images": 2
+}

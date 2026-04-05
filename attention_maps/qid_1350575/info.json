@@ -1,0 +1,7 @@
+{
+  "question_id": 1350575,
+  "question": "Which uniformed person drive these vehicles?",
+  "gt_answers": "['soldier', 'soldier', 'soldier', 'soldier', 'military', 'military', 'military', 'military', 'army personel', 'army personel']",
+  "prediction": "soldier",
+  "num_images": 2
+}

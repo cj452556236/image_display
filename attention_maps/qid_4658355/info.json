@@ -1,0 +1,7 @@
+{
+  "question_id": 4658355,
+  "question": "What animal is half patterned like those pictured and half patterned like a donkey?",
+  "gt_answers": "['mule', 'mule', 'mule', 'mule', 'burro', 'burro', 'zonkey', 'zonkey', 'okapi', 'okapi']",
+  "prediction": "mule",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 272215,
+  "question": "Based on her expression is the woman receving good or bad cell reception?",
+  "gt_answers": "['bad', 'bad', 'bad', 'bad', 'bad', 'bad', 'bad', 'bad', 'good reception', 'good reception']",
+  "prediction": "bad",
+  "num_images": 2
+}

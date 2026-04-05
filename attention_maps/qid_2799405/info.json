@@ -1,0 +1,7 @@
+{
+  "question_id": 2799405,
+  "question": "What type of skateboard trick can be performed on that black structure?",
+  "gt_answers": "['grind', 'grind', 'grind', 'grind', 'grind', 'grind', 'rail slide', 'rail slide', 'coasting', 'coasting']",
+  "prediction": "grind",
+  "num_images": 2
+}

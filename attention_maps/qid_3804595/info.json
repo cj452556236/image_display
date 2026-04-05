@@ -1,0 +1,7 @@
+{
+  "question_id": 3804595,
+  "question": "What flavor is this pastry?",
+  "gt_answers": "['blueberry', 'blueberry', 'blueberry', 'blueberry', 'cream cheese', 'cream cheese', 'chocolate', 'chocolate', 'strawberry', 'strawberry']",
+  "prediction": "cream cheese",
+  "num_images": 2
+}

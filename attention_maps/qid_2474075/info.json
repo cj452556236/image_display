@@ -1,0 +1,7 @@
+{
+  "question_id": 2474075,
+  "question": "What age group does the human facing the camera fall into?",
+  "gt_answers": "['toddler', 'toddler', 'toddler', 'toddler', 'toddler', 'toddler', '2 3', '2 3', 'todler', 'todler']",
+  "prediction": "toddler",
+  "num_images": 2
+}

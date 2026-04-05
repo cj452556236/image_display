@@ -1,0 +1,7 @@
+{
+  "question_id": 361965,
+  "question": "Who might fly this jet?",
+  "gt_answers": "['pilot', 'pilot', 'pilot', 'pilot', 'air force pilot', 'air force pilot', 'any pilot', 'any pilot', 'fighter pilot', 'fighter pilot']",
+  "prediction": "pilot",
+  "num_images": 2
+}

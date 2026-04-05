@@ -1,0 +1,7 @@
+{
+  "question_id": 425,
+  "question": "This holder is also called a shoe what?",
+  "gt_answers": "['rack', 'rack', 'rack', 'rack', 'rack', 'rack', 'rack', 'rack', 'shelf', 'shelf']",
+  "prediction": "rack",
+  "num_images": 2
+}

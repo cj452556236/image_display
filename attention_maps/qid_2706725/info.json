@@ -1,0 +1,7 @@
+{
+  "question_id": 2706725,
+  "question": "What type of event are these people attending?",
+  "gt_answers": "['festival', 'festival', 'festival', 'festival', 'food', 'food', 'food fesrival', 'food fesrival', 'fair', 'fair']",
+  "prediction": "Festival",
+  "num_images": 1
+}

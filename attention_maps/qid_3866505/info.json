@@ -1,0 +1,7 @@
+{
+  "question_id": 3866505,
+  "question": "Is it a table or a bench?",
+  "gt_answers": "['bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench']",
+  "prediction": "bench",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2853255,
+  "question": "What is this piece of outside furniture called?",
+  "gt_answers": "['bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench', 'bench']",
+  "prediction": "bench",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1440035,
+  "question": "The red items on the pastry are a specific ingredient for what type of cake?",
+  "gt_answers": "['strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'shortcake', 'shortcake', 'strawberries', 'strawberries']",
+  "prediction": "strawberry",
+  "num_images": 2
+}

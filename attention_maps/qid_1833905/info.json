@@ -1,0 +1,7 @@
+{
+  "question_id": 1833905,
+  "question": "What gender is this animal?",
+  "gt_answers": "['female', 'female', 'female', 'female', 'female', 'female', 'male', 'male', 'male', 'male']",
+  "prediction": "female",
+  "num_images": 2
+}

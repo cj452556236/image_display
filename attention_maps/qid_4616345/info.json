@@ -1,0 +1,7 @@
+{
+  "question_id": 4616345,
+  "question": "Is this a healthy or unhealthy meal?",
+  "gt_answers": "['healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy']",
+  "prediction": "Healthy",
+  "num_images": 2
+}

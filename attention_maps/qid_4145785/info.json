@@ -1,0 +1,7 @@
+{
+  "question_id": 4145785,
+  "question": "Why is the man asleep on the bench?",
+  "gt_answers": "['homeless', 'homeless', 'homeless', 'homeless', 'homeless', 'homeless', 'tired', 'tired', 'tired', 'tired']",
+  "prediction": "tired",
+  "num_images": 2
+}

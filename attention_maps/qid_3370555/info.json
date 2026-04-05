@@ -1,0 +1,7 @@
+{
+  "question_id": 3370555,
+  "question": "What is the colorful design refered to on this womans leg?",
+  "gt_answers": "['tattoo', 'tattoo', 'tattoo', 'tattoo', 'tattoo', 'tattoo', 'alice in wonderland', 'alice in wonderland', 'tatoo', 'tatoo']",
+  "prediction": "tattoo",
+  "num_images": 2
+}

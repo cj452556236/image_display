@@ -1,0 +1,7 @@
+{
+  "question_id": 3709805,
+  "question": "What animal is printed on this baby's clothes in this picture?",
+  "gt_answers": "['turtle', 'turtle', 'turtle', 'turtle', 'turtle', 'turtle', 'turtle', 'turtle', 'turtle', 'turtle']",
+  "prediction": "turtle",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4193715,
+  "question": "What plant is near the zebra?",
+  "gt_answers": "['tree', 'tree', 'tree', 'tree', 'leaf', 'leaf', 'weeds', 'weeds', 'trees', 'trees']",
+  "prediction": "tree",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 804555,
+  "question": "Who built this snowman?",
+  "gt_answers": "['child', 'child', 'child', 'child', 'kids', 'kids', 'family', 'family', 'human', 'human']",
+  "prediction": "Child",
+  "num_images": 2
+}

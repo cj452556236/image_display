@@ -1,0 +1,7 @@
+{
+  "question_id": 535505,
+  "question": "Would this child be more likely to enjoy a picture book or one with only words?",
+  "gt_answers": "['picture', 'picture', 'picture', 'picture', 'picture', 'picture', 'picture book', 'picture book', 'good book', 'good book']",
+  "prediction": "picture book",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4601295,
+  "question": "What profession is the man in the picture?",
+  "gt_answers": "['rancher', 'rancher', 'rancher', 'rancher', 'cowboy', 'cowboy', 'farmer', 'farmer', 'cattleman', 'cattleman']",
+  "prediction": "cowboy",
+  "num_images": 1
+}

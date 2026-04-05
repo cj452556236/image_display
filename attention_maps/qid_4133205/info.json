@@ -1,0 +1,7 @@
+{
+  "question_id": 4133205,
+  "question": "What animal is this boat mimicing?",
+  "gt_answers": "['duck', 'duck', 'duck', 'duck', 'duck', 'duck', 'goose', 'goose', 'swan', 'swan']",
+  "prediction": "duck",
+  "num_images": 2
+}

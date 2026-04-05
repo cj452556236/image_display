@@ -1,0 +1,7 @@
+{
+  "question_id": 3312425,
+  "question": "What treat is the vender selling?",
+  "gt_answers": "['cotton candy', 'cotton candy', 'cotton candy', 'cotton candy', 'ice cream', 'ice cream', 'coffee', 'coffee', 'towels', 'towels']",
+  "prediction": "cotton candy",
+  "num_images": 1
+}

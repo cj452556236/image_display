@@ -1,0 +1,7 @@
+{
+  "question_id": 2575575,
+  "question": "In what sort of building would this vehicle be found?",
+  "gt_answers": "['warehouse', 'warehouse', 'warehouse', 'warehouse', 'warehouse', 'warehouse', 'warehouse', 'warehouse', 'factory', 'factory']",
+  "prediction": "warehouse",
+  "num_images": 1
+}

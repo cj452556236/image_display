@@ -1,0 +1,7 @@
+{
+  "question_id": 2739095,
+  "question": "What are the shoes called on these players?",
+  "gt_answers": "['cleats', 'cleats', 'cleats', 'cleats', 'cleats', 'cleats', 'cletes', 'cletes', 'kleets', 'kleets']",
+  "prediction": "cleats",
+  "num_images": 1
+}

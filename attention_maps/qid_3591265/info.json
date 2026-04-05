@@ -1,0 +1,7 @@
+{
+  "question_id": 3591265,
+  "question": "This man is speaking into a?",
+  "gt_answers": "['microphone', 'microphone', 'microphone', 'microphone', 'microphone', 'microphone', 'room full of democrats', 'room full of democrats', 'g20summit', 'g20summit']",
+  "prediction": "microphone",
+  "num_images": 2
+}

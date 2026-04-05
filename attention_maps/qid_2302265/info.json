@@ -1,0 +1,7 @@
+{
+  "question_id": 2302265,
+  "question": "Is this creme an acid or base?",
+  "gt_answers": "['base', 'base', 'base', 'base', 'base', 'base', 'base', 'base', 'base', 'base']",
+  "prediction": "base",
+  "num_images": 2
+}

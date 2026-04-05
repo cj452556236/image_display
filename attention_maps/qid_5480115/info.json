@@ -1,0 +1,7 @@
+{
+  "question_id": 5480115,
+  "question": "What devastating phenomenon could be triggered by noise and and activities of persons engaged in this activity?",
+  "gt_answers": "['avalanche', 'avalanche', 'avalanche', 'avalanche', 'avalanche', 'avalanche', 'avalanche', 'avalanche', 'avalance', 'avalance']",
+  "prediction": "avalanche",
+  "num_images": 2
+}

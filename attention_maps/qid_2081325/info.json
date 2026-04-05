@@ -1,0 +1,7 @@
+{
+  "question_id": 2081325,
+  "question": "What is the red condiment made of?",
+  "gt_answers": "['tomatos', 'tomatos', 'tomatos', 'tomatos', 'tomatoes', 'tomatoes', 'tomatoes', 'tomatoes', 'tomato', 'tomato']",
+  "prediction": "tomatoes",
+  "num_images": 2
+}

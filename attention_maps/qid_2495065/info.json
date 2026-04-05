@@ -1,0 +1,7 @@
+{
+  "question_id": 2495065,
+  "question": "What type of furniture are the computers sitting on?",
+  "gt_answers": "['desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'chairs', 'chairs']",
+  "prediction": "desk",
+  "num_images": 1
+}

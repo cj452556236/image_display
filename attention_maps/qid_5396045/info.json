@@ -1,0 +1,7 @@
+{
+  "question_id": 5396045,
+  "question": "Can you name the place where this bird is seen?",
+  "gt_answers": "['river', 'river', 'river', 'river', 'lake', 'lake', 'lake', 'lake', 'pond', 'pond']",
+  "prediction": "lake",
+  "num_images": 2
+}

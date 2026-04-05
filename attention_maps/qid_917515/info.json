@@ -1,0 +1,7 @@
+{
+  "question_id": 917515,
+  "question": "What is the player most likely kicking the ball towards?",
+  "gt_answers": "['goal', 'goal', 'goal', 'goal', 'goal', 'goal', 'goal', 'goal', 'soccer player', 'soccer player']",
+  "prediction": "goal",
+  "num_images": 2
+}

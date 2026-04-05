@@ -1,0 +1,7 @@
+{
+  "question_id": 5723315,
+  "question": "What is this wallcovering called?",
+  "gt_answers": "['wallpaper', 'wallpaper', 'wallpaper', 'wallpaper', 'wallpaper', 'wallpaper', 'walpaper', 'walpaper', 'tapestry', 'tapestry']",
+  "prediction": "Wallpaper",
+  "num_images": 1
+}

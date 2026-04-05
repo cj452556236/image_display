@@ -1,0 +1,7 @@
+{
+  "question_id": 2928195,
+  "question": "The wire filaments inside the rubber wheel are called what?",
+  "gt_answers": "['spokes', 'spokes', 'spokes', 'spokes', 'spokes', 'spokes', 'spokes', 'spokes', 'spokes', 'spokes']",
+  "prediction": "spokes",
+  "num_images": 1
+}

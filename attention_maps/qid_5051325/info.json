@@ -1,0 +1,7 @@
+{
+  "question_id": 5051325,
+  "question": "If this chair where outside it might be made from what reed like material?",
+  "gt_answers": "['rattan', 'rattan', 'rattan', 'rattan', 'nylon', 'nylon', 'wicker', 'wicker', 'canvas', 'canvas']",
+  "prediction": "wicker",
+  "num_images": 2
+}

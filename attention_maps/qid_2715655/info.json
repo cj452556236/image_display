@@ -1,0 +1,7 @@
+{
+  "question_id": 2715655,
+  "question": "What is the model of the motorcycle in the front of the motorcycle pack?",
+  "gt_answers": "['harley davidson', 'harley davidson', 'harley davidson', 'harley davidson', 'harley davidson', 'harley davidson', 'harley', 'harley', 'suzuki', 'suzuki']",
+  "prediction": "Harley-Davidson",
+  "num_images": 1
+}

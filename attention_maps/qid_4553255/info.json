@@ -1,0 +1,7 @@
+{
+  "question_id": 4553255,
+  "question": "Are you going to worship or eat dinner in this building?",
+  "gt_answers": "['worship', 'worship', 'worship', 'worship', 'worship', 'worship', 'worship', 'worship', 'worship', 'worship']",
+  "prediction": "worship",
+  "num_images": 1
+}

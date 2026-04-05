@@ -1,0 +1,7 @@
+{
+  "question_id": 4123495,
+  "question": "Who wrote the famous novels about the young wizard named on this bus?",
+  "gt_answers": "['jk rowling', 'jk rowling', 'jk rowling', 'jk rowling', 'rowling', 'rowling', 'rowling', 'rowling', 'jp rowling', 'jp rowling']",
+  "prediction": "J.K. Rowling",
+  "num_images": 1
+}

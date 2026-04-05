@@ -1,0 +1,7 @@
+{
+  "question_id": 3712565,
+  "question": "What kind of bird is this?",
+  "gt_answers": "['parrot', 'parrot', 'parrot', 'parrot', 'parrot', 'parrot', 'parrot', 'parrot', 'parrot', 'parrot']",
+  "prediction": "Parrot",
+  "num_images": 2
+}

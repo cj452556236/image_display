@@ -1,0 +1,7 @@
+{
+  "question_id": 3174105,
+  "question": "What brand of vehicle is that?",
+  "gt_answers": "['lincoln', 'lincoln', 'lincoln', 'lincoln', 'lincoln', 'lincoln', 'cadillac', 'cadillac', 'ford', 'ford']",
+  "prediction": "Lincoln",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5461715,
+  "question": "Why would animals do this?",
+  "gt_answers": "['mating', 'mating', 'procreate', 'procreate', 'reproduce', 'reproduce', 'play', 'play', 'mate', 'mate']",
+  "prediction": "play",
+  "num_images": 1
+}

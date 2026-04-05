@@ -1,0 +1,7 @@
+{
+  "question_id": 2349285,
+  "question": "What language is represented on the side of the train in this picture?",
+  "gt_answers": "['german', 'german', 'german', 'german', 'chinese', 'chinese', 'english', 'english', 'french', 'french']",
+  "prediction": "German",
+  "num_images": 2
+}

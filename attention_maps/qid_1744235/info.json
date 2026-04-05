@@ -1,0 +1,7 @@
+{
+  "question_id": 1744235,
+  "question": "What is a group of these called?",
+  "gt_answers": "['flock', 'flock', 'flock', 'flock', 'flock', 'flock', 'birds', 'birds', 'murder', 'murder']",
+  "prediction": "flock",
+  "num_images": 1
+}

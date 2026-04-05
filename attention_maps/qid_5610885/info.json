@@ -1,0 +1,7 @@
+{
+  "question_id": 5610885,
+  "question": "What type of picture is this person taking?",
+  "gt_answers": "['selfie', 'selfie', 'selfie', 'selfie', 'selfie', 'selfie', 'selfie', 'selfie', 'selfie', 'selfie']",
+  "prediction": "Selfie",
+  "num_images": 1
+}

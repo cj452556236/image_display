@@ -1,0 +1,7 @@
+{
+  "question_id": 1241355,
+  "question": "Which part of the body might be particularly benefited by the use of this beverage?",
+  "gt_answers": "['eyes', 'eyes', 'eyes', 'eyes', 'eyes', 'eyes', 'eyes', 'eyes', 'brain', 'brain']",
+  "prediction": "eyes",
+  "num_images": 2
+}

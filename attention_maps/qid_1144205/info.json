@@ -1,0 +1,7 @@
+{
+  "question_id": 1144205,
+  "question": "Is the bird in the picture a carnivore or herbivore?",
+  "gt_answers": "['herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore', 'herbivore']",
+  "prediction": "herbivore",
+  "num_images": 1
+}

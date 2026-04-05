@@ -1,0 +1,7 @@
+{
+  "question_id": 2521795,
+  "question": "How does the lady can eat the cake?",
+  "gt_answers": "['with fork', 'with fork', 'with fork', 'with fork', 'with fork', 'with fork', 'fork', 'fork', 'utinsils01', 'utinsils01']",
+  "prediction": "fork",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4593965,
+  "question": "What products do we get from cows?",
+  "gt_answers": "['dairy', 'dairy', 'dairy', 'dairy', 'milk', 'milk', 'milk', 'milk', 'meat leather milk', 'meat leather milk']",
+  "prediction": "milk",
+  "num_images": 2
+}

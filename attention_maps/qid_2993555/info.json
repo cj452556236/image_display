@@ -1,0 +1,7 @@
+{
+  "question_id": 2993555,
+  "question": "What low calorie way of cooking the green vegetables involves heating them over hot water?",
+  "gt_answers": "['steaming', 'steaming', 'steaming', 'steaming', 'steaming', 'steaming', 'steaming', 'steaming', 'boilin', 'boilin']",
+  "prediction": "Steaming",
+  "num_images": 2
+}

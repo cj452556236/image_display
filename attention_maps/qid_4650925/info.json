@@ -1,0 +1,7 @@
+{
+  "question_id": 4650925,
+  "question": "What tools are needed to build this type of seating?",
+  "gt_answers": "['saw', 'saw', 'saw screwdriver', 'saw screwdriver', 'saw and hammer', 'saw and hammer', 'hammer saw', 'hammer saw', 'saws', 'saws']",
+  "prediction": "saw",
+  "num_images": 1
+}

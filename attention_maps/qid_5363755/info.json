@@ -1,0 +1,7 @@
+{
+  "question_id": 5363755,
+  "question": "In what section of the store are these fruit typically kept?",
+  "gt_answers": "['produce', 'produce', 'produce', 'produce', 'produce', 'produce', 'produce', 'produce', 'produce', 'produce']",
+  "prediction": "produce",
+  "num_images": 2
+}

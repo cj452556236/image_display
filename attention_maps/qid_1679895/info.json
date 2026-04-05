@@ -1,0 +1,7 @@
+{
+  "question_id": 1679895,
+  "question": "What type of cheese is being spread?",
+  "gt_answers": "['mozerella', 'mozerella', 'mozerella', 'mozerella', 'cheddar', 'cheddar', 'mozzerella', 'mozzerella', 'mozzarella', 'mozzarella']",
+  "prediction": "mozzarella",
+  "num_images": 2
+}

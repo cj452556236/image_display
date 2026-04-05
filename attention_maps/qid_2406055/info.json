@@ -1,0 +1,7 @@
+{
+  "question_id": 2406055,
+  "question": "What might be the weight of this luggage?",
+  "gt_answers": "['30.7 lbs', '30.7 lbs', '30.7 lbs', '30.7 lbs', '10 pounds', '10 pounds', '30.7', '30.7', '30.7lbs', '30.7lbs']",
+  "prediction": "30.7",
+  "num_images": 2
+}

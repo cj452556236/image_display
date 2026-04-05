@@ -1,0 +1,7 @@
+{
+  "question_id": 4462075,
+  "question": "What big box store is known for selling both of these items?",
+  "gt_answers": "['best buy', 'best buy', 'best buy', 'best buy', 'best buy', 'best buy', 'best buy', 'best buy', 'target', 'target']",
+  "prediction": "Best Buy",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 96285,
+  "question": "What water sport is shown here?",
+  "gt_answers": "['wakeboarding', 'wakeboarding', 'wakeboarding', 'wakeboarding', 'skiing', 'skiing', 'water skiing', 'water skiing', 'zip lining', 'zip lining']",
+  "prediction": "wakeboarding",
+  "num_images": 2
+}

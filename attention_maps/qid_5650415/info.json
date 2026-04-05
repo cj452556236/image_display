@@ -1,0 +1,7 @@
+{
+  "question_id": 5650415,
+  "question": "Based on the refraction in the image explain if this man is far sighted or near sighted?",
+  "gt_answers": "['near sighted', 'near sighted', 'near sighted', 'near sighted', 'far sighted', 'far sighted', 'far sighted', 'far sighted', 'far', 'far']",
+  "prediction": "nearsighted",
+  "num_images": 1
+}

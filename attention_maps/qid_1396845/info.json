@@ -1,0 +1,7 @@
+{
+  "question_id": 1396845,
+  "question": "What is the decorative fabric on the floor called?",
+  "gt_answers": "['rug', 'rug', 'rug', 'rug', 'rug', 'rug', 'rug', 'rug', 'carpet', 'carpet']",
+  "prediction": "rug",
+  "num_images": 2
+}

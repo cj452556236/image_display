@@ -1,0 +1,7 @@
+{
+  "question_id": 3953795,
+  "question": "How are you able to turn on the equipment that is located at the top of the image?",
+  "gt_answers": "['knob', 'knob', 'knob', 'knob', 'push buttons', 'push buttons', 'button', 'button', 'switch', 'switch']",
+  "prediction": "button",
+  "num_images": 2
+}

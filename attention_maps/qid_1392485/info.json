@@ -1,0 +1,7 @@
+{
+  "question_id": 1392485,
+  "question": "What kind of activity is this person engaged in?",
+  "gt_answers": "['talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'communicating', 'communicating', 'talking', 'talking', 'listening', 'listening']",
+  "prediction": "talking",
+  "num_images": 1
+}

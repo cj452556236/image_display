@@ -1,0 +1,7 @@
+{
+  "question_id": 3932885,
+  "question": "What is this building made of?",
+  "gt_answers": "['church', 'church', 'brick stone', 'brick stone', 'bricks', 'bricks', 'brick', 'brick', 'red brick', 'red brick']",
+  "prediction": "brick",
+  "num_images": 2
+}

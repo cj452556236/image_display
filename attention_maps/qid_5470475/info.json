@@ -1,0 +1,7 @@
+{
+  "question_id": 5470475,
+  "question": "What time of day is it?",
+  "gt_answers": "['dusk', 'dusk', 'dusk', 'dusk', 'afternoon', 'afternoon', 'evening', 'evening', 'morning', 'morning']",
+  "prediction": "afternoon",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3309325,
+  "question": "How many players form a team in this sport?",
+  "gt_answers": "['11', '11', '11', '11', 'eleven', 'eleven', '12', '12', '11 players', '11 players']",
+  "prediction": "11",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 351605,
+  "question": "What kind of trees are in the background?",
+  "gt_answers": "['palm trees', 'palm trees', 'palm trees', 'palm trees', 'palm trees', 'palm trees', 'palm', 'palm', 'palm', 'palm']",
+  "prediction": "palm",
+  "num_images": 2
+}

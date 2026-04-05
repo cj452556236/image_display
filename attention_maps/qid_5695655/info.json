@@ -1,0 +1,7 @@
+{
+  "question_id": 5695655,
+  "question": "What type of fuel does this vehicle use?",
+  "gt_answers": "['diesel', 'diesel', 'diesel', 'diesel', 'deasil', 'deasil', 'desiel', 'desiel', 'gasoline', 'gasoline']",
+  "prediction": "diesel",
+  "num_images": 2
+}

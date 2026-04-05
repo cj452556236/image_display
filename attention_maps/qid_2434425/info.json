@@ -1,0 +1,7 @@
+{
+  "question_id": 2434425,
+  "question": "What type of company is represented here?",
+  "gt_answers": "['catering', 'catering', 'catering', 'catering', 'catering', 'catering', 'catering', 'catering', 'wedding', 'wedding']",
+  "prediction": "catering",
+  "num_images": 1
+}

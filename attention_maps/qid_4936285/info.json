@@ -1,0 +1,7 @@
+{
+  "question_id": 4936285,
+  "question": "What is this persons gender?",
+  "gt_answers": "['female', 'female', 'female', 'female', 'female', 'female', 'female', 'female', 'female', 'female']",
+  "prediction": "female",
+  "num_images": 1
+}

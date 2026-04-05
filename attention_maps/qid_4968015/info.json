@@ -1,0 +1,7 @@
+{
+  "question_id": 4968015,
+  "question": "What can i make with this?",
+  "gt_answers": "['smoothie', 'smoothie', 'smoothie', 'smoothie', 'breakfast', 'breakfast', 'smootie', 'smootie', 'smoothies', 'smoothies']",
+  "prediction": "smoothie",
+  "num_images": 1
+}

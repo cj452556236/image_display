@@ -1,0 +1,7 @@
+{
+  "question_id": 3438525,
+  "question": "What kind of hat is the man wearing?",
+  "gt_answers": "['fedora', 'fedora', 'fedora', 'fedora', 'fedora', 'fedora', 'fedora', 'fedora', 'brim hat', 'brim hat']",
+  "prediction": "fedora",
+  "num_images": 2
+}

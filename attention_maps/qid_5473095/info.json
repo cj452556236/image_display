@@ -1,0 +1,7 @@
+{
+  "question_id": 5473095,
+  "question": "What is the semi hawling?",
+  "gt_answers": "['shed', 'shed', 'shed', 'shed', 'goods', 'goods', 'house', 'house', 'trailer', 'trailer']",
+  "prediction": "trailer",
+  "num_images": 2
+}

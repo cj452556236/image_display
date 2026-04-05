@@ -1,0 +1,7 @@
+{
+  "question_id": 1311525,
+  "question": "What animal do these sportsmen often get attacked by?",
+  "gt_answers": "['sharks', 'sharks', 'sharks', 'sharks', 'sharks', 'sharks', 'shark', 'shark', 'shark', 'shark']",
+  "prediction": "shark",
+  "num_images": 2
+}

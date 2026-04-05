@@ -1,0 +1,7 @@
+{
+  "question_id": 2518015,
+  "question": "What ingrediants are in this food?",
+  "gt_answers": "['sugar', 'sugar', 'sugar', 'sugar', 'flour sugar milk eggs baking soda baking powder', 'flour sugar milk eggs baking soda baking powder', 'flour eggs sugar', 'flour eggs sugar', 'flour sugar water', 'flour sugar water']",
+  "prediction": "sugar",
+  "num_images": 1
+}

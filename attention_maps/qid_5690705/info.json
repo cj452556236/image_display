@@ -1,0 +1,7 @@
+{
+  "question_id": 5690705,
+  "question": "What is the scientific name of the animal seen here?",
+  "gt_answers": "['equus quagga', 'equus quagga', 'equus quagga', 'equus quagga', 'zebras maximas', 'zebras maximas', 'equus', 'equus', 'zebra', 'zebra']",
+  "prediction": "Equus",
+  "num_images": 2
+}

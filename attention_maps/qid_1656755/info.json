@@ -1,0 +1,7 @@
+{
+  "question_id": 1656755,
+  "question": "At which holiday would you traditionally eat this food?",
+  "gt_answers": "['easter', 'easter', 'easter', 'easter', 'easter', 'easter', 'christmas', 'christmas', 'christmas', 'christmas']",
+  "prediction": "Christmas",
+  "num_images": 1
+}

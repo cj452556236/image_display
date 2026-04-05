@@ -1,0 +1,7 @@
+{
+  "question_id": 1110325,
+  "question": "What brand is this wine?",
+  "gt_answers": "['becker vineyards', 'becker vineyards', 'becker vineyards', 'becker vineyards', 'becker vineyard', 'becker vineyard', 'becker vineyard', 'becker vineyard', 'becker', 'becker']",
+  "prediction": "Becker",
+  "num_images": 2
+}

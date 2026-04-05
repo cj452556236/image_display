@@ -1,0 +1,7 @@
+{
+  "question_id": 4812125,
+  "question": "What season is it outside?",
+  "gt_answers": "['autumn', 'autumn', 'autumn', 'autumn', 'spring', 'spring', 'spring', 'spring', 'fall', 'fall']",
+  "prediction": "Autumn",
+  "num_images": 1
+}

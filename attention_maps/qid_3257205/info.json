@@ -1,0 +1,7 @@
+{
+  "question_id": 3257205,
+  "question": "How many wheels does this vehicle usually have?",
+  "gt_answers": "['8', '8', '8', '8', '8', '8', '18', '18', '4', '4']",
+  "prediction": "18",
+  "num_images": 2
+}

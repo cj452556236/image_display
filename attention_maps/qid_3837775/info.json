@@ -1,0 +1,7 @@
+{
+  "question_id": 3837775,
+  "question": "What forms of transportation are there?",
+  "gt_answers": "['biking', 'biking', 'bicycle and car', 'bicycle and car', 'bicycles cars', 'bicycles cars', 'bikes', 'bikes', 'bicycle', 'bicycle']",
+  "prediction": "bicycle",
+  "num_images": 2
+}

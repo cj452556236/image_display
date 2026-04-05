@@ -1,0 +1,7 @@
+{
+  "question_id": 5700015,
+  "question": "How many people fit in this type of vehicle?",
+  "gt_answers": "['250', '250', '250', '250', '200', '200', '200', '200', '231', '231']",
+  "prediction": "200",
+  "num_images": 2
+}

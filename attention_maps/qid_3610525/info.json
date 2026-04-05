@@ -1,0 +1,7 @@
+{
+  "question_id": 3610525,
+  "question": "The animal in this image is said to be man's best what?",
+  "gt_answers": "['friend', 'friend', 'friend', 'friend', 'friend', 'friend', 'best friend', 'best friend', 'dog', 'dog']",
+  "prediction": "friend",
+  "num_images": 1
+}

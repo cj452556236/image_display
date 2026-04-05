@@ -1,0 +1,7 @@
+{
+  "question_id": 4642635,
+  "question": "What object is synonymous with a rodent in this image?",
+  "gt_answers": "['mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse']",
+  "prediction": "mouse",
+  "num_images": 1
+}

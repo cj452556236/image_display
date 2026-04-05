@@ -1,0 +1,7 @@
+{
+  "question_id": 758865,
+  "question": "On what continent does the animal that is depicted live?",
+  "gt_answers": "['antarctica', 'antarctica', 'antarctica', 'antarctica', 'antarctica', 'antarctica', 'antarctica', 'antarctica', 'anartica', 'anartica']",
+  "prediction": "Antarctica",
+  "num_images": 2
+}

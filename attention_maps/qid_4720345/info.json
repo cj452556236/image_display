@@ -1,0 +1,7 @@
+{
+  "question_id": 4720345,
+  "question": "How well done is this steak cooked?",
+  "gt_answers": "['medium rare', 'medium rare', 'medium rare', 'medium rare', 'well', 'well', 'well done', 'well done', 'medium well', 'medium well']",
+  "prediction": "medium-rare",
+  "num_images": 2
+}

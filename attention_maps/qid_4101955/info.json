@@ -1,0 +1,7 @@
+{
+  "question_id": 4101955,
+  "question": "What material is the wet suit made from?",
+  "gt_answers": "['neoprene', 'neoprene', 'neoprene', 'neoprene', 'rubber', 'rubber', 'rubber', 'rubber', 'spandex', 'spandex']",
+  "prediction": "neoprene",
+  "num_images": 1
+}

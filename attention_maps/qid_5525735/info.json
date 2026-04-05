@@ -1,0 +1,7 @@
+{
+  "question_id": 5525735,
+  "question": "What knocked the guy off his chair?",
+  "gt_answers": "['wave', 'wave', 'wave', 'wave', 'wave', 'wave', 'water', 'water', 'water', 'water']",
+  "prediction": "water",
+  "num_images": 1
+}

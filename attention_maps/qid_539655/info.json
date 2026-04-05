@@ -1,0 +1,7 @@
+{
+  "question_id": 539655,
+  "question": "What is in every drawer?",
+  "gt_answers": "['clothes', 'clothes', 'clothes', 'clothes', 'clothes', 'clothes', 'nothing', 'nothing', 'nothing', 'nothing']",
+  "prediction": "clothes",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2319425,
+  "question": "Are these common zebras or south african zebras?",
+  "gt_answers": "['south african', 'south african', 'south african', 'south african', 'common', 'common', 'common', 'common', 'common zebra', 'common zebra']",
+  "prediction": "South African",
+  "num_images": 1
+}

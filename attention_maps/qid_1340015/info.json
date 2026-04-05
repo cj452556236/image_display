@@ -1,0 +1,7 @@
+{
+  "question_id": 1340015,
+  "question": "What service does this store sell?",
+  "gt_answers": "['clothing', 'clothing', 'clothing', 'clothing', 'clothes', 'clothes', 'clothes', 'clothes', 'hard to see', 'hard to see']",
+  "prediction": "clothing",
+  "num_images": 2
+}

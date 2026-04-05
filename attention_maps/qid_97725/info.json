@@ -1,0 +1,7 @@
+{
+  "question_id": 97725,
+  "question": "What's the smaller towel used for?",
+  "gt_answers": "['drying hands', 'drying hands', 'hand', 'hand', 'dry hands', 'dry hands', 'hand drying', 'hand drying', 'hands', 'hands']",
+  "prediction": "hand",
+  "num_images": 2
+}

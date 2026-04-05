@@ -1,0 +1,7 @@
+{
+  "question_id": 4530015,
+  "question": "What might be a common item to pack in this wheeled object?",
+  "gt_answers": "['clothes', 'clothes', 'clothes', 'clothes', 'clothes', 'clothes', 'clothing', 'clothing', 'clothing', 'clothing']",
+  "prediction": "clothes",
+  "num_images": 1
+}

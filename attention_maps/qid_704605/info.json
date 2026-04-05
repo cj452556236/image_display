@@ -1,0 +1,7 @@
+{
+  "question_id": 704605,
+  "question": "What tool is usedd for this type of art?",
+  "gt_answers": "['spray paint', 'spray paint', 'spray paint', 'spray paint', 'spray paint', 'spray paint', 'spary paint can', 'spary paint can', 'spray can', 'spray can']",
+  "prediction": "spray paint",
+  "num_images": 1
+}

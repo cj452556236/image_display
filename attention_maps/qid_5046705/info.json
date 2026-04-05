@@ -1,0 +1,7 @@
+{
+  "question_id": 5046705,
+  "question": "What is the brand name of the monitor?",
+  "gt_answers": "['lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'rca', 'rca']",
+  "prediction": "LG",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2840285,
+  "question": "What past time activity could be supported by the items stacked on the side table?",
+  "gt_answers": "['reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'reading', 'erading', 'erading']",
+  "prediction": "Reading",
+  "num_images": 1
+}

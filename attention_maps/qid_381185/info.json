@@ -1,0 +1,7 @@
+{
+  "question_id": 381185,
+  "question": "What is the name of the hand held equipment being used?",
+  "gt_answers": "['ski pole', 'ski pole', 'canes', 'canes', 'rod', 'rod', 'ski poles', 'ski poles', 'poles', 'poles']",
+  "prediction": "ski poles",
+  "num_images": 1
+}

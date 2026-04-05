@@ -1,0 +1,7 @@
+{
+  "question_id": 1209775,
+  "question": "What type of architecture is shown in these buildings?",
+  "gt_answers": "['gothic', 'gothic', 'gothic', 'gothic', 'towers', 'towers', 'baroque', 'baroque', 'domes', 'domes']",
+  "prediction": "Baroque",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5244595,
+  "question": "What kind of beverage is the poster on the left referring to?",
+  "gt_answers": "['guinness', 'guinness', 'guinness', 'guinness', 'beer', 'beer', 'beer', 'beer', 'soda', 'soda']",
+  "prediction": "beer",
+  "num_images": 2
+}

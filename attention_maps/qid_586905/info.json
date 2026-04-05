@@ -1,0 +1,7 @@
+{
+  "question_id": 586905,
+  "question": "What type of music is this child playing?",
+  "gt_answers": "['piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'classical', 'classical', 'clasical', 'clasical']",
+  "prediction": "Classical",
+  "num_images": 2
+}

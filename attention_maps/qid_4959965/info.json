@@ -1,0 +1,7 @@
+{
+  "question_id": 4959965,
+  "question": "What retractable appendage could this animal use to destroy the chair?",
+  "gt_answers": "['claws', 'claws', 'claws', 'claws', 'claw', 'claw', 'claw', 'claw', 'box cutter', 'box cutter']",
+  "prediction": "claws",
+  "num_images": 2
+}

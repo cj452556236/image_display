@@ -1,0 +1,7 @@
+{
+  "question_id": 5011165,
+  "question": "What color do these lights turn?",
+  "gt_answers": "['red green yellow', 'red green yellow', 'red green yellow', 'red green yellow', 'red yellow and green', 'red yellow and green', 'red yellow green', 'red yellow green', 'red', 'red']",
+  "prediction": "red",
+  "num_images": 2
+}

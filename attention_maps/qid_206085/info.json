@@ -1,0 +1,7 @@
+{
+  "question_id": 206085,
+  "question": "How can be wool of sheep be used?",
+  "gt_answers": "['carded', 'carded', 'sweater', 'sweater', 'clothing', 'clothing', 'clothes', 'clothes', 'knitting', 'knitting']",
+  "prediction": "clothing",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3186715,
+  "question": "What brand uses these animals as advertising?",
+  "gt_answers": "['budweiser', 'budweiser', 'budweiser', 'budweiser', 'budweiser', 'budweiser', 'budweiser', 'budweiser', 'budwiser', 'budwiser']",
+  "prediction": "Budweiser",
+  "num_images": 1
+}

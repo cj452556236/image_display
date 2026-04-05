@@ -1,0 +1,7 @@
+{
+  "question_id": 246105,
+  "question": "What type of person would live in this environment?",
+  "gt_answers": "['college student', 'college student', 'college student', 'college student', 'student', 'student', 'student', 'student', 'single', 'single']",
+  "prediction": "student",
+  "num_images": 2
+}

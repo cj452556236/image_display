@@ -1,0 +1,7 @@
+{
+  "question_id": 2281225,
+  "question": "What does the second light mean?",
+  "gt_answers": "['caution', 'caution', 'caution', 'caution', 'yield', 'yield', 'slow', 'slow', 'slow down', 'slow down']",
+  "prediction": "caution",
+  "num_images": 1
+}

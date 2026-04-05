@@ -1,0 +1,7 @@
+{
+  "question_id": 858145,
+  "question": "What is the pattern of that wallpaper called?",
+  "gt_answers": "['floral', 'floral', 'floral', 'floral', 'paisley', 'paisley', 'flowers', 'flowers', 'windowpanes', 'windowpanes']",
+  "prediction": "floral",
+  "num_images": 2
+}

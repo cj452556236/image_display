@@ -1,0 +1,7 @@
+{
+  "question_id": 5451555,
+  "question": "What does this child sit on to ride this animal?",
+  "gt_answers": "['saddle', 'saddle', 'saddle', 'saddle', 'saddle', 'saddle', 'saddle', 'saddle', 'saddle', 'saddle']",
+  "prediction": "saddle",
+  "num_images": 2
+}

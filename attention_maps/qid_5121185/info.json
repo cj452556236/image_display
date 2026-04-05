@@ -1,0 +1,7 @@
+{
+  "question_id": 5121185,
+  "question": "What does the body language of these two dogs show?",
+  "gt_answers": "['playful', 'playful', 'playful', 'playful', 'possessive', 'possessive', 'playfulness', 'playfulness', 'happiness', 'happiness']",
+  "prediction": "playfulness",
+  "num_images": 2
+}

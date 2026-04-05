@@ -1,0 +1,7 @@
+{
+  "question_id": 2145195,
+  "question": "Who would use these?",
+  "gt_answers": "['men', 'men', 'men', 'men', 'men', 'men', 'man', 'man', 'man', 'man']",
+  "prediction": "Men",
+  "num_images": 1
+}

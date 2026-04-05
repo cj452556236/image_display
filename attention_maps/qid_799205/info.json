@@ -1,0 +1,7 @@
+{
+  "question_id": 799205,
+  "question": "Can you guess the model of tv shown in this picture?",
+  "gt_answers": "['samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'lg', 'lg']",
+  "prediction": "Samsung",
+  "num_images": 2
+}

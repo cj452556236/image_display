@@ -1,0 +1,7 @@
+{
+  "question_id": 2365425,
+  "question": "What is the name of this dish?",
+  "gt_answers": "['pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes', 'pancakes']",
+  "prediction": "Pancakes",
+  "num_images": 2
+}

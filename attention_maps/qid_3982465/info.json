@@ -1,0 +1,7 @@
+{
+  "question_id": 3982465,
+  "question": "What is this walkway used for?",
+  "gt_answers": "['pedestrians', 'pedestrians', 'pedestrians', 'pedestrians', 'crossing street', 'crossing street', 'crossing', 'crossing', 'crossing road', 'crossing road']",
+  "prediction": "crossing",
+  "num_images": 2
+}

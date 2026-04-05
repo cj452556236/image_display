@@ -1,0 +1,7 @@
+{
+  "question_id": 3920485,
+  "question": "What day of the week is it?",
+  "gt_answers": "['sunday', 'sunday', 'sunday', 'sunday', 'sunday', 'sunday', 'sunday', 'sunday', 'sunday', 'sunday']",
+  "prediction": "Sunday",
+  "num_images": 1
+}

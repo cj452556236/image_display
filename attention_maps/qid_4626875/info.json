@@ -1,0 +1,7 @@
+{
+  "question_id": 4626875,
+  "question": "How many chromosomes do these creatures have?",
+  "gt_answers": "['46', '46', '46', '46', '46', '46', '46', '46', '32', '32']",
+  "prediction": "46",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1496415,
+  "question": "What vegetables are on this plate?",
+  "gt_answers": "['carrot avocado cabbage', 'carrot avocado cabbage', 'carrots cabbage', 'carrots cabbage', 'carrots radish', 'carrots radish', 'carrots', 'carrots', 'carrot cabbage', 'carrot cabbage']",
+  "prediction": "carrots",
+  "num_images": 2
+}

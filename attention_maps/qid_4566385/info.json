@@ -1,0 +1,7 @@
+{
+  "question_id": 4566385,
+  "question": "What kind of hairstyle does this woman have that was popular in the 1920s?",
+  "gt_answers": "['bob', 'bob', 'bob', 'bob', 'bob', 'bob', 'bob', 'bob', 'pageboy', 'pageboy']",
+  "prediction": "bob",
+  "num_images": 2
+}

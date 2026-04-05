@@ -1,0 +1,7 @@
+{
+  "question_id": 5715855,
+  "question": "What is this machine used for?",
+  "gt_answers": "['keeping food cold', 'keeping food cold', 'keeping food cold', 'keeping food cold', 'refrigeration', 'refrigeration', 'refrigeration', 'refrigeration', 'food fresh', 'food fresh']",
+  "prediction": "Refrigeration",
+  "num_images": 1
+}

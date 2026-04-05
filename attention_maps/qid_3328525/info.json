@@ -1,0 +1,7 @@
+{
+  "question_id": 3328525,
+  "question": "What kind of hat is the person in orange shorts wearing?",
+  "gt_answers": "['visor', 'visor', 'visor', 'visor', 'visor', 'visor', 'visor', 'visor', 'baseball cap', 'baseball cap']",
+  "prediction": "visor",
+  "num_images": 1
+}

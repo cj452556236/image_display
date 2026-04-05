@@ -1,0 +1,7 @@
+{
+  "question_id": 4179465,
+  "question": "How do we know this is not a horse?",
+  "gt_answers": "['stripes', 'stripes', 'stripes', 'stripes', 'it hs stripes', 'it hs stripes', 'black and white vertical stripes', 'black and white vertical stripes', 'genes', 'genes']",
+  "prediction": "stripes",
+  "num_images": 1
+}

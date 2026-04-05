@@ -1,0 +1,7 @@
+{
+  "question_id": 5668245,
+  "question": "What branch of the army is depicted here?",
+  "gt_answers": "['air force', 'air force', 'air force', 'air force', 'airforce', 'airforce', 'airforce', 'airforce', 'pilot', 'pilot']",
+  "prediction": "Air Force",
+  "num_images": 1
+}

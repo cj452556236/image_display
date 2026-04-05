@@ -1,0 +1,7 @@
+{
+  "question_id": 894595,
+  "question": "What did people put on this sign?",
+  "gt_answers": "['stickers', 'stickers', 'stickers', 'stickers', 'stickers', 'stickers', 'stickers', 'stickers', 'stickers', 'stickers']",
+  "prediction": "stickers",
+  "num_images": 1
+}

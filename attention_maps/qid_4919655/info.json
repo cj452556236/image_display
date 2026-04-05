@@ -1,0 +1,7 @@
+{
+  "question_id": 4919655,
+  "question": "Name the place where the bus is shown in this picture?",
+  "gt_answers": "['arizona', 'arizona', 'arizona', 'arizona', 'arizona', 'arizona', 'desert', 'desert', 'las vegas', 'las vegas']",
+  "prediction": "desert",
+  "num_images": 2
+}

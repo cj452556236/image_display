@@ -1,0 +1,7 @@
+{
+  "question_id": 4952885,
+  "question": "What do you call the pattern on this tie?",
+  "gt_answers": "['plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid']",
+  "prediction": "Plaid",
+  "num_images": 2
+}

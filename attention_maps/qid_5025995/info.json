@@ -1,0 +1,7 @@
+{
+  "question_id": 5025995,
+  "question": "Where are these planes?",
+  "gt_answers": "['museum', 'museum', 'museum', 'museum', 'airport', 'airport', 'in sky', 'in sky', 'jets', 'jets']",
+  "prediction": "museum",
+  "num_images": 2
+}

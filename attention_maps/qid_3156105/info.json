@@ -1,0 +1,7 @@
+{
+  "question_id": 3156105,
+  "question": "What amusement ride is pictured?",
+  "gt_answers": "['ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel']",
+  "prediction": "Ferris wheel",
+  "num_images": 2
+}

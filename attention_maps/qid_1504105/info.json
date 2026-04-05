@@ -1,0 +1,7 @@
+{
+  "question_id": 1504105,
+  "question": "What kind of fuel does this toy use?",
+  "gt_answers": "['gasoline', 'gasoline', 'gasoline', 'gasoline', 'batteries', 'batteries', 'gas', 'gas', 'energy', 'energy']",
+  "prediction": "gasoline",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3568785,
+  "question": "Is this meeting taking place during the day or night?",
+  "gt_answers": "['day', 'day', 'day', 'day', 'day', 'day', 'day', 'day', 'night', 'night']",
+  "prediction": "day",
+  "num_images": 1
+}

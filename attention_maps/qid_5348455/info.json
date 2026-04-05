@@ -1,0 +1,7 @@
+{
+  "question_id": 5348455,
+  "question": "What kind of home is this?",
+  "gt_answers": "['apartment', 'apartment', 'apartment', 'apartment', 'apartment', 'apartment', 'apartment', 'apartment', 'modern', 'modern']",
+  "prediction": "apartment",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4483205,
+  "question": "What kind of sink is on the wall?",
+  "gt_answers": "['bowl', 'bowl', 'bowl', 'bowl', 'bowl', 'bowl', 'bowl', 'bowl', 'basin', 'basin']",
+  "prediction": "bowl",
+  "num_images": 2
+}

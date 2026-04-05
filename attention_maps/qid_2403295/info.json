@@ -1,0 +1,7 @@
+{
+  "question_id": 2403295,
+  "question": "What part of water body could this be?",
+  "gt_answers": "['bay', 'bay', 'bay', 'bay', 'ocean', 'ocean', 'ocean', 'ocean', 'lake', 'lake']",
+  "prediction": "lake",
+  "num_images": 2
+}

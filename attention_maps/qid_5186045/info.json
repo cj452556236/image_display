@@ -1,0 +1,7 @@
+{
+  "question_id": 5186045,
+  "question": "Is it daytime or nighttime?",
+  "gt_answers": "['daytime', 'daytime', 'daytime', 'daytime', 'daytime', 'daytime', 'day', 'day', 'day', 'day']",
+  "prediction": "Daytime",
+  "num_images": 1
+}

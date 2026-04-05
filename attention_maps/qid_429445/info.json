@@ -1,0 +1,7 @@
+{
+  "question_id": 429445,
+  "question": "What is the suit the woman was wearing made of?",
+  "gt_answers": "['neoprene', 'neoprene', 'neoprene', 'neoprene', 'wet suit', 'wet suit', 'rubber', 'rubber', 'wetsuit', 'wetsuit']",
+  "prediction": "neoprene",
+  "num_images": 1
+}

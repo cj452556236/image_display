@@ -1,0 +1,7 @@
+{
+  "question_id": 5778475,
+  "question": "What is this pizza cheese made from?",
+  "gt_answers": "[\"cow's milk\", \"cow's milk\", 'milk mozzarella', 'milk mozzarella', 'cows milk', 'cows milk', 'milk', 'milk', 'mozzarella', 'mozzarella']",
+  "prediction": "milk",
+  "num_images": 2
+}

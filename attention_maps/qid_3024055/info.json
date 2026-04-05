@@ -1,0 +1,7 @@
+{
+  "question_id": 3024055,
+  "question": "What equipment are they using to ski?",
+  "gt_answers": "['snow boards', 'snow boards', 'snow boards', 'snow boards', 'snowboards', 'snowboards', 'slolomn', 'slolomn', 'snowboard', 'snowboard']",
+  "prediction": "snowboards",
+  "num_images": 2
+}

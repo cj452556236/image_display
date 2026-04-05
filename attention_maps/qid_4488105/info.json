@@ -1,0 +1,7 @@
+{
+  "question_id": 4488105,
+  "question": "What kind of sign is this?",
+  "gt_answers": "['street sign', 'street sign', 'street sign', 'street sign', 'street', 'street', 'street', 'street', 'road', 'road']",
+  "prediction": "street",
+  "num_images": 1
+}

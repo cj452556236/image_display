@@ -1,0 +1,7 @@
+{
+  "question_id": 3084665,
+  "question": "What is the rod on the wall used for?",
+  "gt_answers": "['shower curtain', 'shower curtain', 'shower curtain', 'shower curtain', 'shower curtain', 'shower curtain', 'curtain', 'curtain', 'curtain', 'curtain']",
+  "prediction": "shower curtain",
+  "num_images": 2
+}

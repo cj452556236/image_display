@@ -1,0 +1,7 @@
+{
+  "question_id": 1675445,
+  "question": "What is the blue thing doing?",
+  "gt_answers": "['flying', 'flying', 'flying', 'flying', 'flying', 'flying', 'flying', 'flying', 'flying through air', 'flying through air']",
+  "prediction": "flying",
+  "num_images": 1
+}

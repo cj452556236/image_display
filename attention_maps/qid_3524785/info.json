@@ -1,0 +1,7 @@
+{
+  "question_id": 3524785,
+  "question": "These are something who don't eat without a fight?",
+  "gt_answers": "['kids', 'kids', 'kids', 'kids', 'broccoli', 'broccoli', 'vegetable', 'vegetable', 'popeye', 'popeye']",
+  "prediction": "broccoli",
+  "num_images": 1
+}

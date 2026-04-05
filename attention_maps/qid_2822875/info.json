@@ -1,0 +1,7 @@
+{
+  "question_id": 2822875,
+  "question": "How many hours does this animal sleep?",
+  "gt_answers": "['12', '12', '12', '12', '12', '12', '14', '14', '6', '6']",
+  "prediction": "12",
+  "num_images": 1
+}

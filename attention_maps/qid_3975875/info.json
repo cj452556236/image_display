@@ -1,0 +1,7 @@
+{
+  "question_id": 3975875,
+  "question": "What material is the jacket made from?",
+  "gt_answers": "['denim', 'denim', 'denim', 'denim', 'denim', 'denim', 'jean', 'jean', 'leather', 'leather']",
+  "prediction": "Denim",
+  "num_images": 2
+}

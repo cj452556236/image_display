@@ -1,0 +1,7 @@
+{
+  "question_id": 5770775,
+  "question": "What sort of animal is represented by the toy figure in this photo?",
+  "gt_answers": "['bear', 'bear', 'bear', 'bear', 'bear', 'bear', 'bear', 'bear', 'bear', 'bear']",
+  "prediction": "bear",
+  "num_images": 1
+}

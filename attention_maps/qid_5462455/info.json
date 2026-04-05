@@ -1,0 +1,7 @@
+{
+  "question_id": 5462455,
+  "question": "What are the flowers in?",
+  "gt_answers": "['vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase', 'vase']",
+  "prediction": "vase",
+  "num_images": 2
+}

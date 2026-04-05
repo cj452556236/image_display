@@ -1,0 +1,7 @@
+{
+  "question_id": 2652005,
+  "question": "What is on the table?",
+  "gt_answers": "['scissors', 'scissors', 'scissors', 'scissors', 'sasuage', 'sasuage', 'sausage', 'sausage', 'sissors', 'sissors']",
+  "prediction": "sausage",
+  "num_images": 2
+}

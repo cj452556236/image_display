@@ -1,0 +1,7 @@
+{
+  "question_id": 5657425,
+  "question": "What type of animal is this and are they mentioned in the bible?",
+  "gt_answers": "['sheep yes', 'sheep yes', 'sheep yes', 'sheep yes', 'sheep yes', 'sheep yes', 'sheep', 'sheep', 'sheep', 'sheep']",
+  "prediction": "sheep",
+  "num_images": 2
+}

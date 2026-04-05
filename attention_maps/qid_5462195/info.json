@@ -1,0 +1,7 @@
+{
+  "question_id": 5462195,
+  "question": "What is the walls in this photo made from?",
+  "gt_answers": "['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'stone', 'stone', 'stones', 'stones']",
+  "prediction": "stone",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1523605,
+  "question": "Are the leaves of the plant that produce this yellow fruit long or short?",
+  "gt_answers": "['long', 'long', 'long', 'long', 'long', 'long', 'long', 'long', 'long', 'long']",
+  "prediction": "long",
+  "num_images": 2
+}

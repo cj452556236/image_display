@@ -1,0 +1,7 @@
+{
+  "question_id": 711715,
+  "question": "What is the green item with seeds on the plate?",
+  "gt_answers": "['pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickles', 'pickles']",
+  "prediction": "pickle",
+  "num_images": 1
+}

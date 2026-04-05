@@ -1,0 +1,7 @@
+{
+  "question_id": 1786915,
+  "question": "What type of neighborhood is this?",
+  "gt_answers": "['urban', 'urban', 'urban', 'urban', 'downtown', 'downtown', 'city', 'city', 'chicago', 'chicago']",
+  "prediction": "Urban",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5032785,
+  "question": "What activity are they doing?",
+  "gt_answers": "['dancing', 'dancing', 'dancing', 'dancing', 'dancing', 'dancing', 'dancing', 'dancing', 'dancing', 'dancing']",
+  "prediction": "dancing",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3866375,
+  "question": "Can you guess the family or breed to which the dog belongs to?",
+  "gt_answers": "['boston terrier', 'boston terrier', 'boston terrier', 'boston terrier', 'boston terrier', 'boston terrier', 'french bulldog', 'french bulldog', 'french bulldog', 'french bulldog']",
+  "prediction": "French Bulldog",
+  "num_images": 2
+}

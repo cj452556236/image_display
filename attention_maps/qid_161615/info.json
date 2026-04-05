@@ -1,0 +1,7 @@
+{
+  "question_id": 161615,
+  "question": "What healthy properties do these fruit contain?",
+  "gt_answers": "['vitamins', 'vitamins', 'vitamins', 'vitamins', 'vitamins', 'vitamins', 'potassium', 'potassium', 'potassium', 'potassium']",
+  "prediction": "vitamins",
+  "num_images": 1
+}

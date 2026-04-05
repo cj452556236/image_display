@@ -1,0 +1,7 @@
+{
+  "question_id": 5229095,
+  "question": "Name the type of flooring shown in this picture?",
+  "gt_answers": "['carpet', 'carpet', 'carpet', 'carpet', 'carpet', 'carpet', 'carpet', 'carpet', 'carpet', 'carpet']",
+  "prediction": "carpet",
+  "num_images": 1
+}

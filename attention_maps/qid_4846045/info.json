@@ -1,0 +1,7 @@
+{
+  "question_id": 4846045,
+  "question": "What is the picture in the food?",
+  "gt_answers": "['angry bird', 'angry bird', 'angry bird', 'angry bird', 'angry bird', 'angry bird', 'face', 'face', 'pizza', 'pizza']",
+  "prediction": "face",
+  "num_images": 1
+}

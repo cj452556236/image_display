@@ -1,0 +1,7 @@
+{
+  "question_id": 5666345,
+  "question": "What type of skiing is being done here?",
+  "gt_answers": "['cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'cross country', 'snow skiing', 'snow skiing']",
+  "prediction": "cross-country",
+  "num_images": 1
+}

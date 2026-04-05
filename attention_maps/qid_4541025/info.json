@@ -1,0 +1,7 @@
+{
+  "question_id": 4541025,
+  "question": "The kite in the air flies because of what physics principle?",
+  "gt_answers": "['lift', 'lift', 'lift', 'lift', 'wind', 'wind', 'wind', 'wind', 'gravity', 'gravity']",
+  "prediction": "lift",
+  "num_images": 2
+}

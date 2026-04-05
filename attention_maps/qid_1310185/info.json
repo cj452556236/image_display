@@ -1,0 +1,7 @@
+{
+  "question_id": 1310185,
+  "question": "What is the person washing?",
+  "gt_answers": "['grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'grapes', 'beans', 'beans', 'dishes', 'dishes']",
+  "prediction": "grapes",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2994095,
+  "question": "What will not happen after this?",
+  "gt_answers": "['road work', 'road work', 'road work', 'road work', 'road work', 'road work', 'traffic jam', 'traffic jam', 'roadwork', 'roadwork']",
+  "prediction": "road work",
+  "num_images": 1
+}

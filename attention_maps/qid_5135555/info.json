@@ -1,0 +1,7 @@
+{
+  "question_id": 5135555,
+  "question": "What water activity is occuring here?",
+  "gt_answers": "['sailing', 'sailing', 'sailing', 'sailing', 'sailing', 'sailing', 'boating', 'boating', 'boating', 'boating']",
+  "prediction": "sailing",
+  "num_images": 2
+}

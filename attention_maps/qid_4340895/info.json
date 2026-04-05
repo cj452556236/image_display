@@ -1,0 +1,7 @@
+{
+  "question_id": 4340895,
+  "question": "What is a male of this animal called?",
+  "gt_answers": "['ram', 'ram', 'ram', 'ram', 'billy', 'billy', 'steer', 'steer', 'horned', 'horned']",
+  "prediction": "ram",
+  "num_images": 2
+}

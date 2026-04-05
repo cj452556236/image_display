@@ -1,0 +1,7 @@
+{
+  "question_id": 901385,
+  "question": "What type of beverage is pictured?",
+  "gt_answers": "['juice', 'juice', 'juice', 'juice', 'tea', 'tea', 'tea', 'tea', 'iced tea', 'iced tea']",
+  "prediction": "iced tea",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4937725,
+  "question": "According to the road lines cars can do what to another car?",
+  "gt_answers": "['pass', 'pass', 'pass', 'pass', 'pass', 'pass', 'pass', 'pass', 'pass', 'pass']",
+  "prediction": "pass",
+  "num_images": 1
+}

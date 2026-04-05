@@ -1,0 +1,7 @@
+{
+  "question_id": 3868195,
+  "question": "What is this structure?",
+  "gt_answers": "['ferris wheel', 'ferris wheel', 'ferris wheel', 'ferris wheel', 'fireworks', 'fireworks', 'wheel structure', 'wheel structure', 'clock', 'clock']",
+  "prediction": "clock",
+  "num_images": 2
+}

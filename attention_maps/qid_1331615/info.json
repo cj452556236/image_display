@@ -1,0 +1,7 @@
+{
+  "question_id": 1331615,
+  "question": "What state are these citrus fruits native to?",
+  "gt_answers": "['florida', 'florida', 'florida', 'florida', 'florida', 'florida', 'florida', 'florida', 'florida', 'florida']",
+  "prediction": "Florida",
+  "num_images": 2
+}

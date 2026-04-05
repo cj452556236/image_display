@@ -1,0 +1,7 @@
+{
+  "question_id": 1611125,
+  "question": "What piece of clothing is this boy putting on?",
+  "gt_answers": "['gloves', 'gloves', 'gloves', 'gloves', 'gloves', 'gloves', 'gloves', 'gloves', 'coat', 'coat']",
+  "prediction": "coat",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4893465,
+  "question": "What style of fence is this?",
+  "gt_answers": "['picket', 'picket', 'picket', 'picket', 'picket', 'picket', 'picket', 'picket', 'pickett', 'pickett']",
+  "prediction": "picket",
+  "num_images": 2
+}

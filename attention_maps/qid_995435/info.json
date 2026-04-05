@@ -1,0 +1,7 @@
+{
+  "question_id": 995435,
+  "question": "What long strap can be tied to the object around the animal's neck?",
+  "gt_answers": "['leash', 'leash', 'leash', 'leash', 'leash', 'leash', 'leash', 'leash', 'leash', 'leash']",
+  "prediction": "leash",
+  "num_images": 1
+}

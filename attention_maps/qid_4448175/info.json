@@ -1,0 +1,7 @@
+{
+  "question_id": 4448175,
+  "question": "What is the name of the position of the man in black?",
+  "gt_answers": "['catcher', 'catcher', 'catcher', 'catcher', 'umpire', 'umpire', 'umpire', 'umpire', 'home plate umpire', 'home plate umpire']",
+  "prediction": "catcher",
+  "num_images": 2
+}

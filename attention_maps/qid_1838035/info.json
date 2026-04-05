@@ -1,0 +1,7 @@
+{
+  "question_id": 1838035,
+  "question": "What is the name of the table in front of the couch?",
+  "gt_answers": "['coffee table', 'coffee table', 'coffee table', 'coffee table', 'coffee table', 'coffee table', 'coffee', 'coffee', 'coffee', 'coffee']",
+  "prediction": "coffee",
+  "num_images": 2
+}

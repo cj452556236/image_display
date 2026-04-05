@@ -1,0 +1,7 @@
+{
+  "question_id": 1811795,
+  "question": "What type of nutrition does the food on the counter provide?",
+  "gt_answers": "['protein', 'protein', 'protein', 'protein', 'health', 'health', 'protien', 'protien', 'high nutrition', 'high nutrition']",
+  "prediction": "protein",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1190885,
+  "question": "Is that a lake or a river?",
+  "gt_answers": "['river', 'river', 'river', 'river', 'river', 'river', 'river', 'river', 'lake', 'lake']",
+  "prediction": "river",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1235705,
+  "question": "What is the main color tint of this photo?",
+  "gt_answers": "['sepia', 'sepia', 'sepia', 'sepia', 'sepai', 'sepai', 'gray', 'gray', 'black', 'black']",
+  "prediction": "sepia",
+  "num_images": 2
+}

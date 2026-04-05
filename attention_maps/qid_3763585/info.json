@@ -1,0 +1,7 @@
+{
+  "question_id": 3763585,
+  "question": "What are the white objects on this animals head called?",
+  "gt_answers": "['horns', 'horns', 'horns', 'horns', 'horns', 'horns', 'hornes', 'hornes', 'tusk', 'tusk']",
+  "prediction": "horns",
+  "num_images": 2
+}

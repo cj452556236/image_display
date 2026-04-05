@@ -1,0 +1,7 @@
+{
+  "question_id": 3680805,
+  "question": "Where in the world is this located?",
+  "gt_answers": "['seattle', 'seattle', 'seattle', 'seattle', 'san francisco', 'san francisco', 'seattle usa', 'seattle usa', 'boston massachusetts', 'boston massachusetts']",
+  "prediction": "Seattle",
+  "num_images": 2
+}

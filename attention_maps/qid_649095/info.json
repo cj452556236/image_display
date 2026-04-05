@@ -1,0 +1,7 @@
+{
+  "question_id": 649095,
+  "question": "What kind of sport team is this in reference to?",
+  "gt_answers": "['football', 'football', 'football', 'football', 'football', 'football', 'saints', 'saints', 'chef', 'chef']",
+  "prediction": "football",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1390945,
+  "question": "What occupation might he have?",
+  "gt_answers": "['forklift driver', 'forklift driver', 'forklift driver', 'forklift driver', 'forklift driver', 'forklift driver', 'warehouse worker', 'warehouse worker', 'fork lift driver', 'fork lift driver']",
+  "prediction": "warehouse worker",
+  "num_images": 1
+}

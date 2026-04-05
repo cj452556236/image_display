@@ -1,0 +1,7 @@
+{
+  "question_id": 147735,
+  "question": "Why type of restaurant would serve this food?",
+  "gt_answers": "['diner', 'diner', 'diner', 'diner', 'diner', 'diner', 'oldies restraunt', 'oldies restraunt', 'coffee shop', 'coffee shop']",
+  "prediction": "diner",
+  "num_images": 2
+}

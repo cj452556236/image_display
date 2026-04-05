@@ -1,0 +1,7 @@
+{
+  "question_id": 990265,
+  "question": "What was the name of the first cloned version of the animal in this picture?",
+  "gt_answers": "['dolly', 'dolly', 'dolly', 'dolly', 'dolly', 'dolly', 'dolly', 'dolly', 'dolly', 'dolly']",
+  "prediction": "Dolly",
+  "num_images": 1
+}

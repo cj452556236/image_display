@@ -1,0 +1,7 @@
+{
+  "question_id": 4030655,
+  "question": "What kind of car is driving along the beach?",
+  "gt_answers": "['truck', 'truck', 'truck', 'truck', 'truck', 'truck', 'truck', 'truck', 'jeep', 'jeep']",
+  "prediction": "truck",
+  "num_images": 2
+}

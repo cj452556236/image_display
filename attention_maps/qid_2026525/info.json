@@ -1,0 +1,7 @@
+{
+  "question_id": 2026525,
+  "question": "What would a perosn who drives one of these be called?",
+  "gt_answers": "['captain', 'captain', 'captain', 'captain', 'captain', 'captain', 'boat captain', 'boat captain', 'sailor', 'sailor']",
+  "prediction": "captain",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2864225,
+  "question": "How do people use this?",
+  "gt_answers": "['sail', 'sail', 'sail', 'sail', 'sailing', 'sailing', 'sailing', 'sailing', 'to sail', 'to sail']",
+  "prediction": "sailing",
+  "num_images": 1
+}

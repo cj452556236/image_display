@@ -1,0 +1,7 @@
+{
+  "question_id": 2986295,
+  "question": "Why are they carving pumpkins?",
+  "gt_answers": "['halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'making jack o lanterns', 'making jack o lanterns', 'hallowen', 'hallowen']",
+  "prediction": "Halloween",
+  "num_images": 2
+}

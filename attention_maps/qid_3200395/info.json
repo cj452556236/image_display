@@ -1,0 +1,7 @@
+{
+  "question_id": 3200395,
+  "question": "Where in school would you find this?",
+  "gt_answers": "['cafeteria', 'cafeteria', 'cafeteria', 'cafeteria', 'cafeteria', 'cafeteria', 'cafeteria', 'cafeteria', 'lunch room', 'lunch room']",
+  "prediction": "cafeteria",
+  "num_images": 2
+}

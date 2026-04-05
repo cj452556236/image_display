@@ -1,0 +1,7 @@
+{
+  "question_id": 3318175,
+  "question": "Which liquid seen here comes from a citrus fruit?",
+  "gt_answers": "['orange juice', 'orange juice', 'orange juice', 'orange juice', 'orange juice', 'orange juice', 'orange', 'orange', 'orange', 'orange']",
+  "prediction": "orange",
+  "num_images": 1
+}

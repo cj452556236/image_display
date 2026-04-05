@@ -1,0 +1,7 @@
+{
+  "question_id": 679665,
+  "question": "What topping is on this pizza?",
+  "gt_answers": "['pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'cheese and pepperoni', 'cheese and pepperoni']",
+  "prediction": "pepperoni",
+  "num_images": 2
+}

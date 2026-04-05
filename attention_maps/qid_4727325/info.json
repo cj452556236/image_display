@@ -1,0 +1,7 @@
+{
+  "question_id": 4727325,
+  "question": "What are the people who guard these animals called?",
+  "gt_answers": "['cowboys', 'cowboys', 'shepherd', 'shepherd', 'shepherds', 'shepherds', 'farmers', 'farmers', 'herders', 'herders']",
+  "prediction": "cowboys",
+  "num_images": 2
+}

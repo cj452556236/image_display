@@ -1,0 +1,7 @@
+{
+  "question_id": 5429385,
+  "question": "Is this surfer a beginner intermediate or advanced?",
+  "gt_answers": "['advanced', 'advanced', 'advanced', 'advanced', 'advanced', 'advanced', 'beginner', 'beginner', 'intermediate', 'intermediate']",
+  "prediction": "Intermediate",
+  "num_images": 2
+}

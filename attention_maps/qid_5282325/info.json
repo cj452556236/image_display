@@ -1,0 +1,7 @@
+{
+  "question_id": 5282325,
+  "question": "What is the scientific name of these animals?",
+  "gt_answers": "['giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffa', 'giraffa', 'giraffa', 'giraffa']",
+  "prediction": "Giraffa",
+  "num_images": 2
+}

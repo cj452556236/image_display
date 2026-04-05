@@ -1,0 +1,7 @@
+{
+  "question_id": 5036685,
+  "question": "What is the design of this blanket called?",
+  "gt_answers": "['plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'plaid', 'square', 'square', 'checkered', 'checkered']",
+  "prediction": "plaid",
+  "num_images": 1
+}

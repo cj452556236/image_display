@@ -1,0 +1,7 @@
+{
+  "question_id": 3496115,
+  "question": "What type of knot is shown here?",
+  "gt_answers": "['windsor', 'windsor', 'windsor', 'windsor', 'necktie', 'necktie', 'tie', 'tie', 'slip', 'slip']",
+  "prediction": "Windsor",
+  "num_images": 2
+}

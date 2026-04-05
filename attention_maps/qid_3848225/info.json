@@ -1,0 +1,7 @@
+{
+  "question_id": 3848225,
+  "question": "What kind of serving utensil is used to serve this pizza?",
+  "gt_answers": "['spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'tray', 'tray', 'pan', 'pan']",
+  "prediction": "spatula",
+  "num_images": 2
+}

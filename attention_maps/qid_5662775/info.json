@@ -1,0 +1,7 @@
+{
+  "question_id": 5662775,
+  "question": "What team has won the most world series?",
+  "gt_answers": "['yankees', 'yankees', 'yankees', 'yankees', 'baseball', 'baseball', 'braves', 'braves', 'houston astros', 'houston astros']",
+  "prediction": "Yankees",
+  "num_images": 2
+}

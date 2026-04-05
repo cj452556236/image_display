@@ -1,0 +1,7 @@
+{
+  "question_id": 349155,
+  "question": "Are the foods in the fridge mostly healthy or unhealthy?",
+  "gt_answers": "['healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'healthy', 'vegetables', 'vegetables']",
+  "prediction": "Healthy",
+  "num_images": 2
+}

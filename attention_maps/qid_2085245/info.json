@@ -1,0 +1,7 @@
+{
+  "question_id": 2085245,
+  "question": "Does this type of train transport people or cargo?",
+  "gt_answers": "['cargo', 'cargo', 'cargo', 'cargo', 'cargo', 'cargo', 'cargo', 'cargo', 'cargo', 'cargo']",
+  "prediction": "cargo",
+  "num_images": 2
+}

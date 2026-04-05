@@ -1,0 +1,7 @@
+{
+  "question_id": 5440945,
+  "question": "Planks like these that create a level flooring attached to a house are called a what?",
+  "gt_answers": "['deck', 'deck', 'deck', 'deck', 'deck', 'deck', 'slab floor', 'slab floor', 'floorboards', 'floorboards']",
+  "prediction": "deck",
+  "num_images": 2
+}

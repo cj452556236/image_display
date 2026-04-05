@@ -1,0 +1,7 @@
+{
+  "question_id": 3884225,
+  "question": "What sport is this?",
+  "gt_answers": "['rugby', 'rugby', 'rugby', 'rugby', 'rugby', 'rugby', 'footbal', 'footbal', 'football', 'football']",
+  "prediction": "rugby",
+  "num_images": 1
+}

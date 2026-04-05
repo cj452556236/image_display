@@ -1,0 +1,7 @@
+{
+  "question_id": 1933805,
+  "question": "What is this location called?",
+  "gt_answers": "['dock', 'dock', 'dock', 'dock', 'docks', 'docks', 'seattle', 'seattle', 'harbor', 'harbor']",
+  "prediction": "Seattle",
+  "num_images": 1
+}

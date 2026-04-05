@@ -1,0 +1,7 @@
+{
+  "question_id": 3548325,
+  "question": "What brand are the boys jeans?",
+  "gt_answers": "['levi', 'levi', 'levi', 'levi', \"levi's\", \"levi's\", 'gap', 'gap', 'dockers', 'dockers']",
+  "prediction": "Levi's",
+  "num_images": 2
+}

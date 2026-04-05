@@ -1,0 +1,7 @@
+{
+  "question_id": 4713425,
+  "question": "What kind of noodles are those?",
+  "gt_answers": "['ramen', 'ramen', 'ramen', 'ramen', 'rice noodles', 'rice noodles', 'angel hair', 'angel hair', 'rice', 'rice']",
+  "prediction": "rice",
+  "num_images": 1
+}

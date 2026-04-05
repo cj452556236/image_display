@@ -1,0 +1,7 @@
+{
+  "question_id": 5156125,
+  "question": "What musical instrument is this man playing?",
+  "gt_answers": "['piano', 'piano', 'piano', 'piano', 'piano', 'piano', 'keyboard piano', 'keyboard piano', 'keyboard', 'keyboard']",
+  "prediction": "keyboard",
+  "num_images": 2
+}

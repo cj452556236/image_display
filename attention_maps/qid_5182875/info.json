@@ -1,0 +1,7 @@
+{
+  "question_id": 5182875,
+  "question": "What part of the face is the toothbrush in?",
+  "gt_answers": "['mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'mouth', 'happy', 'happy']",
+  "prediction": "mouth",
+  "num_images": 2
+}

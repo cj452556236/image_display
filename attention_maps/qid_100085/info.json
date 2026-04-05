@@ -1,0 +1,7 @@
+{
+  "question_id": 100085,
+  "question": "What is the pane of glass in the wall called?",
+  "gt_answers": "['window', 'window', 'window', 'window', 'window', 'window', 'window', 'window', 'window', 'window']",
+  "prediction": "window",
+  "num_images": 1
+}

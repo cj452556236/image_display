@@ -1,0 +1,7 @@
+{
+  "question_id": 2006995,
+  "question": "What breed of cow is in the picture?",
+  "gt_answers": "['holstein', 'holstein', 'holstein', 'holstein', 'bovine', 'bovine', 'holstein friesian', 'holstein friesian', 'bull', 'bull']",
+  "prediction": "Holstein",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4260615,
+  "question": "How do you know the train is working?",
+  "gt_answers": "['smoke', 'smoke', 'smoke', 'smoke', 'smoke', 'smoke', 'moving', 'moving', 'you can see smoke coming from enginr', 'you can see smoke coming from enginr']",
+  "prediction": "smoke",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2189475,
+  "question": "Where do you think this man could be?",
+  "gt_answers": "['in alps', 'in alps', 'mountains', 'mountains', 'alps', 'alps', 'antartica', 'antartica', 'mountain', 'mountain']",
+  "prediction": "mountain",
+  "num_images": 2
+}

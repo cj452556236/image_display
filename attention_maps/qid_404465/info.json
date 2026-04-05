@@ -1,0 +1,7 @@
+{
+  "question_id": 404465,
+  "question": "What building is this?",
+  "gt_answers": "['church', 'church', 'church', 'church', 'church', 'church', 'church', 'church', 'church', 'church']",
+  "prediction": "church",
+  "num_images": 2
+}

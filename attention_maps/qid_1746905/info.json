@@ -1,0 +1,7 @@
+{
+  "question_id": 1746905,
+  "question": "What might one need before being able to board one of these?",
+  "gt_answers": "['ticket', 'ticket', 'ticket', 'ticket', 'ticket', 'ticket', 'ticket', 'ticket', 'ticket', 'ticket']",
+  "prediction": "ticket",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1812965,
+  "question": "Why does this person have protective clothing on?",
+  "gt_answers": "['safety', 'safety', 'safety', 'safety', 'safety', 'safety', 'prevent energy', 'prevent energy', 'to protect himself', 'to protect himself']",
+  "prediction": "safety",
+  "num_images": 1
+}

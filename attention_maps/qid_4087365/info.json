@@ -1,0 +1,7 @@
+{
+  "question_id": 4087365,
+  "question": "What kind of cat is this and what are some depictions of this breed of cat in fiction?",
+  "gt_answers": "['siamese', 'siamese', 'siamese', 'siamese', 'siamois', 'siamois', 'siamese 101 dalmations', 'siamese 101 dalmations', 'siamese sly intelligent fearless', 'siamese sly intelligent fearless']",
+  "prediction": "Siamese",
+  "num_images": 1
+}

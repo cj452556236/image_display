@@ -1,0 +1,7 @@
+{
+  "question_id": 289985,
+  "question": "Why is he eating this?",
+  "gt_answers": "['snack', 'snack', 'snack', 'snack', 'carnival', 'carnival', 'hungry', 'hungry', 'treat', 'treat']",
+  "prediction": "snack",
+  "num_images": 1
+}

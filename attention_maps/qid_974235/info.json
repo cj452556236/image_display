@@ -1,0 +1,7 @@
+{
+  "question_id": 974235,
+  "question": "What is the object of this game?",
+  "gt_answers": "['score', 'score', 'score', 'score', 'hit ball run bases', 'hit ball run bases', 'computation', 'computation', 'run bases', 'run bases']",
+  "prediction": "score",
+  "num_images": 1
+}

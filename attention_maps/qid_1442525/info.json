@@ -1,0 +1,7 @@
+{
+  "question_id": 1442525,
+  "question": "The man in the photo is using what to hit the ball?",
+  "gt_answers": "['bat', 'bat', 'bat', 'bat', 'bat', 'bat', 'baseball bat', 'baseball bat', 'baseball bat', 'baseball bat']",
+  "prediction": "bat",
+  "num_images": 2
+}

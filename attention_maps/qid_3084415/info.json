@@ -1,0 +1,7 @@
+{
+  "question_id": 3084415,
+  "question": "What position is this tennis player in?",
+  "gt_answers": "['ready', 'ready', 'ready', 'ready', 'crouching', 'crouching', 'squat', 'squat', 'prone', 'prone']",
+  "prediction": "ready",
+  "num_images": 2
+}

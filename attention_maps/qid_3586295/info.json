@@ -1,0 +1,7 @@
+{
+  "question_id": 3586295,
+  "question": "What style of restaurant is this kitchen a part of?",
+  "gt_answers": "['fast food', 'fast food', 'fast food', 'fast food', 'fast food', 'fast food', 'ice cream parlor', 'ice cream parlor', 'restaurant', 'restaurant']",
+  "prediction": "fast-food",
+  "num_images": 1
+}

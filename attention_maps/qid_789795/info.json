@@ -1,0 +1,7 @@
+{
+  "question_id": 789795,
+  "question": "What is the name of the mechanism located on the front end of the plane?",
+  "gt_answers": "['propeller', 'propeller', 'propeller', 'propeller', 'propeller', 'propeller', 'radial engine', 'radial engine', 'motor', 'motor']",
+  "prediction": "propeller",
+  "num_images": 2
+}

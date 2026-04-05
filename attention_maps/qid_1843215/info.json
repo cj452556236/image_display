@@ -1,0 +1,7 @@
+{
+  "question_id": 1843215,
+  "question": "Where does this vehicle stop?",
+  "gt_answers": "['train station', 'train station', 'train station', 'train station', 'train station', 'train station', 'station', 'station', 'station', 'station']",
+  "prediction": "station",
+  "num_images": 1
+}

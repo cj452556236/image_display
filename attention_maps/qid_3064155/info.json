@@ -1,0 +1,7 @@
+{
+  "question_id": 3064155,
+  "question": "What type of clothing are the men wearing?",
+  "gt_answers": "['suits', 'suits', 'suits', 'suits', 'suits', 'suits', 'suits', 'suits', 'suits and ties', 'suits and ties']",
+  "prediction": "suits",
+  "num_images": 2
+}

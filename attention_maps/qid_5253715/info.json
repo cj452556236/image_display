@@ -1,0 +1,7 @@
+{
+  "question_id": 5253715,
+  "question": "What kind of vehicle is above the building?",
+  "gt_answers": "['airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'airplane', 'plane', 'plane']",
+  "prediction": "airplane",
+  "num_images": 1
+}

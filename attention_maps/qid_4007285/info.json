@@ -1,0 +1,7 @@
+{
+  "question_id": 4007285,
+  "question": "What famous athletes ride the vehicle seen here professionally?",
+  "gt_answers": "['lance armstrong', 'lance armstrong', 'lance armstrong', 'lance armstrong', 'cycalists', 'cycalists', 'cyclists', 'cyclists', 'bmxers', 'bmxers']",
+  "prediction": "cyclists",
+  "num_images": 1
+}

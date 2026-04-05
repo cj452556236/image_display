@@ -1,0 +1,7 @@
+{
+  "question_id": 5522215,
+  "question": "What restaraunt is this at?",
+  "gt_answers": "['pizzaria', 'pizzaria', 'pizzaria', 'pizzaria', 'pizzeria', 'pizzeria', 'pizza place', 'pizza place', 'italian', 'italian']",
+  "prediction": "Pizzeria",
+  "num_images": 1
+}

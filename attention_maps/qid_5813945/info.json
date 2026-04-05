@@ -1,0 +1,7 @@
+{
+  "question_id": 5813945,
+  "question": "Where is the luggage stored on the green bus?",
+  "gt_answers": "['roof', 'roof', 'roof', 'roof', 'roof rack', 'roof rack', 'top', 'top', 'on roof', 'on roof']",
+  "prediction": "roof",
+  "num_images": 2
+}

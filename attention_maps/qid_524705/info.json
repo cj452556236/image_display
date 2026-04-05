@@ -1,0 +1,7 @@
+{
+  "question_id": 524705,
+  "question": "What kind of event would these animals be at?",
+  "gt_answers": "['fair', 'fair', 'fair', 'fair', 'fair', 'fair', 'herding', 'herding', 'auction', 'auction']",
+  "prediction": "fair",
+  "num_images": 2
+}

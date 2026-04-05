@@ -1,0 +1,7 @@
+{
+  "question_id": 5758225,
+  "question": "What store could you find this item?",
+  "gt_answers": "['toy store', 'toy store', 'toy store', 'toy store', 'toy', 'toy', 'toy', 'toy', 'toys r us', 'toys r us']",
+  "prediction": "toy",
+  "num_images": 2
+}

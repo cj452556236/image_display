@@ -1,0 +1,7 @@
+{
+  "question_id": 333455,
+  "question": "Where in this room could i sit?",
+  "gt_answers": "['chair', 'chair', 'chair', 'chair', 'chair', 'chair', 'chair', 'chair', 'in chair', 'in chair']",
+  "prediction": "chair",
+  "num_images": 2
+}

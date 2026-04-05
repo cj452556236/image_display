@@ -1,0 +1,7 @@
+{
+  "question_id": 4342615,
+  "question": "What do i do with this thing?",
+  "gt_answers": "['drive', 'drive', 'drive', 'drive', 'drive', 'drive', 'drive', 'drive', 'drive it', 'drive it']",
+  "prediction": "drive",
+  "num_images": 1
+}

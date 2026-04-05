@@ -1,0 +1,7 @@
+{
+  "question_id": 2100995,
+  "question": "What is this made of?",
+  "gt_answers": "['wicker', 'wicker', 'wicker', 'wicker', 'wicker', 'wicker', 'rattan', 'rattan', 'rattan', 'rattan']",
+  "prediction": "wicker",
+  "num_images": 1
+}

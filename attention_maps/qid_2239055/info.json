@@ -1,0 +1,7 @@
+{
+  "question_id": 2239055,
+  "question": "What are the people standing on?",
+  "gt_answers": "['platform', 'platform', 'platform', 'platform', 'platform', 'platform', 'concrete platform', 'concrete platform', 'train station', 'train station']",
+  "prediction": "platform",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2182245,
+  "question": "When was this airline founded?",
+  "gt_answers": "['1996', '1996', '1996', '1996', 'nineties', 'nineties', 'february 29 1996', 'february 29 1996', '1990', '1990']",
+  "prediction": "1996",
+  "num_images": 2
+}

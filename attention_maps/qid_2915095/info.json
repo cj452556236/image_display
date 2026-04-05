@@ -1,0 +1,7 @@
+{
+  "question_id": 2915095,
+  "question": "What is the name of the floor pattern?",
+  "gt_answers": "['checkered', 'checkered', 'checkered', 'checkered', 'checkered', 'checkered', 'checkerboard', 'checkerboard', 'checkerboard', 'checkerboard']",
+  "prediction": "checkered",
+  "num_images": 2
+}

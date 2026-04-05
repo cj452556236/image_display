@@ -1,0 +1,7 @@
+{
+  "question_id": 2678375,
+  "question": "Who invented the sports equipment being used here?",
+  "gt_answers": "['tom sims', 'tom sims', 'tom sims', 'tom sims', 'tom sims', 'tom sims', 'skateboarder', 'skateboarder', 'bob yasika', 'bob yasika']",
+  "prediction": "Tom Sims",
+  "num_images": 1
+}

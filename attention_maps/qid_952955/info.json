@@ -1,0 +1,7 @@
+{
+  "question_id": 952955,
+  "question": "What is the furniture item directly to the left of the people?",
+  "gt_answers": "['couch', 'couch', 'couch', 'couch', 'couch', 'couch', 'couch', 'couch', 'sofa', 'sofa']",
+  "prediction": "couch",
+  "num_images": 1
+}

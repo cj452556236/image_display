@@ -1,0 +1,7 @@
+{
+  "question_id": 3151915,
+  "question": "What is behind the plane?",
+  "gt_answers": "['smoke', 'smoke', 'smoke', 'smoke', 'blue skies', 'blue skies', 'contrail', 'contrail', 'exhaust', 'exhaust']",
+  "prediction": "smoke",
+  "num_images": 2
+}

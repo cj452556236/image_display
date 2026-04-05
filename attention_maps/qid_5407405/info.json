@@ -1,0 +1,7 @@
+{
+  "question_id": 5407405,
+  "question": "What kind of park is this picture taken in?",
+  "gt_answers": "['skatepark', 'skatepark', 'skatepark', 'skatepark', 'skate park', 'skate park', 'skate park', 'skate park', 'skate', 'skate']",
+  "prediction": "skatepark",
+  "num_images": 2
+}

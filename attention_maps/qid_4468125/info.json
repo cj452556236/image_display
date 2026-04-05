@@ -1,0 +1,7 @@
+{
+  "question_id": 4468125,
+  "question": "How many minutes per pound does the bird in the woman's hands have to be cooked?",
+  "gt_answers": "['15', '15', '15', '15', '15', '15', 'fifteen minutes', 'fifteen minutes', '30min for 10lbs', '30min for 10lbs']",
+  "prediction": "15",
+  "num_images": 1
+}

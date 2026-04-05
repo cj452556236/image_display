@@ -1,0 +1,7 @@
+{
+  "question_id": 2683715,
+  "question": "When would you see this?",
+  "gt_answers": "['air show', 'air show', 'air show', 'air show', 'at airshow', 'at airshow', 'at 4th of july', 'at 4th of july', 'event', 'event']",
+  "prediction": "Air show",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5683585,
+  "question": "What type of process is occurring here?",
+  "gt_answers": "['making donuts', 'making donuts', 'making donuts', 'making donuts', 'frying', 'frying', 'donut frying', 'donut frying', 'doughnut making', 'doughnut making']",
+  "prediction": "frying",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3798425,
+  "question": "What is the cartoon character's name who is wearing the red hat?",
+  "gt_answers": "['mario', 'mario', 'mario', 'mario', 'mario', 'mario', 'mario', 'mario', 'mario', 'mario']",
+  "prediction": "Mario",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4743885,
+  "question": "Is the blue wool natural to the sheep or added by the farmer?",
+  "gt_answers": "['added', 'added', 'added', 'added', 'added', 'added', 'added', 'added', 'added', 'added']",
+  "prediction": "added",
+  "num_images": 2
+}

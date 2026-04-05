@@ -1,0 +1,7 @@
+{
+  "question_id": 5002115,
+  "question": "What is the purpose of those umbrellas?",
+  "gt_answers": "['block sun', 'block sun', 'block sun', 'block sun', 'rain', 'rain', 'shade', 'shade', 'shelter', 'shelter']",
+  "prediction": "shade",
+  "num_images": 2
+}

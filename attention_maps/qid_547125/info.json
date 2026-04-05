@@ -1,0 +1,7 @@
+{
+  "question_id": 547125,
+  "question": "Who is a famous for this sport?",
+  "gt_answers": "['tony hawk', 'tony hawk', 'tony hawk', 'tony hawk', 'tony hawk', 'tony hawk', 'skateboard', 'skateboard', 'sean white', 'sean white']",
+  "prediction": "Tony Hawk",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4227785,
+  "question": "What shape is this pizza?",
+  "gt_answers": "['square', 'square', 'square', 'square', 'square', 'square', 'square', 'square', 'square', 'square']",
+  "prediction": "square",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4122475,
+  "question": "Is the batter left or right handed?",
+  "gt_answers": "['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'left handed', 'left handed']",
+  "prediction": "right",
+  "num_images": 2
+}

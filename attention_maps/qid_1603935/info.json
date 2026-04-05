@@ -1,0 +1,7 @@
+{
+  "question_id": 1603935,
+  "question": "What item might be used to warm this item of furniture?",
+  "gt_answers": "['electric blanket', 'electric blanket', 'electric blanket', 'electric blanket', 'blanker', 'blanker', 'clothes dryer', 'clothes dryer', 'blanket', 'blanket']",
+  "prediction": "blanket",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 863175,
+  "question": "What sport might this animal be used for?",
+  "gt_answers": "['horse racing', 'horse racing', 'horse racing', 'horse racing', 'racing', 'racing', 'racing', 'racing', 'polo', 'polo']",
+  "prediction": "racing",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4097255,
+  "question": "What competition is this?",
+  "gt_answers": "['kite', 'kite', 'kite', 'kite', 'kite flying', 'kite flying', 'kiting', 'kiting', 'kiteflying', 'kiteflying']",
+  "prediction": "kite",
+  "num_images": 1
+}

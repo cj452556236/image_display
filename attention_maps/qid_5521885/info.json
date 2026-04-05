@@ -1,0 +1,7 @@
+{
+  "question_id": 5521885,
+  "question": "Is he catching or throwing?",
+  "gt_answers": "['throwing', 'throwing', 'throwing', 'throwing', 'throwing', 'throwing', 'throwing', 'throwing', 'throwing', 'throwing']",
+  "prediction": "throwing",
+  "num_images": 1
+}

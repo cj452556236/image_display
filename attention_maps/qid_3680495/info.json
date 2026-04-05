@@ -1,0 +1,7 @@
+{
+  "question_id": 3680495,
+  "question": "What type of trees are on the slope?",
+  "gt_answers": "['evergreen', 'evergreen', 'evergreen', 'evergreen', 'evergreen', 'evergreen', 'pine', 'pine', 'spruce', 'spruce']",
+  "prediction": "Evergreen",
+  "num_images": 2
+}

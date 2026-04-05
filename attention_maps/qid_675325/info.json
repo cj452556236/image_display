@@ -1,0 +1,7 @@
+{
+  "question_id": 675325,
+  "question": "What breed are these two dogs?",
+  "gt_answers": "['chihuahua', 'chihuahua', 'chihuahua', 'chihuahua', 'chihauhau', 'chihauhau', 'boxer and dachschund', 'boxer and dachschund', 'muts', 'muts']",
+  "prediction": "Chihuahua",
+  "num_images": 2
+}

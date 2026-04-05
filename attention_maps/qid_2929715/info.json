@@ -1,0 +1,7 @@
+{
+  "question_id": 2929715,
+  "question": "How can you tell that the people are not upset?",
+  "gt_answers": "['they are smiling', 'they are smiling', 'they are smiling', 'they are smiling', 'smiles', 'smiles', 'smiles', 'smiles', 'smiling', 'smiling']",
+  "prediction": "smiling",
+  "num_images": 1
+}

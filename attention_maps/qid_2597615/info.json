@@ -1,0 +1,7 @@
+{
+  "question_id": 2597615,
+  "question": "What fills the balloons?",
+  "gt_answers": "['helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium']",
+  "prediction": "helium",
+  "num_images": 2
+}

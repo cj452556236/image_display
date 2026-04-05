@@ -1,0 +1,7 @@
+{
+  "question_id": 2118535,
+  "question": "What fuel does this take?",
+  "gt_answers": "['gasoline', 'gasoline', 'gasoline', 'gasoline', 'diesel', 'diesel', 'man powered', 'man powered', 'gas', 'gas']",
+  "prediction": "gasoline",
+  "num_images": 2
+}

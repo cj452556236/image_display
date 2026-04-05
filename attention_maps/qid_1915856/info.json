@@ -1,0 +1,7 @@
+{
+  "question_id": 1915856,
+  "question": "What are the white lines marked for?",
+  "gt_answers": "['crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crossing', 'crossing']",
+  "prediction": "crossing",
+  "num_images": 1
+}

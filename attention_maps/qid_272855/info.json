@@ -1,0 +1,7 @@
+{
+  "question_id": 272855,
+  "question": "What is does the space under the oven for do?",
+  "gt_answers": "['vent', 'vent', 'bake', 'bake', 'holding pots and pans', 'holding pots and pans', 'storage', 'storage', 'baking', 'baking']",
+  "prediction": "storage",
+  "num_images": 2
+}

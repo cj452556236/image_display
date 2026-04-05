@@ -1,0 +1,7 @@
+{
+  "question_id": 3563145,
+  "question": "What language are the signs in?",
+  "gt_answers": "['mandarin', 'mandarin', 'mandarin', 'mandarin', 'japanese', 'japanese', 'chinese', 'chinese', 'oriental', 'oriental']",
+  "prediction": "Chinese",
+  "num_images": 1
+}

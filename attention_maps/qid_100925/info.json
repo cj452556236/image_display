@@ -1,0 +1,7 @@
+{
+  "question_id": 100925,
+  "question": "What is over the bed?",
+  "gt_answers": "['mosquito net', 'mosquito net', 'mosquito net', 'mosquito net', 'bug net', 'bug net', 'sheet', 'sheet', 'net', 'net']",
+  "prediction": "net",
+  "num_images": 2
+}

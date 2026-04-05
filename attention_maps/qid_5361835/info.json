@@ -1,0 +1,7 @@
+{
+  "question_id": 5361835,
+  "question": "What food is this?",
+  "gt_answers": "['stew', 'stew', 'stew', 'stew', 'stir fry', 'stir fry', 'soup', 'soup', 'stirfry', 'stirfry']",
+  "prediction": "Stir-fry",
+  "num_images": 1
+}

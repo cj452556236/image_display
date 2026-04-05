@@ -1,0 +1,7 @@
+{
+  "question_id": 2938325,
+  "question": "Is this the bathroom of a single person or family?",
+  "gt_answers": "['family', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'family']",
+  "prediction": "family",
+  "num_images": 1
+}

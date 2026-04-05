@@ -1,0 +1,7 @@
+{
+  "question_id": 2454815,
+  "question": "How do we know there may be a railroad nearby?",
+  "gt_answers": "['sign', 'sign', 'sign', 'sign', 'sign', 'sign', 'sign', 'sign', 'sign', 'sign']",
+  "prediction": "sign",
+  "num_images": 1
+}

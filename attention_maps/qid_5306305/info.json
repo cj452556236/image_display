@@ -1,0 +1,7 @@
+{
+  "question_id": 5306305,
+  "question": "What type of bread is the sandwich made on?",
+  "gt_answers": "['croissant', 'croissant', 'croissant', 'croissant', 'croissant', 'croissant', 'white', 'white', 'french', 'french']",
+  "prediction": "croissant",
+  "num_images": 2
+}

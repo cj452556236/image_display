@@ -1,0 +1,7 @@
+{
+  "question_id": 153865,
+  "question": "Is the christmas tree real or fake?",
+  "gt_answers": "['fake', 'fake', 'fake', 'fake', 'fake', 'fake', 'fake', 'fake', 'real', 'real']",
+  "prediction": "fake",
+  "num_images": 1
+}

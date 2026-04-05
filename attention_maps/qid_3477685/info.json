@@ -1,0 +1,7 @@
+{
+  "question_id": 3477685,
+  "question": "What city do you think this is in?",
+  "gt_answers": "['san francisco', 'san francisco', 'san francisco', 'san francisco', 'san francisco', 'san francisco', 'san fransico', 'san fransico', 'usa', 'usa']",
+  "prediction": "San Francisco",
+  "num_images": 2
+}

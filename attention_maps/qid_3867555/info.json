@@ -1,0 +1,7 @@
+{
+  "question_id": 3867555,
+  "question": "What is hanging on the wall?",
+  "gt_answers": "['toilet paper', 'toilet paper', 'toilet paper', 'toilet paper', 'toilet paper dispenser', 'toilet paper dispenser', 'toilet roll holder', 'toilet roll holder', 'dispenser', 'dispenser']",
+  "prediction": "toilet paper",
+  "num_images": 2
+}

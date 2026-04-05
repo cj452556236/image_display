@@ -1,0 +1,7 @@
+{
+  "question_id": 606775,
+  "question": "How much is this truck worth?",
+  "gt_answers": "['$10000', '$10000', 'little', 'little', '125000', '125000', '10000', '10000', '25000 dollars', '25000 dollars']",
+  "prediction": "$10,000",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4570785,
+  "question": "How creepy is the decor in this room?",
+  "gt_answers": "['very', 'very', 'very', 'very', 'very', 'very', 'super', 'super', 'creepy', 'creepy']",
+  "prediction": "Creepy",
+  "num_images": 2
+}

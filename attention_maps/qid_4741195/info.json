@@ -1,0 +1,7 @@
+{
+  "question_id": 4741195,
+  "question": "What type of phone is this man using?",
+  "gt_answers": "['landline', 'landline', 'landline', 'landline', 'land line', 'land line', 'touch tone', 'touch tone', 'lan line', 'lan line']",
+  "prediction": "landline",
+  "num_images": 2
+}

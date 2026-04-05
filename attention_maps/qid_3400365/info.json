@@ -1,0 +1,7 @@
+{
+  "question_id": 3400365,
+  "question": "What are the individuals inside of this vehicle called?",
+  "gt_answers": "['passengers', 'passengers', 'passengers', 'passengers', 'passengers', 'passengers', 'passengers', 'passengers', 'passengers', 'passengers']",
+  "prediction": "passengers",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1683755,
+  "question": "A famous of these animals does not like mondays?",
+  "gt_answers": "['garfield', 'garfield', 'garfield', 'garfield', 'garfield', 'garfield', 'garfield', 'garfield', 'cat', 'cat']",
+  "prediction": "cat",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3490215,
+  "question": "What is the name of the famous train pictured?",
+  "gt_answers": "['thomas', 'thomas', 'thomas', 'thomas', 'thomas', 'thomas', 'thomas', 'thomas', 'thomas tank engine', 'thomas tank engine']",
+  "prediction": "Thomas",
+  "num_images": 2
+}

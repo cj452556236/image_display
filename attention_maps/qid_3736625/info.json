@@ -1,0 +1,7 @@
+{
+  "question_id": 3736625,
+  "question": "Which of the foods in the picture is best for you to eat when you have a cold?",
+  "gt_answers": "['soup', 'soup', 'soup', 'soup', 'soup', 'soup', 'chicken soup', 'chicken soup', 'fruit', 'fruit']",
+  "prediction": "soup",
+  "num_images": 1
+}

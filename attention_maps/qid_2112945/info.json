@@ -1,0 +1,7 @@
+{
+  "question_id": 2112945,
+  "question": "The red vehicle in the image fights what?",
+  "gt_answers": "['fires', 'fires', 'fires', 'fires', 'fires', 'fires', 'fires', 'fires', 'fire', 'fire']",
+  "prediction": "fires",
+  "num_images": 1
+}

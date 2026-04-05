@@ -1,0 +1,7 @@
+{
+  "question_id": 3570245,
+  "question": "What game system is this?",
+  "gt_answers": "['arcade', 'arcade', 'arcade', 'arcade', 'atari', 'atari', 'neo geo', 'neo geo', 'arcade machine', 'arcade machine']",
+  "prediction": "arcade",
+  "num_images": 2
+}

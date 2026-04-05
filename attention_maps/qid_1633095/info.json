@@ -1,0 +1,7 @@
+{
+  "question_id": 1633095,
+  "question": "What type of food is shown?",
+  "gt_answers": "['sandwich', 'sandwich', 'sandwich', 'sandwich', 'sandwich', 'sandwich', 'sub', 'sub', 'sandwiches', 'sandwiches']",
+  "prediction": "sandwiches",
+  "num_images": 2
+}

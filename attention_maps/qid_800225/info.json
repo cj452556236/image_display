@@ -1,0 +1,7 @@
+{
+  "question_id": 800225,
+  "question": "Name the device which seperates the court above?",
+  "gt_answers": "['net', 'net', 'net', 'net', 'net', 'net', 'net', 'net', 'tennis net', 'tennis net']",
+  "prediction": "net",
+  "num_images": 2
+}

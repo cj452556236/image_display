@@ -1,0 +1,7 @@
+{
+  "question_id": 3530965,
+  "question": "Does this computer have a corded or cordless mouse?",
+  "gt_answers": "['cordless', 'cordless', 'cordless', 'cordless', 'cordless', 'cordless', 'cordless', 'cordless', 'cordless', 'cordless']",
+  "prediction": "cordless",
+  "num_images": 2
+}

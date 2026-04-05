@@ -1,0 +1,7 @@
+{
+  "question_id": 3635275,
+  "question": "What are they advertising on the bus?",
+  "gt_answers": "['guitar hero iii', 'guitar hero iii', 'guitar hero iii', 'guitar hero iii', 'movie', 'movie', 'guitar hero', 'guitar hero', 'video game', 'video game']",
+  "prediction": "Guitar Hero III",
+  "num_images": 2
+}

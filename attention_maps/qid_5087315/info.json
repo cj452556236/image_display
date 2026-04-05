@@ -1,0 +1,7 @@
+{
+  "question_id": 5087315,
+  "question": "Is this type of animal more closer to the character babar or the character snoopy?",
+  "gt_answers": "['babar', 'babar', 'babar', 'babar', 'babar', 'babar', 'babar', 'babar', 'barbar', 'barbar']",
+  "prediction": "Babar",
+  "num_images": 2
+}

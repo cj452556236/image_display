@@ -1,0 +1,7 @@
+{
+  "question_id": 2393515,
+  "question": "What are the two people celebrating?",
+  "gt_answers": "['engagement', 'engagement', 'engagement', 'engagement', 'engagement', 'engagement', 'anniversary', 'anniversary', 'proposal', 'proposal']",
+  "prediction": "Engagement",
+  "num_images": 1
+}

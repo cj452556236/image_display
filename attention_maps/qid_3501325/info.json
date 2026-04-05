@@ -1,0 +1,7 @@
+{
+  "question_id": 3501325,
+  "question": "What type of pants is this person wearing?",
+  "gt_answers": "['shorts', 'shorts', 'shorts', 'shorts', 'shorts', 'shorts', 'basketball shorts', 'basketball shorts', 'capri', 'capri']",
+  "prediction": "shorts",
+  "num_images": 2
+}

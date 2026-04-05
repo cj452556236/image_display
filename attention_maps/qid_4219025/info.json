@@ -1,0 +1,7 @@
+{
+  "question_id": 4219025,
+  "question": "The puppy pictured here is a native of what chilly state?",
+  "gt_answers": "['alaska', 'alaska', 'alaska', 'alaska', 'alaska', 'alaska', 'alaska', 'alaska', 'alaska', 'alaska']",
+  "prediction": "Alaska",
+  "num_images": 2
+}

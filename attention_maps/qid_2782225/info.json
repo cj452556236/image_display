@@ -1,0 +1,7 @@
+{
+  "question_id": 2782225,
+  "question": "In what state was this photo taken?",
+  "gt_answers": "['oregon', 'oregon', 'oregon', 'oregon', 'no clue', 'no clue', 'new york', 'new york', 'washington', 'washington']",
+  "prediction": "Oregon",
+  "num_images": 2
+}

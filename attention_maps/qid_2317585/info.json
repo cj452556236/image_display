@@ -1,0 +1,7 @@
+{
+  "question_id": 2317585,
+  "question": "What kind of building are these animals in?",
+  "gt_answers": "['barn', 'barn', 'barn', 'barn', 'barn', 'barn', 'barn', 'barn', 'stable', 'stable']",
+  "prediction": "barn",
+  "num_images": 2
+}

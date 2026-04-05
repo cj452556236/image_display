@@ -1,0 +1,7 @@
+{
+  "question_id": 229695,
+  "question": "What mammal do you see?",
+  "gt_answers": "['giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'giraffe', 'girraffe', 'girraffe']",
+  "prediction": "giraffe",
+  "num_images": 1
+}

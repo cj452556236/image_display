@@ -1,0 +1,7 @@
+{
+  "question_id": 2866715,
+  "question": "What normally can be seen crossing this?",
+  "gt_answers": "['vehicles', 'vehicles', 'vehicles', 'vehicles', 'cars', 'cars', 'cars', 'cars', 'water', 'water']",
+  "prediction": "cars",
+  "num_images": 1
+}

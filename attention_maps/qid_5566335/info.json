@@ -1,0 +1,7 @@
+{
+  "question_id": 5566335,
+  "question": "Which type of glass is used for making the bathroom doors shown in this photo?",
+  "gt_answers": "['tempered', 'tempered', 'tempered', 'tempered', 'tempered', 'tempered', 'frosted', 'frosted', 'frosted', 'frosted']",
+  "prediction": "frosted",
+  "num_images": 1
+}

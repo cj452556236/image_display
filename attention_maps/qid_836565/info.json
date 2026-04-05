@@ -1,0 +1,7 @@
+{
+  "question_id": 836565,
+  "question": "What is the male of this animal called?",
+  "gt_answers": "['bull', 'bull', 'bull', 'bull', 'bull', 'bull', 'bull', 'bull', 'bull', 'bull']",
+  "prediction": "bull",
+  "num_images": 1
+}

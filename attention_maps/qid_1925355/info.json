@@ -1,0 +1,7 @@
+{
+  "question_id": 1925355,
+  "question": "What kind of plane is this?",
+  "gt_answers": "['biplane', 'biplane', 'biplane', 'biplane', 'sifghtseeing', 'sifghtseeing', 'bi plane', 'bi plane', 'nazi', 'nazi']",
+  "prediction": "biplane",
+  "num_images": 2
+}

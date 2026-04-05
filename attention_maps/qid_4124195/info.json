@@ -1,0 +1,7 @@
+{
+  "question_id": 4124195,
+  "question": "What is this person using in this game?",
+  "gt_answers": "['bat', 'bat', 'bat', 'bat', 'bat', 'bat', 'bat', 'bat', 'umpire', 'umpire']",
+  "prediction": "bat",
+  "num_images": 1
+}

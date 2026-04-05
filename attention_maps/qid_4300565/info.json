@@ -1,0 +1,7 @@
+{
+  "question_id": 4300565,
+  "question": "What type of sandwich is this?",
+  "gt_answers": "['blt', 'blt', 'blt', 'blt', 'ham', 'ham', 'club', 'club', 'turkey clun', 'turkey clun']",
+  "prediction": "club",
+  "num_images": 2
+}

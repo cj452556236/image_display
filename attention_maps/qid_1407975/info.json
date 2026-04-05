@@ -1,0 +1,7 @@
+{
+  "question_id": 1407975,
+  "question": "What type of meat is pictured?",
+  "gt_answers": "['chicken', 'chicken', 'chicken', 'chicken', 'beef', 'beef', 'ribs', 'ribs', 'bird', 'bird']",
+  "prediction": "ribs",
+  "num_images": 2
+}

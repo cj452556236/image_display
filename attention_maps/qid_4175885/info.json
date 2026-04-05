@@ -1,0 +1,7 @@
+{
+  "question_id": 4175885,
+  "question": "What type of currency is mainly accepted by this item?",
+  "gt_answers": "['coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coins', 'coin', 'coin']",
+  "prediction": "coins",
+  "num_images": 1
+}

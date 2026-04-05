@@ -1,0 +1,7 @@
+{
+  "question_id": 209125,
+  "question": "What are the bags made of?",
+  "gt_answers": "['cloth', 'cloth', 'cloth', 'cloth', 'cloth', 'cloth', 'plastic', 'plastic', 'fabric', 'fabric']",
+  "prediction": "cloth",
+  "num_images": 2
+}

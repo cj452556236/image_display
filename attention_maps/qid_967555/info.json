@@ -1,0 +1,7 @@
+{
+  "question_id": 967555,
+  "question": "How is this food cooked?",
+  "gt_answers": "['grilled', 'grilled', 'grilled', 'grilled', 'grilled', 'grilled', 'toasted', 'toasted', 'baked', 'baked']",
+  "prediction": "grilled",
+  "num_images": 2
+}

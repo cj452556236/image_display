@@ -1,0 +1,7 @@
+{
+  "question_id": 672075,
+  "question": "What activity are they doing?",
+  "gt_answers": "['video games', 'video games', 'video games', 'video games', 'wii', 'wii', 'wii', 'wii', 'gaming', 'gaming']",
+  "prediction": "gaming",
+  "num_images": 1
+}

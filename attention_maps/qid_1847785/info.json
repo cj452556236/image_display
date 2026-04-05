@@ -1,0 +1,7 @@
+{
+  "question_id": 1847785,
+  "question": "Animals like to urinate on these?",
+  "gt_answers": "['fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hydrant', 'fire hidrant', 'fire hidrant', 'dogs', 'dogs']",
+  "prediction": "dogs",
+  "num_images": 1
+}

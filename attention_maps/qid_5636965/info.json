@@ -1,0 +1,7 @@
+{
+  "question_id": 5636965,
+  "question": "What auction company is accessible only via the item featured in this photo?",
+  "gt_answers": "['ebay', 'ebay', 'ebay', 'ebay', 'ebay', 'ebay', 'ebay', 'ebay', 'ebay', 'ebay']",
+  "prediction": "eBay",
+  "num_images": 1
+}

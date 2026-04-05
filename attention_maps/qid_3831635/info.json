@@ -1,0 +1,7 @@
+{
+  "question_id": 3831635,
+  "question": "What is this used for?",
+  "gt_answers": "['hauling', 'hauling', 'hauling', 'hauling', 'transportation', 'transportation', 'transporting', 'transporting', 'trucking', 'trucking']",
+  "prediction": "hauling",
+  "num_images": 1
+}

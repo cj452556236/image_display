@@ -1,0 +1,7 @@
+{
+  "question_id": 3718905,
+  "question": "What is the name of the bar that holds the bike up in this picture?",
+  "gt_answers": "['kickstand', 'kickstand', 'kickstand', 'kickstand', 'kickstand', 'kickstand', 'kick stand', 'kick stand', 'bike rake', 'bike rake']",
+  "prediction": "kickstand",
+  "num_images": 1
+}

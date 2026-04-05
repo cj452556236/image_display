@@ -1,0 +1,7 @@
+{
+  "question_id": 5273795,
+  "question": "What does the traffic signal indicate drivers should do?",
+  "gt_answers": "['go', 'go', 'go', 'go', 'go', 'go', 'go', 'go', 'go', 'go']",
+  "prediction": "Go",
+  "num_images": 1
+}

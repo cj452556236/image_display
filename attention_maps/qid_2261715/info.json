@@ -1,0 +1,7 @@
+{
+  "question_id": 2261715,
+  "question": "Which of the two liquid receptacles on the desk would be better for holding a hot drink?",
+  "gt_answers": "['cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'mug', 'mug', 'coffee cup', 'coffee cup']",
+  "prediction": "cup",
+  "num_images": 2
+}

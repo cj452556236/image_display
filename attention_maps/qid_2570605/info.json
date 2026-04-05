@@ -1,0 +1,7 @@
+{
+  "question_id": 2570605,
+  "question": "How healthy is this?",
+  "gt_answers": "['not', 'not', 'not', 'not', 'not very', 'not very', 'unhealthy', 'unhealthy', 'moderately', 'moderately']",
+  "prediction": "unhealthy",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4437845,
+  "question": "What brand racket is the player holding?",
+  "gt_answers": "['wilson', 'wilson', 'wilson', 'wilson', 'wilson', 'wilson', 'prince', 'prince', 'champion', 'champion']",
+  "prediction": "Wilson",
+  "num_images": 2
+}

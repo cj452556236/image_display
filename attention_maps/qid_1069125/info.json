@@ -1,0 +1,7 @@
+{
+  "question_id": 1069125,
+  "question": "Can you name the place where the boy is playing?",
+  "gt_answers": "['driveway', 'driveway', 'driveway', 'driveway', 'driveway', 'driveway', 'concrete', 'concrete', 'parking lot', 'parking lot']",
+  "prediction": "driveway",
+  "num_images": 2
+}

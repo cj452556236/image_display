@@ -1,0 +1,7 @@
+{
+  "question_id": 1414685,
+  "question": "This bear is what kind of bear?",
+  "gt_answers": "['grizzly', 'grizzly', 'grizzly', 'grizzly', 'grizzly', 'grizzly', 'grizzly', 'grizzly', 'brown', 'brown']",
+  "prediction": "brown",
+  "num_images": 1
+}

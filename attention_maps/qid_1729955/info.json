@@ -1,0 +1,7 @@
+{
+  "question_id": 1729955,
+  "question": "What topping is on the food?",
+  "gt_answers": "['pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'pickle', 'relish', 'relish']",
+  "prediction": "pickle",
+  "num_images": 2
+}

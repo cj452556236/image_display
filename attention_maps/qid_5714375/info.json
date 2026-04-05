@@ -1,0 +1,7 @@
+{
+  "question_id": 5714375,
+  "question": "Is the large yellow object a fruit or a vegetable?",
+  "gt_answers": "['vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable', 'vegetable']",
+  "prediction": "vegetable",
+  "num_images": 2
+}

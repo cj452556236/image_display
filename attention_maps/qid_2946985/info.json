@@ -1,0 +1,7 @@
+{
+  "question_id": 2946985,
+  "question": "How long is that sandwhich?",
+  "gt_answers": "['12 inches', '12 inches', '12 inches', '12 inches', '1 foot', '1 foot', 'foot long', 'foot long', 'foot', 'foot']",
+  "prediction": "footlong",
+  "num_images": 1
+}

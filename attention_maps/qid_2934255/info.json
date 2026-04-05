@@ -1,0 +1,7 @@
+{
+  "question_id": 2934255,
+  "question": "What topic is this event related to?",
+  "gt_answers": "['sports', 'sports', 'sports', 'sports', 'football', 'football', 'economics', 'economics', 'politics', 'politics']",
+  "prediction": "economics",
+  "num_images": 1
+}

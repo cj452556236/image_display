@@ -1,0 +1,7 @@
+{
+  "question_id": 3719455,
+  "question": "In what year was this mode of transportation created?",
+  "gt_answers": "['1804', '1804', '1804', '1804', '1800', '1800', '1967', '1967', '1960', '1960']",
+  "prediction": "1804",
+  "num_images": 1
+}

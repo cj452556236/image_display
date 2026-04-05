@@ -1,0 +1,7 @@
+{
+  "question_id": 1824415,
+  "question": "What activity is this man engaging in?",
+  "gt_answers": "['bird watching', 'bird watching', 'bird watching', 'bird watching', 'staring', 'staring', 'walking', 'walking', 'contemplation', 'contemplation']",
+  "prediction": "bird-watching",
+  "num_images": 2
+}

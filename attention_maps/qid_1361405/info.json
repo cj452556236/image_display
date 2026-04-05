@@ -1,0 +1,7 @@
+{
+  "question_id": 1361405,
+  "question": "Name the mobile model or brand shown in this picture?",
+  "gt_answers": "['sidekick', 'sidekick', 'sidekick', 'sidekick', 'nokia', 'nokia', 'cricket', 'cricket', 'blackberry', 'blackberry']",
+  "prediction": "BlackBerry",
+  "num_images": 1
+}

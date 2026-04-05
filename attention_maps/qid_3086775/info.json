@@ -1,0 +1,7 @@
+{
+  "question_id": 3086775,
+  "question": "What kind of sport is practiced is in this picture?",
+  "gt_answers": "['bmx', 'bmx', 'bmx', 'bmx', 'biking', 'biking', 'mountain biking', 'mountain biking', 'motor cross', 'motor cross']",
+  "prediction": "Mountain biking",
+  "num_images": 1
+}

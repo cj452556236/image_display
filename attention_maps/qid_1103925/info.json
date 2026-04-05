@@ -1,0 +1,7 @@
+{
+  "question_id": 1103925,
+  "question": "What is the person doing?",
+  "gt_answers": "['talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'talking on phone', 'talking', 'talking']",
+  "prediction": "talking",
+  "num_images": 1
+}

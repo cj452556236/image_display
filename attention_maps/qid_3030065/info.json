@@ -1,0 +1,7 @@
+{
+  "question_id": 3030065,
+  "question": "What activities could take place in this room?",
+  "gt_answers": "['reading', 'reading', 'reading', 'reading', 'playing piano', 'playing piano', 'reading piano playing', 'reading piano playing', 'relaxing', 'relaxing']",
+  "prediction": "reading",
+  "num_images": 2
+}

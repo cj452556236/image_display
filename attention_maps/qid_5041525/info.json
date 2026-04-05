@@ -1,0 +1,7 @@
+{
+  "question_id": 5041525,
+  "question": "What kind of objects are these?",
+  "gt_answers": "['tools', 'tools', 'tools', 'tools', 'tools', 'tools', 'tools', 'tools', 'tools', 'tools']",
+  "prediction": "tools",
+  "num_images": 2
+}

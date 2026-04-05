@@ -1,0 +1,7 @@
+{
+  "question_id": 4535205,
+  "question": "Are these animals mammals or insects?",
+  "gt_answers": "['mammals', 'mammals', 'mammals', 'mammals', 'mammals', 'mammals', 'mammals', 'mammals', 'animals', 'animals']",
+  "prediction": "mammals",
+  "num_images": 1
+}

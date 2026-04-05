@@ -1,0 +1,7 @@
+{
+  "question_id": 3053685,
+  "question": "What style of architecture is pictured?",
+  "gt_answers": "['spanish', 'spanish', 'spanish', 'spanish', 'southwestern', 'southwestern', 'medieval', 'medieval', 'gothic', 'gothic']",
+  "prediction": "Gothic",
+  "num_images": 2
+}

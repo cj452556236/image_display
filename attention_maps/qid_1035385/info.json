@@ -1,0 +1,7 @@
+{
+  "question_id": 1035385,
+  "question": "What type of activity might people do in this room?",
+  "gt_answers": "['cook', 'cook', 'cook', 'cook', 'cook', 'cook', 'cook food', 'cook food', 'cooking', 'cooking']",
+  "prediction": "cooking",
+  "num_images": 2
+}

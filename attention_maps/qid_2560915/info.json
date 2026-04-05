@@ -1,0 +1,7 @@
+{
+  "question_id": 2560915,
+  "question": "What letter of the alphabet do those animals names start with?",
+  "gt_answers": "['z', 'z', 'z', 'z', 'z', 'z', 'z', 'z', 'g', 'g']",
+  "prediction": "Z",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3008145,
+  "question": "What kind of event is this?",
+  "gt_answers": "['jousting', 'jousting', 'jousting', 'jousting', 'jousting', 'jousting', 'joosting', 'joosting', 'joust', 'joust']",
+  "prediction": "joust",
+  "num_images": 1
+}

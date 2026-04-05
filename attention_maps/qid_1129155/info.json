@@ -1,0 +1,7 @@
+{
+  "question_id": 1129155,
+  "question": "In what room of a house would you most likly find these types of chairs?",
+  "gt_answers": "['dining room', 'dining room', 'dining room', 'dining room', 'bedroom', 'bedroom', 'living', 'living', 'kitchen', 'kitchen']",
+  "prediction": "dining room",
+  "num_images": 2
+}

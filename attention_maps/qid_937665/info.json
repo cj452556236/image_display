@@ -1,0 +1,7 @@
+{
+  "question_id": 937665,
+  "question": "What media is this horse made from?",
+  "gt_answers": "['bronze', 'bronze', 'bronze', 'bronze', 'metal', 'metal', 'metal', 'metal', 'steel', 'steel']",
+  "prediction": "metal",
+  "num_images": 2
+}

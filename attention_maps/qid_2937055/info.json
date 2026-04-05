@@ -1,0 +1,7 @@
+{
+  "question_id": 2937055,
+  "question": "Who staged this room?",
+  "gt_answers": "['staged 4 more', 'staged 4 more', 'staged 4 more', 'staged 4 more', 'staged 4 more', 'staged 4 more', 'designers', 'designers', 'staged4more', 'staged4more']",
+  "prediction": "staged4more",
+  "num_images": 2
+}

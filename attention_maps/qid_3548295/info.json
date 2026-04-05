@@ -1,0 +1,7 @@
+{
+  "question_id": 3548295,
+  "question": "Why did he leave his car next to a fire hydrant?",
+  "gt_answers": "['negligence', 'negligence', 'raining', 'raining', 'park', 'park', 'quick stop', 'quick stop', 'parked', 'parked']",
+  "prediction": "parked",
+  "num_images": 2
+}

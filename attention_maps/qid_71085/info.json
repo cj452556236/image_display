@@ -1,0 +1,7 @@
+{
+  "question_id": 71085,
+  "question": "What is this animal known for?",
+  "gt_answers": "['trunk', 'trunk', 'trunk', 'trunk', 'peanuts', 'peanuts', 'circus', 'circus', 'ivory', 'ivory']",
+  "prediction": "trunk",
+  "num_images": 1
+}

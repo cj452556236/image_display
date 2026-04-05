@@ -1,0 +1,7 @@
+{
+  "question_id": 1414535,
+  "question": "What are the horses doing?",
+  "gt_answers": "['pulling', 'pulling', 'pulling', 'pulling', 'plowing', 'plowing', 'plowing', 'plowing', 'working', 'working']",
+  "prediction": "plowing",
+  "num_images": 2
+}

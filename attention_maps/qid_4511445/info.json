@@ -1,0 +1,7 @@
+{
+  "question_id": 4511445,
+  "question": "What are they riding on?",
+  "gt_answers": "['skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'skis', 'snowboards', 'snowboards']",
+  "prediction": "skis",
+  "num_images": 1
+}

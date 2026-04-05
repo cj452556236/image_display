@@ -1,0 +1,7 @@
+{
+  "question_id": 1934805,
+  "question": "What event is this?",
+  "gt_answers": "['tennis match', 'tennis match', 'tennis match', 'tennis match', 'us open', 'us open', 'tennis', 'tennis', 'tournament', 'tournament']",
+  "prediction": "US Open",
+  "num_images": 1
+}

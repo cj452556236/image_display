@@ -1,0 +1,7 @@
+{
+  "question_id": 2703545,
+  "question": "What kind of roof this house had?",
+  "gt_answers": "['shingles', 'shingles', 'shingles', 'shingles', 'shingle', 'shingle', 'thatch', 'thatch', 'pitched', 'pitched']",
+  "prediction": "shingle",
+  "num_images": 2
+}

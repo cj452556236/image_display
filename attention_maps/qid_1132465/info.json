@@ -1,0 +1,7 @@
+{
+  "question_id": 1132465,
+  "question": "What are the glass doors called?",
+  "gt_answers": "['french doors', 'french doors', 'french doors', 'french doors', 'french doors', 'french doors', 'bifold', 'bifold', 'french', 'french']",
+  "prediction": "French",
+  "num_images": 2
+}

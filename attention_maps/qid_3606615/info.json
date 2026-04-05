@@ -1,0 +1,7 @@
+{
+  "question_id": 3606615,
+  "question": "What kind of event is this?",
+  "gt_answers": "['horse race', 'horse race', 'horse race', 'horse race', 'horse race', 'horse race', 'horse race', 'horse race', 'race', 'race']",
+  "prediction": "Race",
+  "num_images": 1
+}

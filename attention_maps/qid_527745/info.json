@@ -1,0 +1,7 @@
+{
+  "question_id": 527745,
+  "question": "What type of vegetable is on this pizza?",
+  "gt_answers": "['olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'mushrooms olives', 'mushrooms olives', 'olive', 'olive']",
+  "prediction": "olives",
+  "num_images": 1
+}

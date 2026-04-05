@@ -1,0 +1,7 @@
+{
+  "question_id": 2248505,
+  "question": "What type of carnival ride is this?",
+  "gt_answers": "['firetruck ride', 'firetruck ride', 'firetruck ride', 'firetruck ride', 'fair', 'fair', 'carousel', 'carousel', 'kid ride', 'kid ride']",
+  "prediction": "carousel",
+  "num_images": 2
+}

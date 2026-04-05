@@ -1,0 +1,7 @@
+{
+  "question_id": 511745,
+  "question": "The sandwich in this photo was wrapped in what?",
+  "gt_answers": "['foil', 'foil', 'foil', 'foil', 'foil', 'foil', 'foil', 'foil', 'foil', 'foil']",
+  "prediction": "foil",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 4750535,
+  "question": "What is the name of the knot used on this tie?",
+  "gt_answers": "['windsor', 'windsor', 'windsor', 'windsor', 'windsor', 'windsor', 'windsor', 'windsor', 'knot', 'knot']",
+  "prediction": "Windsor",
+  "num_images": 2
+}

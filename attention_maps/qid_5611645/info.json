@@ -1,0 +1,7 @@
+{
+  "question_id": 5611645,
+  "question": "What is the fabric in the windows used for?",
+  "gt_answers": "['curtains', 'curtains', 'curtains', 'curtains', 'curtains reduce visibility', 'curtains reduce visibility', 'privacy', 'privacy', 'shade', 'shade']",
+  "prediction": "privacy",
+  "num_images": 1
+}

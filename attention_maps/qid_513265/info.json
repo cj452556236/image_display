@@ -1,0 +1,7 @@
+{
+  "question_id": 513265,
+  "question": "What holiday is this?",
+  "gt_answers": "['halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween', 'halloween']",
+  "prediction": "Halloween",
+  "num_images": 1
+}

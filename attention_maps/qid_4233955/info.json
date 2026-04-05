@@ -1,0 +1,7 @@
+{
+  "question_id": 4233955,
+  "question": "What will get sunburned the most if this man doesn't use sunscreen?",
+  "gt_answers": "['shoulders', 'shoulders', 'shoulders', 'shoulders', 'arms', 'arms', 'face', 'face', 'nose', 'nose']",
+  "prediction": "shoulders",
+  "num_images": 2
+}

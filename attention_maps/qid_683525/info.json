@@ -1,0 +1,7 @@
+{
+  "question_id": 683525,
+  "question": "Would you say this is moving or standing still?",
+  "gt_answers": "['moving', 'moving', 'moving', 'moving', 'moving', 'moving', 'moving', 'moving', 'standing still', 'standing still']",
+  "prediction": "moving",
+  "num_images": 1
+}

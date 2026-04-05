@@ -1,0 +1,7 @@
+{
+  "question_id": 5041015,
+  "question": "Where is this?",
+  "gt_answers": "['ghana', 'ghana', 'ghana', 'ghana', 'iraq', 'iraq', 'iraq', 'iraq', 'muesium', 'muesium']",
+  "prediction": "Ghana",
+  "num_images": 1
+}

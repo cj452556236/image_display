@@ -1,0 +1,7 @@
+{
+  "question_id": 1914445,
+  "question": "What are these objects for?",
+  "gt_answers": "['computers', 'computers', 'computers', 'computers', 'computing', 'computing', 'computer', 'computer', 'interfacing with computer', 'interfacing with computer']",
+  "prediction": "computing",
+  "num_images": 2
+}

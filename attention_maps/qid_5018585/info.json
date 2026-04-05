@@ -1,0 +1,7 @@
+{
+  "question_id": 5018585,
+  "question": "How do you make the dish?",
+  "gt_answers": "['in oven', 'in oven', 'in oven', 'in oven', 'in oven', 'in oven', 'bake', 'bake', 'baked', 'baked']",
+  "prediction": "bake",
+  "num_images": 1
+}

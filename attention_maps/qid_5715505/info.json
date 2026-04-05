@@ -1,0 +1,7 @@
+{
+  "question_id": 5715505,
+  "question": "What kind of plant is seen in this picture?",
+  "gt_answers": "['roses', 'roses', 'roses', 'roses', 'roses', 'roses', 'rose', 'rose', 'rose', 'rose']",
+  "prediction": "rose",
+  "num_images": 2
+}

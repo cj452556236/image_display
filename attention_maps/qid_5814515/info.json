@@ -1,0 +1,7 @@
+{
+  "question_id": 5814515,
+  "question": "What topping are on the hotdog?",
+  "gt_answers": "['ketchup and peas', 'ketchup and peas', 'ketchup and peas', 'ketchup and peas', 'ketchup and peas', 'ketchup and peas', 'ketchup', 'ketchup', 'ketchup condiments', 'ketchup condiments']",
+  "prediction": "ketchup",
+  "num_images": 2
+}

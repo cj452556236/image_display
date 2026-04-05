@@ -1,0 +1,7 @@
+{
+  "question_id": 3239255,
+  "question": "What vegetables are shown?",
+  "gt_answers": "['tomatoes', 'tomatoes', 'tomatoes', 'tomatoes', 'broccoli', 'broccoli', 'bento', 'bento', 'tomatoes carrots lettuce', 'tomatoes carrots lettuce']",
+  "prediction": "broccoli",
+  "num_images": 2
+}

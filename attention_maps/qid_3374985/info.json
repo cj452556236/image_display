@@ -1,0 +1,7 @@
+{
+  "question_id": 3374985,
+  "question": "What type of pizza is this?",
+  "gt_answers": "['deep dish', 'deep dish', 'deep dish', 'deep dish', 'deep dish', 'deep dish', 'chicago style', 'chicago style', 'meat', 'meat']",
+  "prediction": "deep-dish",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 195795,
+  "question": "How many calories is in a food like this?",
+  "gt_answers": "['400', '400', '400', '400', '800', '800', '600', '600', '450', '450']",
+  "prediction": "400",
+  "num_images": 1
+}

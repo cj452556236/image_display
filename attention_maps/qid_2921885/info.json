@@ -1,0 +1,7 @@
+{
+  "question_id": 2921885,
+  "question": "What other item is this company famous for manufacturing?",
+  "gt_answers": "['tractors', 'tractors', 'tractors', 'tractors', 'tractors', 'tractors', 'trucks', 'trucks', 'vehicles', 'vehicles']",
+  "prediction": "tractors",
+  "num_images": 1
+}

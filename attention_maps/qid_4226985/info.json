@@ -1,0 +1,7 @@
+{
+  "question_id": 4226985,
+  "question": "Why is the cow going to the water?",
+  "gt_answers": "['thirsty', 'thirsty', 'thirsty', 'thirsty', 'for drink', 'for drink', 'drinking', 'drinking', 'drink', 'drink']",
+  "prediction": "drink",
+  "num_images": 2
+}

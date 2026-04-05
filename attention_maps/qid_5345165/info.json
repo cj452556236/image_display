@@ -1,0 +1,7 @@
+{
+  "question_id": 5345165,
+  "question": "What does the star symbol on this uniform represent?",
+  "gt_answers": "['sheriff', 'sheriff', 'sheriff', 'sheriff', 'ranger', 'ranger', 'law', 'law', 'justice', 'justice']",
+  "prediction": "sheriff",
+  "num_images": 2
+}

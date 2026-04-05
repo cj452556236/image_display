@@ -1,0 +1,7 @@
+{
+  "question_id": 4948555,
+  "question": "What team is the player from?",
+  "gt_answers": "['yankees', 'yankees', 'yankees', 'yankees', 'yankees', 'yankees', 'yankees', 'yankees', 'tigers', 'tigers']",
+  "prediction": "Yankees",
+  "num_images": 2
+}

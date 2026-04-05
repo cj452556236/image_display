@@ -1,0 +1,7 @@
+{
+  "question_id": 1400765,
+  "question": "What genus of flower is placed inside the vase?",
+  "gt_answers": "['tulip', 'tulip', 'tulip', 'tulip', 'tiger lily', 'tiger lily', 'daisy', 'daisy', 'aloe', 'aloe']",
+  "prediction": "tulip",
+  "num_images": 2
+}

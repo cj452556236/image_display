@@ -1,0 +1,7 @@
+{
+  "question_id": 2261545,
+  "question": "What is the title of the man behind the wheel?",
+  "gt_answers": "['bus driver', 'bus driver', 'bus driver', 'bus driver', 'bus driver', 'bus driver', 'driver', 'driver', 'driver', 'driver']",
+  "prediction": "driver",
+  "num_images": 2
+}

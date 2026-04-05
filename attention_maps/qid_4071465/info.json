@@ -1,0 +1,7 @@
+{
+  "question_id": 4071465,
+  "question": "How many passengers can this plane accomodate?",
+  "gt_answers": "['15', '15', '15', '15', '10', '10', '18', '18', '8', '8']",
+  "prediction": "8",
+  "num_images": 2
+}

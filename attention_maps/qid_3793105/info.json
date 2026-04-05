@@ -1,0 +1,7 @@
+{
+  "question_id": 3793105,
+  "question": "What are the screens called?",
+  "gt_answers": "['monitors', 'monitors', 'monitors', 'monitors', 'monitors', 'monitors', 'monitors', 'monitors', 'monitor', 'monitor']",
+  "prediction": "monitors",
+  "num_images": 2
+}

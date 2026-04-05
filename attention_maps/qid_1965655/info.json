@@ -1,0 +1,7 @@
+{
+  "question_id": 1965655,
+  "question": "What type of surfboard is this man using?",
+  "gt_answers": "['longboard', 'longboard', 'longboard', 'longboard', 'full size', 'full size', 'long', 'long', 'waverunner', 'waverunner']",
+  "prediction": "longboard",
+  "num_images": 2
+}

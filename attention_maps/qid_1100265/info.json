@@ -1,0 +1,7 @@
+{
+  "question_id": 1100265,
+  "question": "What is aim made for?",
+  "gt_answers": "['toothpaste', 'toothpaste', 'toothpaste', 'toothpaste', 'paper', 'paper', 'teeth brushing', 'teeth brushing', 'teeth', 'teeth']",
+  "prediction": "Toothpaste",
+  "num_images": 1
+}

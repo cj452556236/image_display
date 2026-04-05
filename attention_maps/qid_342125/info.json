@@ -1,0 +1,7 @@
+{
+  "question_id": 342125,
+  "question": "Is this kitchen messy or tidy?",
+  "gt_answers": "['messy', 'messy', 'messy', 'messy', 'messy', 'messy', 'messy', 'messy', 'tidy', 'tidy']",
+  "prediction": "messy",
+  "num_images": 2
+}

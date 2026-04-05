@@ -1,0 +1,7 @@
+{
+  "question_id": 5113335,
+  "question": "Where should you put your valuables when staying here?",
+  "gt_answers": "['safe', 'safe', 'safe', 'safe', 'safe', 'safe', 'closet', 'closet', 'front desk', 'front desk']",
+  "prediction": "safe",
+  "num_images": 1
+}

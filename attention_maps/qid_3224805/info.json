@@ -1,0 +1,7 @@
+{
+  "question_id": 3224805,
+  "question": "Would this be considered a formal or informal meal?",
+  "gt_answers": "['informal', 'informal', 'informal', 'informal', 'informal', 'informal', 'informal', 'informal', 'formal', 'formal']",
+  "prediction": "informal",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5692895,
+  "question": "Even without bacon or sausage why would we think this person has plenty of protein on their plate?",
+  "gt_answers": "['beans', 'beans', 'beans', 'beans', 'beans', 'beans', 'eggs', 'eggs', 'egg', 'egg']",
+  "prediction": "eggs",
+  "num_images": 2
+}

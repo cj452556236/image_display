@@ -1,0 +1,7 @@
+{
+  "question_id": 4088185,
+  "question": "What growing item seen here is frequently used for christmas?",
+  "gt_answers": "['pine tree', 'pine tree', 'pine tree', 'pine tree', 'pine tree', 'pine tree', 'tree', 'tree', 'fir tree', 'fir tree']",
+  "prediction": "tree",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5643175,
+  "question": "What language is spoken in this place?",
+  "gt_answers": "['english', 'english', 'english', 'english', 'english', 'english', 'english', 'english', 'french', 'french']",
+  "prediction": "English",
+  "num_images": 1
+}

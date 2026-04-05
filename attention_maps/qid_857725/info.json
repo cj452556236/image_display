@@ -1,0 +1,7 @@
+{
+  "question_id": 857725,
+  "question": "Is this boy a professional player or still in high school?",
+  "gt_answers": "['high school', 'high school', 'high school', 'high school', 'high school', 'high school', 'high school', 'high school', 'school', 'school']",
+  "prediction": "high school",
+  "num_images": 2
+}

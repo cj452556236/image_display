@@ -1,0 +1,7 @@
+{
+  "question_id": 581745,
+  "question": "How many people can this bus carry?",
+  "gt_answers": "['50', '50', '50', '50', '50', '50', '40', '40', '39', '39']",
+  "prediction": "50",
+  "num_images": 2
+}

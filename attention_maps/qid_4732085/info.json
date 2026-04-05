@@ -1,0 +1,7 @@
+{
+  "question_id": 4732085,
+  "question": "Is this in a home kitchen or commercial kitchen?",
+  "gt_answers": "['commercial', 'commercial', 'commercial', 'commercial', 'commercial', 'commercial', 'commercial', 'commercial', 'commercial', 'commercial']",
+  "prediction": "commercial",
+  "num_images": 1
+}

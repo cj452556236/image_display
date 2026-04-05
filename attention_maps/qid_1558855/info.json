@@ -1,0 +1,7 @@
+{
+  "question_id": 1558855,
+  "question": "These birds found near water are called what?",
+  "gt_answers": "['seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'ravens', 'ravens', 'water birds or aquatic birds', 'water birds or aquatic birds']",
+  "prediction": "seagulls",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2802115,
+  "question": "What type of fence is used to enclose here?",
+  "gt_answers": "['chainlink', 'chainlink', 'chainlink', 'chainlink', 'chain link', 'chain link', 'chicken wire fence', 'chicken wire fence', 'wire', 'wire']",
+  "prediction": "chain-link",
+  "num_images": 2
+}

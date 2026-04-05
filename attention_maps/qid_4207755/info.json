@@ -1,0 +1,7 @@
+{
+  "question_id": 4207755,
+  "question": "What is the name of the sticks held in this person's hand?",
+  "gt_answers": "['poles', 'poles', 'poles', 'poles', 'poles', 'poles', 'skii poles', 'skii poles', 'ski poles', 'ski poles']",
+  "prediction": "ski poles",
+  "num_images": 1
+}

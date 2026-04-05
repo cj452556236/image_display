@@ -1,0 +1,7 @@
+{
+  "question_id": 5314335,
+  "question": "From what part of the country is this food most likely being served in?",
+  "gt_answers": "['south', 'south', 'south', 'south', 'south', 'south', 'south', 'south', 'east coast', 'east coast']",
+  "prediction": "South",
+  "num_images": 2
+}

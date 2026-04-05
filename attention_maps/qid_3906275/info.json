@@ -1,0 +1,7 @@
+{
+  "question_id": 3906275,
+  "question": "What does this device generally do?",
+  "gt_answers": "['refrigerate', 'refrigerate', 'refrigerate', 'refrigerate', 'keep food cold', 'keep food cold', 'keep food cold', 'keep food cold', 'chill food', 'chill food']",
+  "prediction": "refrigerate",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 3221435,
+  "question": "What sort of clouds are these?",
+  "gt_answers": "['storm', 'storm', 'storm', 'storm', 'storm', 'storm', 'cumulus', 'cumulus', 'strato cumulus', 'strato cumulus']",
+  "prediction": "storm",
+  "num_images": 2
+}

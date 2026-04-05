@@ -1,0 +1,7 @@
+{
+  "question_id": 941405,
+  "question": "What breed of dog is riding in the car?",
+  "gt_answers": "['german shepard', 'german shepard', 'german shepard', 'german shepard', 'german shepherd', 'german shepherd', 'german shepherd', 'german shepherd', 'labrador retriever', 'labrador retriever']",
+  "prediction": "German Shepherd",
+  "num_images": 2
+}

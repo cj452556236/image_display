@@ -1,0 +1,7 @@
+{
+  "question_id": 3940025,
+  "question": "Name the bike model shown in this picture?",
+  "gt_answers": "['yamaha', 'yamaha', 'yamaha', 'yamaha', 'yamaha', 'yamaha', 'dirtbike', 'dirtbike', 'motorcycle', 'motorcycle']",
+  "prediction": "Yamaha",
+  "num_images": 1
+}

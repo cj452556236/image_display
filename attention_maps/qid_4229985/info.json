@@ -1,0 +1,7 @@
+{
+  "question_id": 4229985,
+  "question": "Which of the condiment in the picture is a traditional burger fixing?",
+  "gt_answers": "['mustard', 'mustard', 'mustard', 'mustard', 'mustard', 'mustard', 'mayo', 'mayo', 'mayo', 'mayo']",
+  "prediction": "mustard",
+  "num_images": 2
+}

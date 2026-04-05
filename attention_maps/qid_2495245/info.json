@@ -1,0 +1,7 @@
+{
+  "question_id": 2495245,
+  "question": "Is it safe or unsafe in this park at night?",
+  "gt_answers": "['unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'unsafe', 'safe', 'safe']",
+  "prediction": "safe",
+  "num_images": 2
+}

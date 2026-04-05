@@ -1,0 +1,7 @@
+{
+  "question_id": 134905,
+  "question": "What ingredient is missing from the picture to make a pb and j sandwich?",
+  "gt_answers": "['jelly', 'jelly', 'jelly', 'jelly', 'jelly', 'jelly', 'jelly', 'jelly', 'jelly', 'jelly']",
+  "prediction": "jelly",
+  "num_images": 2
+}

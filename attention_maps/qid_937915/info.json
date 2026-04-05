@@ -1,0 +1,7 @@
+{
+  "question_id": 937915,
+  "question": "What style of architechture normally used these ornate arches and windows?",
+  "gt_answers": "['gothic', 'gothic', 'gothic', 'gothic', 'irish', 'irish', 'romanesque', 'romanesque', 'church', 'church']",
+  "prediction": "Gothic",
+  "num_images": 2
+}

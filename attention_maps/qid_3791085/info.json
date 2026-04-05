@@ -1,0 +1,7 @@
+{
+  "question_id": 3791085,
+  "question": "Is this a method of trasportation for her or is it simply for recreational purposes?",
+  "gt_answers": "['recreational', 'recreational', 'recreational', 'recreational', 'recreational', 'recreational', 'recreation', 'recreation', 'both', 'both']",
+  "prediction": "recreational",
+  "num_images": 1
+}

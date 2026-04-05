@@ -1,0 +1,7 @@
+{
+  "question_id": 586475,
+  "question": "What animal tries to attack persons doing this activity?",
+  "gt_answers": "['shark', 'shark', 'shark', 'shark', 'shark', 'shark', 'shark', 'shark', 'sharks', 'sharks']",
+  "prediction": "shark",
+  "num_images": 1
+}

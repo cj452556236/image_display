@@ -1,0 +1,7 @@
+{
+  "question_id": 4091165,
+  "question": "Why might someone need to be in the place of this photo?",
+  "gt_answers": "['sick', 'sick', 'sick', 'sick', 'sick', 'sick', 'sickness', 'sickness', 'they are sick', 'they are sick']",
+  "prediction": "sick",
+  "num_images": 1
+}

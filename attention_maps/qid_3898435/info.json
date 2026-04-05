@@ -1,0 +1,7 @@
+{
+  "question_id": 3898435,
+  "question": "What are the chairs made of?",
+  "gt_answers": "['leather and wood', 'leather and wood', 'leather and wood', 'leather and wood', 'plastic', 'plastic', 'wood and vinyl', 'wood and vinyl', 'wood', 'wood']",
+  "prediction": "wood",
+  "num_images": 2
+}

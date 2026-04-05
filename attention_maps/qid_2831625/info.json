@@ -1,0 +1,7 @@
+{
+  "question_id": 2831625,
+  "question": "What is this food called?",
+  "gt_answers": "['hoagie', 'hoagie', 'hoagie', 'hoagie', 'sandwich', 'sandwich', 'sandwhich', 'sandwhich', 'sub', 'sub']",
+  "prediction": "sandwich",
+  "num_images": 2
+}

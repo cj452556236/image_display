@@ -1,0 +1,7 @@
+{
+  "question_id": 101385,
+  "question": "How did the man extinguish one of the candles?",
+  "gt_answers": "['blowing', 'blowing', 'blowing', 'blowing', 'blow', 'blow', 'blowing on it', 'blowing on it', 'blew it out', 'blew it out']",
+  "prediction": "blow",
+  "num_images": 2
+}

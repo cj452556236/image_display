@@ -1,0 +1,7 @@
+{
+  "question_id": 2954125,
+  "question": "What kind of boat is this man making?",
+  "gt_answers": "['canoe', 'canoe', 'canoe', 'canoe', 'canoe', 'canoe', 'canoe', 'canoe', 'fishing', 'fishing']",
+  "prediction": "canoe",
+  "num_images": 2
+}

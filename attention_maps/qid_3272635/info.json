@@ -1,0 +1,7 @@
+{
+  "question_id": 3272635,
+  "question": "Name of the white flower in this photo?",
+  "gt_answers": "['lily', 'lily', 'lily', 'lily', 'orchid', 'orchid', 'petunia', 'petunia', 'oleander', 'oleander']",
+  "prediction": "lily",
+  "num_images": 2
+}

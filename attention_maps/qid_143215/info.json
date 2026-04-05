@@ -1,0 +1,7 @@
+{
+  "question_id": 143215,
+  "question": "What company is a famous manufacturer of these?",
+  "gt_answers": "['harley davidson', 'harley davidson', 'harley davidson', 'harley davidson', 'yamaha', 'yamaha', 'harley', 'harley', 'honda', 'honda']",
+  "prediction": "Harley-Davidson",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 2570845,
+  "question": "What is this boarders stance called?",
+  "gt_answers": "['regular', 'regular', 'regular', 'regular', 'grind', 'grind', 'grind', 'grind', 'goofy', 'goofy']",
+  "prediction": "grind",
+  "num_images": 2
+}

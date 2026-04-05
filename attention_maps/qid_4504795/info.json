@@ -1,0 +1,7 @@
+{
+  "question_id": 4504795,
+  "question": "What company do these buses work for?",
+  "gt_answers": "['volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'tour guide', 'tour guide', 'arriva', 'arriva']",
+  "prediction": "Arriva",
+  "num_images": 2
+}

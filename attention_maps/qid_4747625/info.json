@@ -1,0 +1,7 @@
+{
+  "question_id": 4747625,
+  "question": "Are these animals carnivorous herbivorous or omnivorous?",
+  "gt_answers": "['herbivorous', 'herbivorous', 'herbivorous', 'herbivorous', 'herbivorous', 'herbivorous', 'herbivorous', 'herbivorous', 'herbivores', 'herbivores']",
+  "prediction": "herbivorous",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 5283115,
+  "question": "What is this workspace called?",
+  "gt_answers": "['cubicle', 'cubicle', 'cubicle', 'cubicle', 'cubicle', 'cubicle', 'desk', 'desk', 'workstation', 'workstation']",
+  "prediction": "cubicle",
+  "num_images": 2
+}

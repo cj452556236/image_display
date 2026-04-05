@@ -1,0 +1,7 @@
+{
+  "question_id": 4228335,
+  "question": "What brand is this computer?",
+  "gt_answers": "['hp', 'hp', 'hp', 'hp', 'hp', 'hp', '', '', 'apple', 'apple']",
+  "prediction": "HP",
+  "num_images": 2
+}

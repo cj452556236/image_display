@@ -1,0 +1,7 @@
+{
+  "question_id": 5361665,
+  "question": "Name the place where these horses are seen in this picture?",
+  "gt_answers": "['ranch', 'ranch', 'ranch', 'ranch', 'ranch', 'ranch', 'ranch', 'ranch', 'field', 'field']",
+  "prediction": "ranch",
+  "num_images": 2
+}

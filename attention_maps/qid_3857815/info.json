@@ -1,0 +1,7 @@
+{
+  "question_id": 3857815,
+  "question": "What does the blue container sell?",
+  "gt_answers": "['newspapers', 'newspapers', 'newspapers', 'newspapers', 'newspapers', 'newspapers', 'newspaper', 'newspaper', 'newspaper', 'newspaper']",
+  "prediction": "newspapers",
+  "num_images": 2
+}

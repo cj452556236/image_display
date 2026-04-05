@@ -1,0 +1,7 @@
+{
+  "question_id": 3075115,
+  "question": "What year was this car manufactured?",
+  "gt_answers": "['1950', '1950', '1950', '1950', '1962', '1962', '1930s', '1930s', '1940', '1940']",
+  "prediction": "1950",
+  "num_images": 2
+}

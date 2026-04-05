@@ -1,0 +1,7 @@
+{
+  "question_id": 3441005,
+  "question": "How is this beverage made?",
+  "gt_answers": "['brewed', 'brewed', 'brewed', 'brewed', 'coffee maker', 'coffee maker', 'blender', 'blender', 'brewing', 'brewing']",
+  "prediction": "brewed",
+  "num_images": 2
+}

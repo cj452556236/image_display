@@ -1,0 +1,7 @@
+{
+  "question_id": 1083925,
+  "question": "What type of pastries in this image that has a hole in the midle and are round?",
+  "gt_answers": "['donuts', 'donuts', 'donuts', 'donuts', 'donuts', 'donuts', 'donut', 'donut', 'dounuts', 'dounuts']",
+  "prediction": "donuts",
+  "num_images": 2
+}

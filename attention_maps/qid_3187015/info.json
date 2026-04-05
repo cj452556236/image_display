@@ -1,0 +1,7 @@
+{
+  "question_id": 3187015,
+  "question": "Which furnishing seen here is of a type reminiscent of what is seen in some classrooms?",
+  "gt_answers": "['chair', 'chair', 'chair', 'chair', 'chair', 'chair', 'desk', 'desk', 'desk', 'desk']",
+  "prediction": "chair",
+  "num_images": 2
+}

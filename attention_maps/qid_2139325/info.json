@@ -1,0 +1,7 @@
+{
+  "question_id": 2139325,
+  "question": "What are you able to typically get out of the red container sitting upon the sidewalk in the background of this photo?",
+  "gt_answers": "['newspaper', 'newspaper', 'newspaper', 'newspaper', 'newspaper', 'newspaper', 'newspaper', 'newspaper', 'mail', 'mail']",
+  "prediction": "mail",
+  "num_images": 1
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 766195,
+  "question": "What type of program is playing on the tv?",
+  "gt_answers": "['talk show', 'talk show', 'talk show', 'talk show', 'news', 'news', 'news', 'news', 'late night talk', 'late night talk']",
+  "prediction": "news",
+  "num_images": 2
+}

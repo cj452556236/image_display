@@ -1,0 +1,7 @@
+{
+  "question_id": 2690585,
+  "question": "What position is this team member playing?",
+  "gt_answers": "['pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher', 'pitcher']",
+  "prediction": "pitcher",
+  "num_images": 2
+}

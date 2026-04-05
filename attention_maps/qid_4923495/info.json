@@ -1,0 +1,7 @@
+{
+  "question_id": 4923495,
+  "question": "What continent s is are this bird found on?",
+  "gt_answers": "['north america', 'north america', 'north america', 'north america', 'north america', 'north america', 'north america', 'north america', 'south america', 'south america']",
+  "prediction": "North America",
+  "num_images": 2
+}

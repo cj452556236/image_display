@@ -1,0 +1,7 @@
+{
+  "question_id": 15915,
+  "question": "What kind of monitor is shown?",
+  "gt_answers": "['crt', 'crt', 'crt', 'crt', 'computer', 'computer', 'television', 'television', 'tv', 'tv']",
+  "prediction": "television",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 980485,
+  "question": "What activity is taking place?",
+  "gt_answers": "['sailing', 'sailing', 'sailing', 'sailing', 'sailing', 'sailing', 'boating', 'boating', 'wind surfing', 'wind surfing']",
+  "prediction": "sailing",
+  "num_images": 1
+}

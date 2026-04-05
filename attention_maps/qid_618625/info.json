@@ -1,0 +1,7 @@
+{
+  "question_id": 618625,
+  "question": "What kind of camera is she using?",
+  "gt_answers": "['digital', 'digital', 'digital', 'digital', '35 mm', '35 mm', 'proffesional', 'proffesional', 'dslr', 'dslr']",
+  "prediction": "DSLR",
+  "num_images": 2
+}

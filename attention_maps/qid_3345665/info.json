@@ -1,0 +1,7 @@
+{
+  "question_id": 3345665,
+  "question": "What is this machine used for?",
+  "gt_answers": "['work', 'work', 'work', 'work', 'working', 'working', 'typing', 'typing', 'computing', 'computing']",
+  "prediction": "computing",
+  "num_images": 1
+}

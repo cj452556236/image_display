@@ -1,0 +1,7 @@
+{
+  "question_id": 1063305,
+  "question": "Where can i buy a bear similar to this one?",
+  "gt_answers": "['toy store', 'toy store', 'toy store', 'toy store', 'target', 'target', 'gundt', 'gundt', 'walmart', 'walmart']",
+  "prediction": "Toy store",
+  "num_images": 1
+}

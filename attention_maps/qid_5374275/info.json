@@ -1,0 +1,7 @@
+{
+  "question_id": 5374275,
+  "question": "What cartoon is on the side of the plane?",
+  "gt_answers": "['hello kitty', 'hello kitty', 'hello kitty', 'hello kitty', 'hello kitty', 'hello kitty', 'bart simpson', 'bart simpson', 'mickey mouse', 'mickey mouse']",
+  "prediction": "Hello Kitty",
+  "num_images": 2
+}

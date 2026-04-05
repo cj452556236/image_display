@@ -1,0 +1,7 @@
+{
+  "question_id": 2293835,
+  "question": "Is this illegal or legal?",
+  "gt_answers": "['legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal', 'legal']",
+  "prediction": "legal",
+  "num_images": 1
+}

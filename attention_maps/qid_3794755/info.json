@@ -1,0 +1,7 @@
+{
+  "question_id": 3794755,
+  "question": "What electronic devices are pictured here?",
+  "gt_answers": "['laptops', 'laptops', 'laptops', 'laptops', 'laptops', 'laptops', 'computer', 'computer', 'computers', 'computers']",
+  "prediction": "laptops",
+  "num_images": 2
+}

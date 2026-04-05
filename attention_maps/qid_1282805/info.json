@@ -1,0 +1,7 @@
+{
+  "question_id": 1282805,
+  "question": "What sates are these grown in?",
+  "gt_answers": "['florida california', 'florida california', 'florida california', 'florida california', 'california', 'california', 'california', 'california', 'florida', 'florida']",
+  "prediction": "Florida",
+  "num_images": 1
+}

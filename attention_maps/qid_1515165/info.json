@@ -1,0 +1,7 @@
+{
+  "question_id": 1515165,
+  "question": "What is the name of the bird in this picture?",
+  "gt_answers": "['eagle', 'eagle', 'eagle', 'eagle', 'eagle', 'eagle', 'eagle', 'eagle', 'hawk', 'hawk']",
+  "prediction": "hawk",
+  "num_images": 2
+}

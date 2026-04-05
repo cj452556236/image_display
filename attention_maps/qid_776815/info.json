@@ -1,0 +1,7 @@
+{
+  "question_id": 776815,
+  "question": "What are the round black things called that is used as a topping for this pizza in the photo?",
+  "gt_answers": "['olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives', 'olives']",
+  "prediction": "olives",
+  "num_images": 2
+}

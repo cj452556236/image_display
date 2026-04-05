@@ -1,0 +1,7 @@
+{
+  "question_id": 5069455,
+  "question": "What is the term for the effect used in this photo?",
+  "gt_answers": "['fisheye', 'fisheye', 'fisheye', 'fisheye', 'reflection', 'reflection', 'zoom', 'zoom', 'wide angle', 'wide angle']",
+  "prediction": "fisheye",
+  "num_images": 2
+}

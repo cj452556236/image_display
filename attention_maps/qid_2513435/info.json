@@ -1,0 +1,7 @@
+{
+  "question_id": 2513435,
+  "question": "Name the kind of lighting used in this kitchen shown?",
+  "gt_answers": "['overhead', 'overhead', 'overhead', 'overhead', 'led', 'led', 'lightbulb', 'lightbulb', 'underlighting', 'underlighting']",
+  "prediction": "overhead",
+  "num_images": 2
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": 1395,
+  "question": "What is the company that designs the television?",
+  "gt_answers": "['samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'samsung', 'lg', 'lg', 'sony', 'sony']",
+  "prediction": "Samsung",
+  "num_images": 2
+}

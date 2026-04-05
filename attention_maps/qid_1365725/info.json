@@ -1,0 +1,7 @@
+{
+  "question_id": 1365725,
+  "question": "How do you turn this on?",
+  "gt_answers": "['key', 'key', 'key', 'key', 'key', 'key', 'ignition', 'ignition', 'with key', 'with key']",
+  "prediction": "key",
+  "num_images": 1
+}

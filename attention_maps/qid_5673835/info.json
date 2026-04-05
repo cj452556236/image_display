@@ -1,0 +1,7 @@
+{
+  "question_id": 5673835,
+  "question": "What kind of birds are these?",
+  "gt_answers": "['toucans', 'toucans', 'toucans', 'toucans', 'pelican', 'pelican', 'pelicans', 'pelicans', 'condor', 'condor']",
+  "prediction": "pelicans",
+  "num_images": 2
+}

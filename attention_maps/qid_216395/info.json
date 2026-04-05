@@ -1,0 +1,7 @@
+{
+  "question_id": 216395,
+  "question": "What type of cake is this?",
+  "gt_answers": "['rainbow', 'rainbow', 'rainbow', 'rainbow', 'rainbow', 'rainbow', 'birthday', 'birthday', 'birthday', 'birthday']",
+  "prediction": "rainbow",
+  "num_images": 2
+}

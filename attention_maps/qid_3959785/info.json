@@ -1,0 +1,7 @@
+{
+  "question_id": 3959785,
+  "question": "Which airline has this insignia?",
+  "gt_answers": "['kuwait airways', 'kuwait airways', 'kuwait airways', 'kuwait airways', 'united', 'united', 'delta', 'delta', 'twa', 'twa']",
+  "prediction": "Kuwait Airways",
+  "num_images": 2
+}

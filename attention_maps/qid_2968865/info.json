@@ -1,0 +1,7 @@
+{
+  "question_id": 2968865,
+  "question": "The human rider on the horses are called what?",
+  "gt_answers": "['jockeys', 'jockeys', 'jockeys', 'jockeys', 'jockey', 'jockey', 'jockey', 'jockey', 'jocky', 'jocky']",
+  "prediction": "jockeys",
+  "num_images": 2
+}

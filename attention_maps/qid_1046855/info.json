@@ -1,0 +1,7 @@
+{
+  "question_id": 1046855,
+  "question": "What breed of horse is this?",
+  "gt_answers": "['race horse', 'race horse', 'racing', 'racing', 'arabian', 'arabian', 'race', 'race', 'thoroughbred', 'thoroughbred']",
+  "prediction": "Thoroughbred",
+  "num_images": 2
+}

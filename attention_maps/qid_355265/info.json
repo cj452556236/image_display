@@ -1,0 +1,7 @@
+{
+  "question_id": 355265,
+  "question": "Home bathroom or hotel bathroom?",
+  "gt_answers": "['home', 'home', 'home', 'home', 'home', 'home', 'home', 'home', 'hotel', 'hotel']",
+  "prediction": "Home",
+  "num_images": 1
+}

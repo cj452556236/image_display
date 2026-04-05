@@ -1,0 +1,7 @@
+{
+  "question_id": 5728995,
+  "question": "What god is supposedly the same animal as these towels?",
+  "gt_answers": "['ganesha', 'ganesha', 'ganesha', 'ganesha', 'vishna', 'vishna', 'zeus', 'zeus', 'dhali llama', 'dhali llama']",
+  "prediction": "Ganesha",
+  "num_images": 2
+}

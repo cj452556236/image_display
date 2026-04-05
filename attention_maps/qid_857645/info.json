@@ -1,0 +1,7 @@
+{
+  "question_id": 857645,
+  "question": "What type of vegetable is on the topmost portion of the plate?",
+  "gt_answers": "['bok choy', 'bok choy', 'bok choy', 'bok choy', 'lettuce', 'lettuce', 'kale', 'kale', 'alfalfa sprouts', 'alfalfa sprouts']",
+  "prediction": "bok choy",
+  "num_images": 2
+}

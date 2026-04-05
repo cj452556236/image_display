@@ -1,0 +1,7 @@
+{
+  "question_id": 3318835,
+  "question": "What kind of bed is that?",
+  "gt_answers": "['air mattress', 'air mattress', 'air mattress', 'air mattress', 'air mattress', 'air mattress', 'air mattress', 'air mattress', 'air', 'air']",
+  "prediction": "air mattress",
+  "num_images": 1
+}

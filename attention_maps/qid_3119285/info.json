@@ -1,0 +1,7 @@
+{
+  "question_id": 3119285,
+  "question": "How big is the ball used in this sport?",
+  "gt_answers": "['9.25 inches', '9.25 inches', '9.25 inches', '9.25 inches', '5 ounces', '5 ounces', '4inches diameter', '4inches diameter', 'small', 'small']",
+  "prediction": "small",
+  "num_images": 2
+}

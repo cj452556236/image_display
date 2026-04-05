@@ -1,0 +1,7 @@
+{
+  "question_id": 3896845,
+  "question": "What do the triangles on the back of this bus mean?",
+  "gt_answers": "['caution', 'caution', 'caution', 'caution', 'yield', 'yield', 'stop', 'stop', 'slow down and watch out for passengers', 'slow down and watch out for passengers']",
+  "prediction": "caution",
+  "num_images": 2
+}

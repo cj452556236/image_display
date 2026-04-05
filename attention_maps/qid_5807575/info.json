@@ -1,0 +1,7 @@
+{
+  "question_id": 5807575,
+  "question": "What is the colorful object used for?",
+  "gt_answers": "['putting out fires', 'putting out fires', 'putting out fires', 'putting out fires', 'water', 'water', 'water', 'water', 'fire', 'fire']",
+  "prediction": "fire",
+  "num_images": 1
+}
